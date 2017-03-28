@@ -1,0 +1,8 @@
+1490703045
+400 6
+LOCATIONS All connections.txt
+LOCATIONS Connections recommended use with Kodi.txt
+TEMPLATE.txt
+ca.crt
+ca_romania.crt
+ta.key

@@ -1,0 +1,6 @@
+1490705221
+400 4
+LOCATIONS tigerVPN Full Account.txt
+LOCATIONS tigerVPN Lite Account.txt
+TEMPLATE.txt
+ca.crt

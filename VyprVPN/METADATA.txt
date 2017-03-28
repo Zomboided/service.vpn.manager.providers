@@ -1,0 +1,7 @@
+1490706325
+400 5
+LOCATIONS Giganews Account.txt
+LOCATIONS VyprVPN Default Encryption.txt
+LOCATIONS VyprVPN Strong Encryption.txt
+TEMPLATE.txt
+ca.crt

@@ -1,0 +1,10 @@
+client
+nobind
+dev tun
+comp-lzo no
+auth-user-pass
+resolv-retry infinite
+persist-key
+persist-tun
+reneg-sec 0
+verb 3

@@ -1,0 +1,2 @@
+US,us.blackbox.belodedenko.me,udp,1194
+UK,gb.blackbox.belodedenko.me,udp,1194

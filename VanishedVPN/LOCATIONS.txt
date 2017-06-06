@@ -1,0 +1,6 @@
+Australia,aus.vanishedvpn.com,udp,1194
+P2P,p2p.vanishedvpn.com,udp,1194
+Sport,sport.vanishedvpn.com,udp,1194
+United Kingdom,uk.vanishedvpn.com,udp,1194
+United States,usa.vanishedvpn.com,udp,1194
+United States (TV),usatv.vanishedvpn.com,udp,1194

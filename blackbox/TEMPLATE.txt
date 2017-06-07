@@ -13,7 +13,10 @@ remote #SERVER #PORT
 auth-user-pass #PASS
 ca #CERT
 verb 3
-auth none
-cipher none
 compress lz4
+tun-mtu 1500
+mssfix
+fragment 1300
+cipher none
+auth none
 redirect-gateway def1 autolocal

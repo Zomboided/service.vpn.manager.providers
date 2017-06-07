@@ -16,3 +16,4 @@ verb 3
 auth none
 cipher none
 compress lz4
+redirect-gateway def1 autolocal

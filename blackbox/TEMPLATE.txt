@@ -13,4 +13,6 @@ remote #SERVER #PORT
 auth-user-pass #PASS
 ca #CERT
 verb 3
+auth none
+cipher none
 compress lz4

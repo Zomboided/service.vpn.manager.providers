@@ -1,2 +1,4 @@
-US,us.blackbox.belodedenko.me,udp,1194
-UK,gb.blackbox.belodedenko.me,udp,1194
+United States (UDP),us.blackbox.unzoner.com,udp,1194
+United States (TCP),us.blackbox.unzoner.com,tcp,1194
+United Kingdom (UDP),gb.blackbox.unzoner.com,udp,1194
+United Kingdom (TCP),gb.blackbox.unzoner.com,tcp,1194

@@ -10,6 +10,8 @@ persist-tun
 ns-cert-type server
 verb 1
 route-metric 1
+comp-lzo yes
+comp-noadapt
 cipher AES-256-CBC
 cert #USERCERT
 key #USERKEY

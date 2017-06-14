@@ -1,10 +1,13 @@
-client
-nobind
+ent
 dev tun
-comp-lzo no
-auth-user-pass
-resolv-retry infinite
+proto #PROTO
+remote #SERVER #PORT
+auth-user-pass #PASS
+nobind
+comp-lzo
 persist-key
 persist-tun
-reneg-sec 0
+ns-cert-type server
 verb 3
+resolv-retry infinite
+ca #CERT

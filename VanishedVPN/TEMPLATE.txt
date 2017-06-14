@@ -3,7 +3,6 @@ dev tun
 proto #PROTO
 remote #SERVER #PORT
 auth-user-pass #PASS
-dev tun
 nobind
 comp-lzo
 persist-key

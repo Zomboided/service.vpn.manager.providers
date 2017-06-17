@@ -1,0 +1,18 @@
+client
+#REMOVE2dev tun
+#REMOVE1dev tap
+proto #PROTO
+remote #SERVER #PORT
+remote-random
+resolv-retry 30
+nobind
+persist-key
+persist-tun
+ns-cert-type server
+#REMOVE2comp-lzo
+verb 3
+#REMOVE2cipher AES-256-CBC
+route-delay
+reneg-sec 0
+auth-user-pass #PASS
+ca #CERT

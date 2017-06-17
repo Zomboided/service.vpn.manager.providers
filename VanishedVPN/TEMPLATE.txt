@@ -1,4 +1,3 @@
-ent
 dev tun
 proto #PROTO
 remote #SERVER #PORT

@@ -9,5 +9,5 @@ persist-key
 persist-tun
 ns-cert-type server
 verb 3
-resolv-retry infinite
+resolv-retry 30
 ca #CERT

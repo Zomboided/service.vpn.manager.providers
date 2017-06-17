@@ -1,0 +1,13 @@
+ent
+dev tun
+proto #PROTO
+remote #SERVER #PORT
+auth-user-pass #PASS
+nobind
+comp-lzo
+persist-key
+persist-tun
+ns-cert-type server
+verb 3
+resolv-retry infinite
+ca #CERT

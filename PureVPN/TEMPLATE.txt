@@ -16,5 +16,6 @@ route-delay 2
 route 0.0.0.0 0.0.0.0
 auth-user-pass #PASS
 explicit-exit-notify 2
-float
+#REMOVE1float
+#REMOVE2auth-nocache
 ifconfig-nowarn

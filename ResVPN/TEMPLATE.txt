@@ -1,0 +1,12 @@
+client
+dev tun
+nobind
+remote #SERVER #PORT #PROTO
+auth-user-pass #PASS
+ns-cert-type server
+comp-lzo no
+verb 3
+ca #CERT
+cert #USERCERT
+key #USERKEY
+tls-auth #TLSKEY 1

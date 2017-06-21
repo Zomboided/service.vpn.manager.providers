@@ -1,0 +1,6 @@
+[
+    {"name": "default", "value": ["*"]},
+    {"name": "group1", "value": ["IPVanish", "NordVPN", "HMA", "PIA", "ExpressVPN"]},
+    {"name": "group2", "value": ["IPVanish"]},
+    {"name": "group3", "value": ["NordVPN"]}
+]

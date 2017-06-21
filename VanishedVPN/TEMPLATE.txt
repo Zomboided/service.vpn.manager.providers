@@ -7,7 +7,7 @@ nobind
 comp-lzo
 persist-key
 persist-tun
-ns-cert-type server
+remote-cert-tls server
 verb 3
 resolv-retry infinite
 ca #CERT

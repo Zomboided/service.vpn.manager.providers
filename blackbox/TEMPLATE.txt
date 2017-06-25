@@ -1,0 +1,26 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; visit http://unzoner.com/ for more information ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+client
+float
+dev tun
+nobind
+persist-key
+persist-tun
+reneg-sec 0
+connect-retry-max 3
+resolv-retry infinite
+mute-replay-warnings
+proto #PROTO
+remote #SERVER #PORT 
+auth-user-pass #PASS
+ca #CERT
+verb 3
+compress lz4
+#REMOVE1tun-mtu 1500
+#REMOVE1mssfix
+#REMOVE1fragment 1300
+cipher none
+auth none
+redirect-gateway def1 autolocal

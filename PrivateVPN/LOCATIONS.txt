@@ -1,78 +1,98 @@
-Austria - Wien (UDP),at-wie.privatevpn.com,udp,53,#REMOVE=1
-Austria - Wien (TCP),at-wie.privatevpn.com,tcp,443,#REMOVE=2
-Australia - Sydney (UDP),au-syd.privatevpn.com,udp,53,#REMOVE=1
-Australia - Sydney (TCP),au-syd.privatevpn.com,tcp,443,#REMOVE=2
-Belgium - Brussels (UDP),be-bru.privatevpn.com,udp,53,#REMOVE=1
-Belgium - Brussels (TCP),be-bru.privatevpn.com,tcp,443,#REMOVE=2
-Brazil - Sao Paulo (UDP),br-sau.privatevpn.com,udp,53,#REMOVE=1
-Brazil - Sao Paulo (TCP),br-sau.privatevpn.com,tcp,443,#REMOVE=2
-Canada - Toronto (UDP),ca-tor.privatevpn.com,udp,53,#REMOVE=1
-Canada - Toronto (TCP),ca-tor.privatevpn.com,tcp,443,#REMOVE=2
-Switzerland - Zurich (UDP),ch-zur.privatevpn.com,udp,53,#REMOVE=1
-Switzerland - Zurich (TCP),ch-zur.privatevpn.com,tcp,443,#REMOVE=2
-Czech Republic - Prague (UDP),cz-pra.privatevpn.com,udp,53,#REMOVE=1
-Czech Republic - Prague (TCP),cz-pra.privatevpn.com,tcp,443,#REMOVE=2
-Germany - Frankfurt 1 (UDP),de-fra1.privatevpn.com,udp,53,#REMOVE=1
-Germany - Frankfurt 1 (TCP),de-fra1.privatevpn.com,tcp,443,#REMOVE=2
-Germany - Frankfurt 2 (UDP),de-fra2.privatevpn.com,udp,53,#REMOVE=1
-Germany - Frankfurt 2 (TCP),de-fra2.privatevpn.com,tcp,443,#REMOVE=2
-Denmark - Copenhagen (UDP),dk-cop.privatevpn.com,udp,53,#REMOVE=1
-Denmark - Copenhagen (TCP),dk-cop.privatevpn.com,tcp,443,#REMOVE=2
-Spain - Madrid (UDP),es-mad.privatevpn.com,udp,53,#REMOVE=1
-Spain - Madrid (TCP),es-mad.privatevpn.com,tcp,443,#REMOVE=2
-Finland - Helsinki (UDP),fi-hel.privatevpn.com,udp,53,#REMOVE=1
-Finland - Helsinki (TCP),fi-hel.privatevpn.com,tcp,443,#REMOVE=2
-France - Paris (UDP),fr-par.privatevpn.com,udp,53,#REMOVE=1
-France - Paris (TCP),fr-par.privatevpn.com,tcp,443,#REMOVE=2
-Hong Kong - Hong Kong (UDP),hk-hon.privatevpn.com,udp,53,#REMOVE=1
-Hong Kong - Hong Kong (TCP),hk-hon.privatevpn.com,tcp,443,#REMOVE=2
-Hungary - Budapest (UDP),hu-bud.privatevpn.com,udp,53,#REMOVE=1
-Hungary - Budapest (TCP),hu-bud.privatevpn.com,tcp,443,#REMOVE=2
-Italy - Milan (UDP),it-mil.privatevpn.com,udp,53,#REMOVE=1
-Italy - Milan (TCP),it-mil.privatevpn.com,tcp,443,#REMOVE=2
-Japan - Tokyo (UDP),jp-tok.privatevpn.com,udp,53,#REMOVE=1
-Japan - Tokyo (TCP),jp-tok.privatevpn.com,tcp,443,#REMOVE=2
-South Korea - Seoul (UDP),kr-seo.privatevpn.com,udp,53,#REMOVE=1
-South Korea - Seoul (TCP),kr-seo.privatevpn.com,tcp,443,#REMOVE=2
-Lithuania - Siauliai (UDP),lt-sia.privatevpn.com,udp,53,#REMOVE=1
-Lithuania - Siauliai (TCP),lt-sia.privatevpn.com,tcp,443,#REMOVE=2
-Luxembourg - Steinsel (UDP),lu-ste.privatevpn.com,udp,53,#REMOVE=1
-Luxembourg - Steinsel (TCP),lu-ste.privatevpn.com,tcp,443,#REMOVE=2
-Mexico - Mexico City (UDP),mx-mex.privatevpn.com,udp,53,#REMOVE=1
-Mexico - Mexico City (TCP),mx-mex.privatevpn.com,tcp,443,#REMOVE=2
-Netherlands - Amsterdam 1 (UDP),nl-ams1.privatevpn.com,udp,53,#REMOVE=1
-Netherlands - Amsterdam 1 (TCP),nl-ams1.privatevpn.com,tcp,443,#REMOVE=2
-Netherlands - Amsterdam 2 (UDP),nl-ams2.privatevpn.com,udp,53,#REMOVE=1
-Netherlands - Amsterdam 2 (TCP),nl-ams2.privatevpn.com,tcp,443,#REMOVE=2
-Norway - Oslo (UDP),no-osl.privatevpn.com,udp,53,#REMOVE=1
-Norway - Oslo (TCP),no-osl.privatevpn.com,tcp,443,#REMOVE=2
-Poland - Warsaw (UDP),pl-war.privatevpn.com,udp,53,#REMOVE=1
-Poland - Warsaw (TCP),pl-war.privatevpn.com,tcp,443,#REMOVE=2
-Romania - Bukarest (UDP),ro-buk.privatevpn.com,udp,53,#REMOVE=1
-Romania - Bukarest (TCP),ro-buk.privatevpn.com,tcp,443,#REMOVE=2
-Russia - St Petersburg (UDP),ru-pet.privatevpn.com,udp,53,#REMOVE=1
-Russia - St Petersburg (TCP),ru-pet.privatevpn.com,tcp,443,#REMOVE=2
-Sweden - Kista (UDP),se-kis.privatevpn.com,udp,53,#REMOVE=1
-Sweden - Kista (TCP),se-kis.privatevpn.com,tcp,443,#REMOVE=2
-Sweden - Stockholm (UDP),se-sto.privatevpn.com,udp,53,#REMOVE=1
-Sweden - Stockholm (TCP),se-sto.privatevpn.com,tcp,443,#REMOVE=2
-Singapore - Singapore (UDP),sg-sin.privatevpn.com,udp,53,#REMOVE=1
-Singapore - Singapore (TCP),sg-sin.privatevpn.com,tcp,443,#REMOVE=2
-Ukraine - Kiev (UDP),ua-kie.privatevpn.com,udp,53,#REMOVE=1
-Ukraine - Kiev (TCP),ua-kie.privatevpn.com,tcp,443,#REMOVE=2
-United Kingdom - London 1 (UDP),uk-lon1.privatevpn.com,udp,53,#REMOVE=1
-United Kingdom - London 1 (TCP),uk-lon1.privatevpn.com,tcp,443,#REMOVE=2
-United Kingdom - London 2 (UDP),uk-lon2.privatevpn.com,udp,53,#REMOVE=1
-United Kingdom - London 2 (TCP),uk-lon2.privatevpn.com,tcp,443,#REMOVE=2
-United States - Buffalo (UDP),us-buf.privatevpn.com,udp,53,#REMOVE=1
-United States - Buffalo (TCP),us-buf.privatevpn.com,tcp,443,#REMOVE=2
-United States - Chicago (UDP),us-chi.privatevpn.com,udp,53,#REMOVE=1
-United States - Chicago (TCP),us-chi.privatevpn.com,tcp,443,#REMOVE=2
-United States - Dallas (UDP),us-dal.privatevpn.com,udp,53,#REMOVE=1
-United States - Dallas (TCP),us-dal.privatevpn.com,tcp,443,#REMOVE=2
-United States - Los Angeles (UDP),us-los.privatevpn.com,udp,53,#REMOVE=1
-United States - Los Angeles (TCP),us-los.privatevpn.com,tcp,443,#REMOVE=2
-United States - Miami (UDP),us-mia.privatevpn.com,udp,53,#REMOVE=1
-United States - Miami (TCP),us-mia.privatevpn.com,tcp,443,#REMOVE=2
-United States - New York (UDP),us-nyc.privatevpn.com,udp,53,#REMOVE=1
-United States - New York (TCP),us-nyc.privatevpn.com,tcp,443,#REMOVE=2
+Argentina - Buenos Aires (UDP),ar-bue.privatevpn.com,udp,1194
+Argentina - Buenos Aires (TCP),ar-bue.privatevpn.com,tcp-client,443
+Austria - Wien (UDP),at-wie.privatevpn.com,udp,1194
+Austria - Wien (TCP),at-wie.privatevpn.com,tcp-client,443
+Australia - Sydney (UDP),au-syd.privatevpn.com,udp,1194
+Australia - Sydney (TCP),au-syd.privatevpn.com,tcp-client,443
+Belgium - Brussels (UDP),be-bru.privatevpn.com,udp,1194
+Belgium - Brussels (TCP),be-bru.privatevpn.com,tcp-client,443
+Bulgaria - Sofia (UDP),bg-sof.privatevpn.com,udp,1194
+Bulgaria - Sofia (TCP),bg-sof.privatevpn.com,tcp-client,443
+Brazil - Sao Paulo (UDP),br-sau.privatevpn.com,udp,1194
+Brazil - Sao Paulo (TCP),br-sau.privatevpn.com,tcp-client,443
+Canada - Toronto (UDP),ca-tor.privatevpn.com,udp,1194
+Canada - Toronto (TCP),ca-tor.privatevpn.com,tcp-client,443
+Switzerland - Zurich (UDP),ch-zur.privatevpn.com,udp,1194
+Switzerland - Zurich (TCP),ch-zur.privatevpn.com,tcp-client,443
+Colombia - Bogotá (UDP),co-bog.privatevpn.com,udp,1194
+Colombia - Bogotá (TCP),ca-tor.privatevpn.com,tcp-client,443
+Czech Republic - Prague (UDP),cz-pra.privatevpn.com,udp,1194
+Czech Republic - Prague (TCP),cz-pra.privatevpn.com,tcp-client,443
+Germany - Frankfurt 1 (UDP),de-fra1.privatevpn.com,udp,1194
+Germany - Frankfurt 1 (TCP),de-fra1.privatevpn.com,tcp-client,443
+Germany - Frankfurt 2 (UDP),de-fra2.privatevpn.com,udp,1194
+Germany - Frankfurt 2 (TCP),de-fra2.privatevpn.com,tcp-client,443
+Denmark - Copenhagen (UDP),dk-cop.privatevpn.com,udp,1194
+Denmark - Copenhagen (TCP),dk-cop.privatevpn.com,tcp-client,443
+Spain - Madrid (UDP),es-mad.privatevpn.com,udp,1194
+Spain - Madrid (TCP),es-mad.privatevpn.com,tcp-client,443
+Finland - Helsinki (UDP),fi-hel.privatevpn.com,udp,1194
+Finland - Helsinki (TCP),fi-hel.privatevpn.com,tcp-client,443
+France - Paris (UDP),fr-par.privatevpn.com,udp,1194
+France - Paris (TCP),fr-par.privatevpn.com,tcp-client,443
+Greece - Athens (UDP),gr-ath.privatevpn.com,udp,1194
+Greece - Athens (TCP),gr-ath.privatevpn.com,tcp-client,443
+Hong Kong - Hong Kong (UDP),hk-hon.privatevpn.com,udp,1194
+Hong Kong - Hong Kong (TCP),hk-hon.privatevpn.com,tcp-client,443
+Hungary - Budapest (UDP),hu-bud.privatevpn.com,udp,1194
+Hungary - Budapest (TCP),hu-bud.privatevpn.com,tcp-client,443
+India - Pune (UDP),in-pun.privatevpn.com,udp,1194
+India - Pune (TCP),in-pun.privatevpn.com,tcp-client,443
+Iceland - Reykjavik (UDP),ar-bue.privatevpn.com,udp,1194
+Iceland - Reykjavik (TCP),ar-bue.privatevpn.com,tcp-client,443
+Italy - Milan (UDP),it-mil.privatevpn.com,udp,1194
+Italy - Milan (TCP),it-mil.privatevpn.com,tcp-client,443
+Japan - Tokyo (UDP),jp-tok.privatevpn.com,udp,1194
+Japan - Tokyo (TCP),jp-tok.privatevpn.com,tcp-client,443
+South Korea - Seoul (UDP),kr-seo.privatevpn.com,udp,1194
+South Korea - Seoul (TCP),kr-seo.privatevpn.com,tcp-client,443
+Lithuania - Siauliai (UDP),lt-sia.privatevpn.com,udp,1194
+Lithuania - Siauliai (TCP),lt-sia.privatevpn.com,tcp-client,443
+Luxembourg - Steinsel (UDP),lu-ste.privatevpn.com,udp,1194
+Luxembourg - Steinsel (TCP),lu-ste.privatevpn.com,tcp-client,443
+Mexico - Mexico City (UDP),mx-mex.privatevpn.com,udp,1194
+Mexico - Mexico City (TCP),mx-mex.privatevpn.com,tcp-client,443
+Malaysia - Kuala Lumpur (UDP),my-kua.privatevpn.com,udp,1194
+Malaysia - Kuala Lumpur (TCP),my-kua.privatevpn.com,tcp-client,443
+Netherlands - Amsterdam 1 (UDP),nl-ams1.privatevpn.com,udp,1194
+Netherlands - Amsterdam 1 (TCP),nl-ams1.privatevpn.com,tcp-client,443
+Netherlands - Amsterdam 2 (UDP),nl-ams2.privatevpn.com,udp,1194
+Netherlands - Amsterdam 2 (TCP),nl-ams2.privatevpn.com,tcp-client,443
+Norway - Oslo (UDP),no-osl.privatevpn.com,udp,1194
+Norway - Oslo (TCP),no-osl.privatevpn.com,tcp-client,443
+Poland - Warsaw (UDP),pl-war.privatevpn.com,udp,1194
+Poland - Warsaw (TCP),pl-war.privatevpn.com,tcp-client,443
+Portugal - Lisbon (UDP),pt-lis.privatevpn.com,udp,1194
+Portugal - Lisbon (TCP),pt-lis.privatevpn.com,tcp-client,443
+Romania - Bukarest (UDP),ro-buk.privatevpn.com,udp,1194
+Romania - Bukarest (TCP),ro-buk.privatevpn.com,tcp-client,443
+Russia - St Petersburg (UDP),ru-pet.privatevpn.com,udp,1194
+Russia - St Petersburg (TCP),ru-pet.privatevpn.com,tcp-client,443
+Sweden - Kista (UDP),se-kis.privatevpn.com,udp,1194
+Sweden - Kista (TCP),se-kis.privatevpn.com,tcp-client,443
+Sweden - Stockholm (UDP),se-sto.privatevpn.com,udp,1194
+Sweden - Stockholm (TCP),se-sto.privatevpn.com,tcp-client,443
+Singapore - Singapore (UDP),sg-sin.privatevpn.com,udp,1194
+Singapore - Singapore (TCP),sg-sin.privatevpn.com,tcp-client,443
+Slovakia - Bratislava (UDP),sk-bra.privatevpn.com,udp,1194
+Slovakia - Bratislava (TCP),sg-sin.privatevpn.com,tcp-client,443
+Ukraine - Kiev (UDP),ua-kie.privatevpn.com,udp,1194
+Ukraine - Kiev (TCP),ua-kie.privatevpn.com,tcp-client,443
+United Kingdom - London 1 (UDP),uk-lon1.privatevpn.com,udp,1194
+United Kingdom - London 1 (TCP),uk-lon1.privatevpn.com,tcp-client,443
+United Kingdom - London 2 (UDP),uk-lon2.privatevpn.com,udp,1194
+United Kingdom - London 2 (TCP),uk-lon2.privatevpn.com,tcp-client,443
+United States - Buffalo (UDP),us-buf.privatevpn.com,udp,1194
+United States - Buffalo (TCP),us-buf.privatevpn.com,tcp-client,443
+United States - Chicago (UDP),us-chi.privatevpn.com,udp,1194
+United States - Chicago (TCP),us-chi.privatevpn.com,tcp-client,443
+United States - Dallas (UDP),us-dal.privatevpn.com,udp,1194
+United States - Dallas (TCP),us-dal.privatevpn.com,tcp-client,443
+United States - Los Angeles (UDP),us-los.privatevpn.com,udp,1194
+United States - Los Angeles (TCP),us-los.privatevpn.com,tcp-client,443
+United States - Miami (UDP),us-mia.privatevpn.com,udp,1194
+United States - Miami (TCP),us-mia.privatevpn.com,tcp-client,443
+United States - New York (UDP),us-nyc.privatevpn.com,udp,1194
+United States - New York (TCP),us-nyc.privatevpn.com,tcp-client,443
+South Africa - Johannesburg (UDP),za-joh.privatevpn.com,udp,1194
+South Africa - Johannesburg (TCP),us-nyc.privatevpn.com,tcp-client,443

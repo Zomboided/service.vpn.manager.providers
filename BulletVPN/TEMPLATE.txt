@@ -1,0 +1,21 @@
+client
+dev tun
+proto #PROTO
+remote #SERVER #PORT
+resolv-retry 30
+nobind
+tun-mtu 1500
+tun-mtu-extra 32
+mssfix 1300
+persist-key
+persist-tun
+key-direction 1
+mute 10
+auth-user-pass #PASS
+comp-lzo
+verb 3
+pull
+fast-io
+cipher AES-256-CBC
+ca #CERT
+tls-auth #TLSKEY

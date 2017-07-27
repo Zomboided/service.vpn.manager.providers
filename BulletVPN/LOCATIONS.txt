@@ -1,0 +1,62 @@
+Australia - Sydney (TCP),syd01.bulletvpn.com,tcp,443
+Australia - Sydney (UDP),syd01.bulletvpn.com,udp,1194
+Brazil - Sao Paolo (TCP),sao01.bulletvpn.com,tcp,443
+Brazil - Sao Paolo (UDP),sao01.bulletvpn.com,udp,1194
+Canada - Toronto (TCP),tor01.bulletvpn.com,tcp,443
+Canada - Toronto (UDP),tor01.bulletvpn.com,udp,1194
+Germany - Frankfurt 1 (TCP),fra01.bulletvpn.com,tcp,443
+Germany - Frankfurt 1 (UDP),fra01.bulletvpn.com,udp,1194
+Germany - Frankfurt 2 (TCP),fra02.bulletvpn.com,tcp,443
+Germany - Frankfurt 2 (UDP),fra02.bulletvpn.com,udp,1194
+Denmark - Copenhagen (TCP),cop01.bulletvpn.com,tcp,443
+Denmark - Copenhagen (UDP),cop01.bulletvpn.com,udp,1194
+Spain - Valencia (TCP),val01.bulletvpn.com,tcp,443
+Spain - Valencia (UDP),val01.bulletvpn.com,udp,1194
+Finland - Helsinki (TCP),hel01.bulletvpn.com,tcp,443
+Finland - Helsinki (UDP),hel01.bulletvpn.com,udp,1194
+France - Paris (TCP),par01.bulletvpn.com,tcp,443
+France - Paris (UDP),par01.bulletvpn.com,udp,1194
+United Kingdom - London 1 (TCP),lon01.bulletvpn.com,tcp,443
+United Kingdom - London 1 (UDP),lon01.bulletvpn.com,udp,1194
+United Kingdom - London 2 (TCP),lon02.bulletvpn.com,tcp,443
+United Kingdom - London 2 (UDP),lon02.bulletvpn.com,udp,1194
+India - Pune (TCP),pun01.bulletvpn.com,tcp,443
+India - Pune (UDP),pun01.bulletvpn.com,udp,1194
+Italy - Milan (TCP),mil01.bulletvpn.com,tcp,443
+Italy - Milan (UDP),mil01.bulletvpn.com,udp,1194
+Japan - Tokyo (TCP),tok01.bulletvpn.com,tcp,443
+Japan - Tokyo (UDP),tok01.bulletvpn.com,udp,1194
+South Korea - Seoul (TCP),seo01.bulletvpn.com,tcp,443
+South Korea - Seoul (UDP),seo01.bulletvpn.com,udp,1194
+Mexico - Queretaro (TCP),que01.bulletvpn.com,tcp,443
+Mexico - Queretaro (UDP),que01.bulletvpn.com,udp,1194
+Netherlands - Amsterdam (TCP),ams01.bulletvpn.com,tcp,443
+Netherlands - Amsterdam (UDP),ams01.bulletvpn.com,udp,1194
+New Zealand - Auckland 3 (TCP),auc03.bulletvpn.com,tcp,443
+New Zealand - Auckland 3 (UDP),auc03.bulletvpn.com,udp,1194
+Romania - Arad (TCP),ara01.bulletvpn.com,tcp,443
+Romania - Arad (UDP),ara01.bulletvpn.com,udp,1194
+Russia - Moscow (TCP),mos01.bulletvpn.com,tcp,443
+Russia - Moscow (UDP),mos01.bulletvpn.com,udp,1194
+Saudi Arabia - Riyadh (TCP),riy01.bulletvpn.com,tcp,443
+Saudi Arabia - Riyadh (UDP),riy01.bulletvpn.com,udp,1194
+Sweden - Stockholm (TCP),sto01.bulletvpn.com,tcp,443
+Sweden - Stockholm (UDP),sto01.bulletvpn.com,udp,1194
+United States - Atlanta (TCP),atl01.bulletvpn.com,tcp,443
+United States - Atlanta (UDP),atl01.bulletvpn.com,udp,1194
+United States - Colorado Springs (TCP),col01.bulletvpn.com,tcp,443
+United States - Colorado Springs (UDP),col01.bulletvpn.com,udp,1194
+United States - Lake Geneva (TCP),lge01.bulletvpn.com,tcp,443
+United States - Lake Geneva (UDP),lge01.bulletvpn.com,udp,1194
+United States - Manassas (TCP),man01.bulletvpn.com,tcp,443
+United States - Manassas (UDP),man01.bulletvpn.com,udp,1194
+United States - New York City 1 (TCP),nyc01.bulletvpn.com,tcp,443
+United States - New York City 1 (UDP),nyc01.bulletvpn.com,udp,1194
+United States - New York City 2 (TCP),nyc02.bulletvpn.com,tcp,443
+United States - New York City 2 (UDP),nyc02.bulletvpn.com,udp,1194
+United States - Portland (TCP),por01.bulletvpn.com,tcp,443
+United States - Portland (UDP),por01.bulletvpn.com,udp,1194
+United States - Salt Lake City (TCP),slc01.bulletvpn.com,tcp,443
+United States - Salt Lake City (UDP),slc01.bulletvpn.com,udp,1194
+South Africa - Johanesburg (TCP),joh01.bulletvpn.com,tcp,443
+South Africa - Johanesburg (UDP),joh01.bulletvpn.com,udp,1194

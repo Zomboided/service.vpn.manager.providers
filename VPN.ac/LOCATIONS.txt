@@ -82,3 +82,11 @@ US-West San-Jose (TCP),us9.vpn.ac us9.vpn.ac us9.vpn.ac us9.vpn.ac,tcp,12200 260
 US-West San-Jose (UDP),us9.vpn.ac us9.vpn.ac us9.vpn.ac us9.vpn.ac,udp,12200 26000 88 53
 US-West Seattle (TCP),us5.vpn.ac us5.vpn.ac us5.vpn.ac us5.vpn.ac,tcp,12200 26000 88 80
 US-West Seattle (UDP),us5.vpn.ac us5.vpn.ac us5.vpn.ac us5.vpn.ac,udp,12200 26000 88 53
+US-West Los-Angeles 4 CHINA (TCP),us15.visitchina.pw us15.visitchina.pw us15.visitchina.pw us15.visitchina.pw,tcp,12200 26000 88 80
+US-West Los-Angeles 4 CHINA (UDP),us15.visitchina.pw us15.visitchina.pw us15.visitchina.pw us15.visitchina.pw,udp,12200 26000 88 53
+US-West Los-Angeles 5 CHINA (TCP),us16.visitchina.pw us16.visitchina.pw us16.visitchina.pw us16.visitchina.pw,tcp,12200 26000 88 80
+US-West Los-Angeles 5 CHINA (UDP),us16.visitchina.pw us16.visitchina.pw us16.visitchina.pw us16.visitchina.pw,udp,12200 26000 88 53
+Germany CHINA (TCP),de1-cn2.visitchina.pw de1-cn2.visitchina.pw de1-cn2.visitchina.pw de1-cn2.visitchina.pw,tcp,12200 26000 88 80
+Germany CHINA (UDP),de1-cn2.visitchina.pw de1-cn2.visitchina.pw de1-cn2.visitchina.pw de1-cn2.visitchina.pw,udp,12200 26000 88 53
+Hong Kong 2 CHINA (TCP),hk2.visitchina.pw hk2.visitchina.pw hk2.visitchina.pw hk2.visitchina.pw,tcp,12200 26000 88 80
+Hong Kong 2 CHINA (UDP),hk2.visitchina.pw hk2.visitchina.pw hk2.visitchina.pw hk2.visitchina.pw,udp,12200 26000 88 53

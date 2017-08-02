@@ -1,6 +1,7 @@
-1490705554
-400 4
-LOCATIONS.txt
+1501710845
+400 6
+LOCATIONS China Connections.txt
+LOCATIONS Standard Connections.txt
 TEMPLATE.txt
 ca.crt
 ta.key

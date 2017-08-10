@@ -1,44 +1,22 @@
 Europe 10 (UDP),95.211.153.84,udp,1195
-Europe 10 (TCP),95.211.153.84,tcp,80
 Europe 11 (UDP),5.2.70.154,udp,1195
-Europe 11 (TCP),5.2.70.154,tcp,80
 Hong Kong 2 (UDP),176.126.72.120,udp,1195
-Hong Kong 2 (TCP),176.126.72.120,tcp,80
 India 1 (UDP),139.59.6.33,udp,1195
-India 1 (TCP),139.59.6.33,tcp,80
 Japan  (UDP),108.61.201.208,udp,1195
-Japan  (TCP),108.61.201.208,tcp,80
 London (UDP),185.59.221.135,udp,1195
-London (TCP),185.59.221.135,tcp,80
 Netherlands 1 (UDP),128.199.57.222,udp,1195
-Netherlands 1 (TCP),128.199.57.222,tcp,80
 Netherlands 2 (UDP),188.166.86.177,udp,1195
-Netherlands 2 (TCP),188.166.86.177,tcp,80
 New York (UDP),185.59.223.157,udp,1195
-New York (TCP),185.59.223.157,tcp,80
 Singapore  (UDP),128.199.186.214,udp,1195
-Singapore  (TCP),128.199.186.214,tcp,80
 Singapore 1 (UDP),188.166.222.44,udp,1195
-Singapore 1 (TCP),188.166.222.44,tcp,80
 Sweden 1 (UDP),31.220.15.183,udp,1195
-Sweden 1 (TCP),31.220.15.183,tcp,80
 United Kingdom 2 (UDP),104.238.171.89,udp,1195
-United Kingdom 2 (TCP),104.238.171.89,tcp,80
 United Kingdom 3 (UDP),185.10.202.246,udp,1195
-United Kingdom 3 (TCP),185.10.202.246,tcp,80
 United States 1 (UDP),198.199.82.197,udp,1195
-United States 1 (TCP),198.199.82.197,tcp,80
 United States 11 (UDP),208.94.241.226,udp,1195
-United States 11 (TCP),208.94.241.226,tcp,80
 United States 12 (UDP),64.251.30.95,udp,1195
-United States 12 (TCP),64.251.30.95,tcp,80
 United States 2 (UDP),107.170.231.171,udp,1195
-United States 2 (TCP),107.170.231.171,tcp,80
 United States 3 (UDP),108.61.216.42,udp,1195
-United States 3 (TCP),108.61.216.42,tcp,80
 United States 4 (UDP),45.63.67.4,udp,1195
-United States 4 (TCP),45.63.67.4,tcp,80
 United States 5 (UDP),104.238.180.135,udp,1195
-United States 5 (TCP),104.238.180.135,tcp,80
 United States 6 (UDP),104.207.156.53,udp,1195
-United States 6 (TCP),104.207.156.53,tcp,80

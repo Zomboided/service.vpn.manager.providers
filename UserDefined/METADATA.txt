@@ -1,3 +1,34 @@
 4,resolv-retry,30
 1,remote,ivacy
-5,privateinternetaccess.com,PIA is supported natively - consider using that instead.
+5,airdns.org,AirVPN is supported natively - consider using that instead.
+5,black.box.unzoner.com,black.box is supported natively - consider using that instead.
+5,btguard.com,BTGuard is supported natively - consider using that instead.
+5,bulletvpn.com,BulletVPN is supported natively - consider using that instead.
+5,celo.net,Celo is supported natively - consider using that instead.
+5,cg-dialup.net,CyberGhost is supported natively - consider using that instead.
+5,expressnetw.com,ExpressVPN is supported natively - consider using that instead.
+5,hide.me,Hide.Me is supported natively - consider using that instead.
+5,hma.rocks,Hide My Ass is supported natively - consider using that instead.
+5,ibvpn.com,Invisible Browsing is supported natively - consider using that instead.
+5,ipvanish.com,IPVanish is supported natively - consider using that instead.
+5,ivpn.net,IVPN is supported natively - consider using that instead.
+5,perfect-privacy.com,Perfect Privacy is supported natively - consider using that instead.
+5,privateinternetaccess.com,Private Internet Access is supported natively - consider using that instead.
+5,proxpn.com,proXPN is supported natively - consider using that instead.
+5,pointtoserver.com,PureVPN is supported natively - consider using that instead.
+5,ra4wvpn.com,RA4W VPN is supported natively - consider using that instead.
+5,safervpn.com,SaferVPN is supported natively - consider using that instead.
+5,smart.serverlocation.co,Smart DNS Proxy is supported natively - consider using that instead.
+5,tigervpn.com,tigerVPN is supported natively - consider using that instead.
+5,torguardvpnaccess.com,TorGuard is supported natively - consider using that instead.
+5,unifiedvpn.com,TotalVPN is supported natively - consider using that instead.
+5,vanishedvpn.com,Vanished VPN is supported natively - consider using that instead.
+5,visitchina.pw,VPN.ac is supported natively - consider using that instead.
+5,vpn.ac,VPN.ac is supported natively - consider using that instead.
+5,vpn.ht,VPN.ht is supported natively - consider using that instead.
+5,isponeder.com,VPNSecure is supported natively - consider using that instead.
+5,vpnunlimitedapp.com,VPN Unlimited is supported natively - consider using that instead.
+5,giganews.com,Giganews is supported natively via VyprVPN - consider using that instead.
+5,vyprvpn.com,VyprVPN is supported natively - consider using that instead.
+5,windscribe.com,Windscribe is supported natively - consider using that instead.
+5,witopia.net,Witopia is supported natively - consider using that instead.

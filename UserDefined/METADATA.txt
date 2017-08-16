@@ -1,2 +1,3 @@
 4,resolv-retry,30
 1,remote,ivacy
+5,privateinternetaccess.com,PIA is supported natively - consider using that instead.

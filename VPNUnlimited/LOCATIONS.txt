@@ -6,6 +6,8 @@ Austria - Vienna (UDP),at.vpnunlimitedapp.com,udp,1194
 Austria - Vienna (TCP),at.vpnunlimitedapp.com,tcp,80
 Belgium (UDP),be.vpnunlimitedapp.com,udp,1194
 Belgium (TCP),be.vpnunlimitedapp.com,tcp,80
+Belarus (UDP),by.vpnunlimitedapp.com,udp,1194
+Belarus (TCP),by.vpnunlimitedapp.com,tcp,80
 Brazil - Sao Paulo (UDP),br.vpnunlimitedapp.com,udp,1194
 Brazil - Sao Paulo (TCP),br.vpnunlimitedapp.com,tcp,80
 Bulgaria - Sofia (UDP),bg.vpnunlimitedapp.com,udp,1194
@@ -30,10 +32,14 @@ Estonia (UDP),ee.vpnunlimitedapp.com,udp,1194
 Estonia (TCP),ee.vpnunlimitedapp.com,tcp,80
 France - Paris (UDP),fr.vpnunlimitedapp.com,udp,1194
 France - Paris (TCP),fr.vpnunlimitedapp.com,tcp,80
+France - Strasbourg (UDP),fr-sbg.vpnunlimitedapp.com,udp,1194
+France - Strasbourg (TCP),fr-sbg.vpnunlimitedapp.com,tcp,80
 Finland - Helsinki (UDP),fi.vpnunlimitedapp.com,udp,1194
 Finland - Helsinki (TCP),fi.vpnunlimitedapp.com,tcp,80
 Germany - Frankfurt am Main (UDP),de.vpnunlimitedapp.com,udp,1194
 Germany - Frankfurt am Main (TCP),de.vpnunlimitedapp.com,tcp,80
+Germany - Dusseldorf (UDP),de-dus.vpnunlimitedapp.com,udp,1194
+Germany - Dusseldorf (TCP),de-dus.vpnunlimitedapp.com,tcp,80
 Greece (UDP),gr.vpnunlimitedapp.com,udp,1194
 Greece (TCP),gr.vpnunlimitedapp.com,tcp,80
 Hong Kong - Hong Kong (UDP),hk.vpnunlimitedapp.com,udp,1194
@@ -68,8 +74,12 @@ Malaysia - Kuala Lumpur (UDP),mys.vpnunlimitedapp.com,udp,1194
 Malaysia - Kuala Lumpur (TCP),mys.vpnunlimitedapp.com,tcp,80
 Mexico - Mexico (UDP),mx.vpnunlimitedapp.com,udp,1194
 Mexico - Mexico (TCP),mx.vpnunlimitedapp.com,tcp,80
+Moldova (UDP),md.vpnunlimitedapp.com,udp,1194
+Moldova (TCP),md.vpnunlimitedapp.com,tcp,80
 Netherlands - Amsterdam (UDP),nl.vpnunlimitedapp.com,udp,1194
 Netherlands - Amsterdam (TCP),nl.vpnunlimitedapp.com,tcp,80
+New Zealand (UDP),nz.vpnunlimitedapp.com,udp,1194
+New Zealand (TCP),nz.vpnunlimitedapp.com,tcp,80
 Norway - Oslo (UDP),no.vpnunlimitedapp.com,udp,1194
 Norway - Oslo (TCP),no.vpnunlimitedapp.com,tcp,80
 Panama - Bella Vista - Los Santo (UDP),pa.vpnunlimitedapp.com,udp,1194

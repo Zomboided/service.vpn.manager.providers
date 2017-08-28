@@ -7,7 +7,7 @@ comp-lzo adaptive
 ca #CERT
 dev tun
 tls-client
-regen-sec 0
+reneg-sec 0
 script-security 2
 cipher AES-256-CBC
 mute 10

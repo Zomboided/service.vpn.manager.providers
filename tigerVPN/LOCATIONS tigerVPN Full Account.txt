@@ -38,10 +38,10 @@ Spain - Madrid (UDP),mad.tigervpn.com,udp,1194
 Spain - Madrid (TCP),mad.tigervpn.com,tcp-client,443
 France - Paris (UDP),par.tigervpn.com,udp,1194
 France - Paris (TCP),par.tigervpn.com,tcp-client,443
-GB is unknown - London (UDP),lon.tigervpn.com,udp,1194
-GB is unknown - London (TCP),lon.tigervpn.com,tcp-client,443
-GB is unknown - Manchester (UDP),man.tigervpn.com,udp,1194
-GB is unknown - Manchester (TCP),man.tigervpn.com,tcp-client,443
+United Kingdom - London (UDP),lon.tigervpn.com,udp,1194
+United Kingdom - London (TCP),lon.tigervpn.com,tcp-client,443
+United Kingdom - Manchester (UDP),man.tigervpn.com,udp,1194
+United Kingdom - Manchester (TCP),man.tigervpn.com,tcp-client,443
 Hong Kong - Hong Kong (UDP),hkg.tigervpn.com,udp,1194
 Hong Kong - Hong Kong (TCP),hkg.tigervpn.com,tcp-client,443
 Hungary - Budapest (UDP),bud.tigervpn.com,udp,1194

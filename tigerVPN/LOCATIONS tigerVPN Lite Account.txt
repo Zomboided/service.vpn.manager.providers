@@ -12,8 +12,8 @@ Denmark - Copenhagen (UDP),cop.tigervpn.com,udp,1194
 Denmark - Copenhagen (TCP),cop.tigervpn.com,tcp-client,443
 Spain - Madrid (UDP),mad.tigervpn.com,udp,1194
 Spain - Madrid (TCP),mad.tigervpn.com,tcp-client,443
-GB is unknown - London (UDP),lon.tigervpn.com,udp,1194
-GB is unknown - London (TCP),lon.tigervpn.com,tcp-client,443
+United Kingdom - London (UDP),lon.tigervpn.com,udp,1194
+United Kingdom - London (TCP),lon.tigervpn.com,tcp-client,443
 Netherlands - Amsterdam (UDP),ams.tigervpn.com,udp,1194
 Netherlands - Amsterdam (TCP),ams.tigervpn.com,tcp-client,443
 Romania - Bucharest (UDP),buc.tigervpn.com,udp,1194

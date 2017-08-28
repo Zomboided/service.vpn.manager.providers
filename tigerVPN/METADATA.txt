@@ -1,5 +1,4 @@
-1490705221
-400 4
+400 5
 LOCATIONS tigerVPN Full Account.txt
 LOCATIONS tigerVPN Lite Account.txt
 TEMPLATE.txt

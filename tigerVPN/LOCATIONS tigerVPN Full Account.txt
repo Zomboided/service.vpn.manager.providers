@@ -1,124 +1,124 @@
 United Arab Emirates - Dubai (UDP),dub.tigervpn.com,udp,1194
-United Arab Emirates - Dubai (TCP),dub.tigervpn.com,tcp-client,443
+United Arab Emirates - Dubai (TCP),dub.tigervpn.com,tcp-client,443,#REMOVE=1
 Argentina - Buenos Aires (UDP),bue.tigervpn.com,udp,1194
-Argentina - Buenos Aires (TCP),bue.tigervpn.com,tcp-client,443
+Argentina - Buenos Aires (TCP),bue.tigervpn.com,tcp-client,443,#REMOVE=1
 Austria - Klagenfurt (UDP),kla.tigervpn.com,udp,1194
-Austria - Klagenfurt (TCP),kla.tigervpn.com,tcp-client,443
+Austria - Klagenfurt (TCP),kla.tigervpn.com,tcp-client,443,#REMOVE=1
 Austria - Vienna (UDP),vie.tigervpn.com,udp,1194
-Austria - Vienna (TCP),vie.tigervpn.com,tcp-client,443
+Austria - Vienna (TCP),vie.tigervpn.com,tcp-client,443,#REMOVE=1
 Australia - Sydney (UDP),syd.tigervpn.com,udp,1194
-Australia - Sydney (TCP),syd.tigervpn.com,tcp-client,443
+Australia - Sydney (TCP),syd.tigervpn.com,tcp-client,443,#REMOVE=1
 Bulgaria - Sofia (UDP),sof.tigervpn.com,udp,1194
-Bulgaria - Sofia (TCP),sof.tigervpn.com,tcp-client,443
+Bulgaria - Sofia (TCP),sof.tigervpn.com,tcp-client,443,#REMOVE=1
 Brazil - Rio de Janeiro (UDP),rio.tigervpn.com,udp,1194
-Brazil - Rio de Janeiro (TCP),rio.tigervpn.com,tcp-client,443
+Brazil - Rio de Janeiro (TCP),rio.tigervpn.com,tcp-client,443,#REMOVE=1
 Brazil - Sao Paulo (UDP),sao.tigervpn.com,udp,1194
-Brazil - Sao Paulo (TCP),sao.tigervpn.com,tcp-client,443
+Brazil - Sao Paulo (TCP),sao.tigervpn.com,tcp-client,443,#REMOVE=1
 Canada - Montreal (UDP),mon.tigervpn.com,udp,1194
-Canada - Montreal (TCP),mon.tigervpn.com,tcp-client,443
+Canada - Montreal (TCP),mon.tigervpn.com,tcp-client,443,#REMOVE=1
 Canada - Toronto (UDP),tor.tigervpn.com,udp,1194
-Canada - Toronto (TCP),tor.tigervpn.com,tcp-client,443
+Canada - Toronto (TCP),tor.tigervpn.com,tcp-client,443,#REMOVE=1
 Canada - Vancouver (UDP),van.tigervpn.com,udp,1194
-Canada - Vancouver (TCP),van.tigervpn.com,tcp-client,443
+Canada - Vancouver (TCP),van.tigervpn.com,tcp-client,443,#REMOVE=1
 Switzerland - Zurich (UDP),zur.tigervpn.com,udp,1194
-Switzerland - Zurich (TCP),zur.tigervpn.com,tcp-client,443
+Switzerland - Zurich (TCP),zur.tigervpn.com,tcp-client,443,#REMOVE=1
 Chile - Santiago (UDP),san.tigervpn.com,udp,1194
-Chile - Santiago (TCP),san.tigervpn.com,tcp-client,443
+Chile - Santiago (TCP),san.tigervpn.com,tcp-client,443,#REMOVE=1
 Czech Republic - Prague (UDP),prg.tigervpn.com,udp,1194
-Czech Republic - Prague (TCP),prg.tigervpn.com,tcp-client,443
+Czech Republic - Prague (TCP),prg.tigervpn.com,tcp-client,443,#REMOVE=1
 Germany - Cologne (UDP),col.tigervpn.com,udp,1194
-Germany - Cologne (TCP),col.tigervpn.com,tcp-client,443
+Germany - Cologne (TCP),col.tigervpn.com,tcp-client,443,#REMOVE=1
 Germany - Frankfurt (UDP),fra.tigervpn.com,udp,1194
-Germany - Frankfurt (TCP),fra.tigervpn.com,tcp-client,443
+Germany - Frankfurt (TCP),fra.tigervpn.com,tcp-client,443,#REMOVE=1
 Germany - Munich (UDP),muc.tigervpn.com,udp,1194
-Germany - Munich (TCP),muc.tigervpn.com,tcp-client,443
+Germany - Munich (TCP),muc.tigervpn.com,tcp-client,443,#REMOVE=1
 Denmark - Copenhagen (UDP),cop.tigervpn.com,udp,1194
-Denmark - Copenhagen (TCP),cop.tigervpn.com,tcp-client,443
+Denmark - Copenhagen (TCP),cop.tigervpn.com,tcp-client,443,#REMOVE=1
 Spain - Madrid (UDP),mad.tigervpn.com,udp,1194
-Spain - Madrid (TCP),mad.tigervpn.com,tcp-client,443
+Spain - Madrid (TCP),mad.tigervpn.com,tcp-client,443,#REMOVE=1
 France - Paris (UDP),par.tigervpn.com,udp,1194
-France - Paris (TCP),par.tigervpn.com,tcp-client,443
+France - Paris (TCP),par.tigervpn.com,tcp-client,443,#REMOVE=1
 United Kingdom - London (UDP),lon.tigervpn.com,udp,1194
-United Kingdom - London (TCP),lon.tigervpn.com,tcp-client,443
+United Kingdom - London (TCP),lon.tigervpn.com,tcp-client,443,#REMOVE=1
 United Kingdom - Manchester (UDP),man.tigervpn.com,udp,1194
-United Kingdom - Manchester (TCP),man.tigervpn.com,tcp-client,443
+United Kingdom - Manchester (TCP),man.tigervpn.com,tcp-client,443,#REMOVE=1
 Hong Kong - Hong Kong (UDP),hkg.tigervpn.com,udp,1194
-Hong Kong - Hong Kong (TCP),hkg.tigervpn.com,tcp-client,443
+Hong Kong - Hong Kong (TCP),hkg.tigervpn.com,tcp-client,443,#REMOVE=1
 Hungary - Budapest (UDP),bud.tigervpn.com,udp,1194
-Hungary - Budapest (TCP),bud.tigervpn.com,tcp-client,443
+Hungary - Budapest (TCP),bud.tigervpn.com,tcp-client,443,#REMOVE=1
 Indonesia - Jakarta (UDP),jak.tigervpn.com,udp,1194
-Indonesia - Jakarta (TCP),jak.tigervpn.com,tcp-client,443
+Indonesia - Jakarta (TCP),jak.tigervpn.com,tcp-client,443,#REMOVE=1
 Ireland - Dublin (UDP),dbl.tigervpn.com,udp,1194
-Ireland - Dublin (TCP),dbl.tigervpn.com,tcp-client,443
+Ireland - Dublin (TCP),dbl.tigervpn.com,tcp-client,443,#REMOVE=1
 India - Chennai (UDP),che.tigervpn.com,udp,1194
-India - Chennai (TCP),che.tigervpn.com,tcp-client,443
+India - Chennai (TCP),che.tigervpn.com,tcp-client,443,#REMOVE=1
 India - Delhi (UDP),del.tigervpn.com,udp,1194
-India - Delhi (TCP),del.tigervpn.com,tcp-client,443
+India - Delhi (TCP),del.tigervpn.com,tcp-client,443,#REMOVE=1
 India - Mumbai (UDP),mum.tigervpn.com,udp,1194
-India - Mumbai (TCP),mum.tigervpn.com,tcp-client,443
+India - Mumbai (TCP),mum.tigervpn.com,tcp-client,443,#REMOVE=1
 Italy - Milan (UDP),mil.tigervpn.com,udp,1194
-Italy - Milan (TCP),mil.tigervpn.com,tcp-client,443
+Italy - Milan (TCP),mil.tigervpn.com,tcp-client,443,#REMOVE=1
 Italy - Palermo (UDP),pal.tigervpn.com,udp,1194
-Italy - Palermo (TCP),pal.tigervpn.com,tcp-client,443
+Italy - Palermo (TCP),pal.tigervpn.com,tcp-client,443,#REMOVE=1
 Japan - Osaka (UDP),osa.tigervpn.com,udp,1194
-Japan - Osaka (TCP),osa.tigervpn.com,tcp-client,443
+Japan - Osaka (TCP),osa.tigervpn.com,tcp-client,443,#REMOVE=1
 Japan - Tokyo (UDP),tok.tigervpn.com,udp,1194
-Japan - Tokyo (TCP),tok.tigervpn.com,tcp-client,443
+Japan - Tokyo (TCP),tok.tigervpn.com,tcp-client,443,#REMOVE=1
 South Korea - Seoul (UDP),seo.tigervpn.com,udp,1194
-South Korea - Seoul (TCP),seo.tigervpn.com,tcp-client,443
+South Korea - Seoul (TCP),seo.tigervpn.com,tcp-client,443,#REMOVE=1
 Luxembourg - Luxembourg (UDP),lux.tigervpn.com,udp,1194
-Luxembourg - Luxembourg (TCP),lux.tigervpn.com,tcp-client,443
+Luxembourg - Luxembourg (TCP),lux.tigervpn.com,tcp-client,443,#REMOVE=1
 Mexico - Mexico City (UDP),mex.tigervpn.com,udp,1194
-Mexico - Mexico City (TCP),mex.tigervpn.com,tcp-client,443
+Mexico - Mexico City (TCP),mex.tigervpn.com,tcp-client,443,#REMOVE=1
 Netherlands - Amsterdam (UDP),ams.tigervpn.com,udp,1194
-Netherlands - Amsterdam (TCP),ams.tigervpn.com,tcp-client,443
+Netherlands - Amsterdam (TCP),ams.tigervpn.com,tcp-client,443,#REMOVE=1
 Norway - Oslo (UDP),osl.tigervpn.com,udp,1194
-Norway - Oslo (TCP),osl.tigervpn.com,tcp-client,443
+Norway - Oslo (TCP),osl.tigervpn.com,tcp-client,443,#REMOVE=1
 Poland - Warsaw (UDP),war.tigervpn.com,udp,1194
-Poland - Warsaw (TCP),war.tigervpn.com,tcp-client,443
+Poland - Warsaw (TCP),war.tigervpn.com,tcp-client,443,#REMOVE=1
 Portugal - Lisbon (UDP),lis.tigervpn.com,udp,1194
-Portugal - Lisbon (TCP),lis.tigervpn.com,tcp-client,443
+Portugal - Lisbon (TCP),lis.tigervpn.com,tcp-client,443,#REMOVE=1
 Romania - Bucharest (UDP),buc.tigervpn.com,udp,1194
-Romania - Bucharest (TCP),buc.tigervpn.com,tcp-client,443
+Romania - Bucharest (TCP),buc.tigervpn.com,tcp-client,443,#REMOVE=1
 Serbia - Belgrade (UDP),bel.tigervpn.com,udp,1194
-Serbia - Belgrade (TCP),bel.tigervpn.com,tcp-client,443
+Serbia - Belgrade (TCP),bel.tigervpn.com,tcp-client,443,#REMOVE=1
 Russia - Moscow (UDP),mos.tigervpn.com,udp,1194
-Russia - Moscow (TCP),mos.tigervpn.com,tcp-client,443
+Russia - Moscow (TCP),mos.tigervpn.com,tcp-client,443,#REMOVE=1
 Russia - St. Petersburg (UDP),stp.tigervpn.com,udp,1194
-Russia - St. Petersburg (TCP),stp.tigervpn.com,tcp-client,443
+Russia - St. Petersburg (TCP),stp.tigervpn.com,tcp-client,443,#REMOVE=1
 Sweden - Stockholm (UDP),sto.tigervpn.com,udp,1194
-Sweden - Stockholm (TCP),sto.tigervpn.com,tcp-client,443
+Sweden - Stockholm (TCP),sto.tigervpn.com,tcp-client,443,#REMOVE=1
 Singapore - Singapore (UDP),sin.tigervpn.com,udp,1194
-Singapore - Singapore (TCP),sin.tigervpn.com,tcp-client,443
+Singapore - Singapore (TCP),sin.tigervpn.com,tcp-client,443,#REMOVE=1
 Slovenia - Ljubljana (UDP),lju.tigervpn.com,udp,1194
-Slovenia - Ljubljana (TCP),lju.tigervpn.com,tcp-client,443
+Slovenia - Ljubljana (TCP),lju.tigervpn.com,tcp-client,443,#REMOVE=1
 Slovakia - Bratislava (UDP),bra.tigervpn.com,udp,1194
-Slovakia - Bratislava (TCP),bra.tigervpn.com,tcp-client,443
+Slovakia - Bratislava (TCP),bra.tigervpn.com,tcp-client,443,#REMOVE=1
 Thailand - Bangkok (UDP),bgk.tigervpn.com,udp,1194
-Thailand - Bangkok (TCP),bgk.tigervpn.com,tcp-client,443
+Thailand - Bangkok (TCP),bgk.tigervpn.com,tcp-client,443,#REMOVE=1
 Turkey - Ankara (UDP),ank.tigervpn.com,udp,1194
-Turkey - Ankara (TCP),ank.tigervpn.com,tcp-client,443
+Turkey - Ankara (TCP),ank.tigervpn.com,tcp-client,443,#REMOVE=1
 Turkey - Istanbul (UDP),ist.tigervpn.com,udp,1194
-Turkey - Istanbul (TCP),ist.tigervpn.com,tcp-client,443
+Turkey - Istanbul (TCP),ist.tigervpn.com,tcp-client,443,#REMOVE=1
 Taiwan - Taipei (UDP),tai.tigervpn.com,udp,1194
-Taiwan - Taipei (TCP),tai.tigervpn.com,tcp-client,443
+Taiwan - Taipei (TCP),tai.tigervpn.com,tcp-client,443,#REMOVE=1
 Ukraine - Kiev (UDP),kie.tigervpn.com,udp,1194
-Ukraine - Kiev (TCP),kie.tigervpn.com,tcp-client,443
+Ukraine - Kiev (TCP),kie.tigervpn.com,tcp-client,443,#REMOVE=1
 United States - Atlanta (UDP),atl.tigervpn.com,udp,1194
-United States - Atlanta (TCP),atl.tigervpn.com,tcp-client,443
+United States - Atlanta (TCP),atl.tigervpn.com,tcp-client,443,#REMOVE=1
 United States - Chicago (UDP),chi.tigervpn.com,udp,1194
-United States - Chicago (TCP),chi.tigervpn.com,tcp-client,443
+United States - Chicago (TCP),chi.tigervpn.com,tcp-client,443,#REMOVE=1
 United States - Denver (UDP),den.tigervpn.com,udp,1194
-United States - Denver (TCP),den.tigervpn.com,tcp-client,443
+United States - Denver (TCP),den.tigervpn.com,tcp-client,443,#REMOVE=1
 United States - Los Angeles (UDP),los.tigervpn.com,udp,1194
-United States - Los Angeles (TCP),los.tigervpn.com,tcp-client,443
+United States - Los Angeles (TCP),los.tigervpn.com,tcp-client,443,#REMOVE=1
 United States - Miami (UDP),mia.tigervpn.com,udp,1194
-United States - Miami (TCP),mia.tigervpn.com,tcp-client,443
+United States - Miami (TCP),mia.tigervpn.com,tcp-client,443,#REMOVE=1
 United States - New York (UDP),nyc.tigervpn.com,udp,1194
-United States - New York (TCP),nyc.tigervpn.com,tcp-client,443
+United States - New York (TCP),nyc.tigervpn.com,tcp-client,443,#REMOVE=1
 United States - Seattle (UDP),sea.tigervpn.com,udp,1194
-United States - Seattle (TCP),sea.tigervpn.com,tcp-client,443
+United States - Seattle (TCP),sea.tigervpn.com,tcp-client,443,#REMOVE=1
 Vietnam - Hanoi (UDP),han.tigervpn.com,udp,1194
-Vietnam - Hanoi (TCP),han.tigervpn.com,tcp-client,443
+Vietnam - Hanoi (TCP),han.tigervpn.com,tcp-client,443,#REMOVE=1
 South Africa - Johannesburg (UDP),joh.tigervpn.com,udp,1194
-South Africa - Johannesburg (TCP),joh.tigervpn.com,tcp-client,443
+South Africa - Johannesburg (TCP),joh.tigervpn.com,tcp-client,443,#REMOVE=1

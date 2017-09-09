@@ -13,7 +13,7 @@ tls-cipher TLS-DHE-RSA-WITH-AES-256-CBC-SHA
 auth-user-pass #PASS
 remote-cert-tls server
 comp-lzo no
-explicit-exit-notify 2
+#REMOVE6explicit-exit-notify 2
 script-security 2
 ca #CERT
 #REMOVE1tls-auth #TLSKEY 1

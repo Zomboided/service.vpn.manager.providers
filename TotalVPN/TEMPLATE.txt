@@ -1,14 +1,21 @@
 client
-remote #SERVER
-nobind
 dev tun
 proto #PROTO
-port #PORT
-cipher AES-256-CBC
-auth-nocache
-script-security 3
+remote #SERVER #PORT
+nobind
 persist-key
 persist-tun
-auth-user-pass #PASS
-explicit-exit-notify 2
 ca #CERT
+tls-auth #TLSKEY 1
+cipher AES-256-CBC
+comp-lzo
+verb 1
+mute 20
+route-method exe
+route-delay 2
+route 0.0.0.0 0.0.0.0
+auth-user-pass #PASS
+#REMOVE2explicit-exit-notify 2
+#REMOVE1float
+#REMOVE2auth-nocache
+ifconfig-nowarn

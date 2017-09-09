@@ -18,5 +18,5 @@ persist-key
 persist-tun
 remote-cert-tls server
 verb 1
-explicit-exit-notify 2
+#REMOVE1explicit-exit-notify 2
 mssfix

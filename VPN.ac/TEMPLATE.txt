@@ -16,7 +16,7 @@ auth-user-pass #PASS
 cipher AES-128-CBC
 mute-replay-warnings
 key-direction 1
-explicit-exit-notify 2
+#REMOVE1explicit-exit-notify 2
 comp-lzo
 ca #CERT
 tls-auth #TLSKEY

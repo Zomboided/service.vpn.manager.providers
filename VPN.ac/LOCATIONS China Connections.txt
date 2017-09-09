@@ -1,70 +1,70 @@
-Australia Melbourne (TCP),au1.visitchina.pw au1.visitchina.pw au1.visitchina.pw au1.visitchina.pw,tcp,12200 26000 88 80
+Australia Melbourne (TCP),au1.visitchina.pw au1.visitchina.pw au1.visitchina.pw au1.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Australia Melbourne (UDP),au1.visitchina.pw au1.visitchina.pw au1.visitchina.pw au1.visitchina.pw,udp,12200 26000 88 53
-Australia Sydney (TCP),au2.visitchina.pw au2.visitchina.pw au2.visitchina.pw au2.visitchina.pw,tcp,12200 26000 88 80
+Australia Sydney (TCP),au2.visitchina.pw au2.visitchina.pw au2.visitchina.pw au2.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Australia Sydney (UDP),au2.visitchina.pw au2.visitchina.pw au2.visitchina.pw au2.visitchina.pw,udp,12200 26000 88 53
-Canada Toronto (TCP),ca2.visitchina.pw ca2.visitchina.pw ca2.visitchina.pw ca2.visitchina.pw,tcp,12200 26000 88 80
+Canada Toronto (TCP),ca2.visitchina.pw ca2.visitchina.pw ca2.visitchina.pw ca2.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Canada Toronto (UDP),ca2.visitchina.pw ca2.visitchina.pw ca2.visitchina.pw ca2.visitchina.pw,udp,12200 26000 88 53
-Finalnd (TCP),fi1.visitchina.pw fi1.visitchina.pw fi1.visitchina.pw fi1.visitchina.pw,tcp,12200 26000 88 80
+Finalnd (TCP),fi1.visitchina.pw fi1.visitchina.pw fi1.visitchina.pw fi1.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Finalnd (UDP),fi1.visitchina.pw fi1.visitchina.pw fi1.visitchina.pw fi1.visitchina.pw,udp,12200 26000 88 53
-France (TCP),fr1.visitchina.pw fr1.visitchina.pw fr1.visitchina.pw fr1.visitchina.pw,tcp,12200 26000 88 80
+France (TCP),fr1.visitchina.pw fr1.visitchina.pw fr1.visitchina.pw fr1.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 France (UDP),fr1.visitchina.pw fr1.visitchina.pw fr1.visitchina.pw fr1.visitchina.pw,udp,12200 26000 88 53
-Germany (TCP),de1.visitchina.pw de1.visitchina.pw de1.visitchina.pw de1.visitchina.pw,tcp,12200 26000 88 80
+Germany (TCP),de1.visitchina.pw de1.visitchina.pw de1.visitchina.pw de1.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Germany (UDP),de1.visitchina.pw de1.visitchina.pw de1.visitchina.pw de1.visitchina.pw,udp,12200 26000 88 53
-Germany China 2 (TCP),de1-cn2.visitchina.pw de1-cn2.visitchina.pw de1-cn2.visitchina.pw de1-cn2.visitchina.pw,tcp,12200 26000 88 80
+Germany China 2 (TCP),de1-cn2.visitchina.pw de1-cn2.visitchina.pw de1-cn2.visitchina.pw de1-cn2.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Germany China 2 (UDP),de1-cn2.visitchina.pw de1-cn2.visitchina.pw de1-cn2.visitchina.pw de1-cn2.visitchina.pw,udp,12200 26000 88 53
-Hong-Kong 1 (TCP),hk1.visitchina.pw hk1.visitchina.pw hk1.visitchina.pw hk1.visitchina.pw,tcp,12200 26000 88 80
+Hong-Kong 1 (TCP),hk1.visitchina.pw hk1.visitchina.pw hk1.visitchina.pw hk1.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Hong-Kong 1 (UDP),hk1.visitchina.pw hk1.visitchina.pw hk1.visitchina.pw hk1.visitchina.pw,udp,12200 26000 88 53
-Hong-Kong 2 (TCP),hk2.visitchina.pw hk2.visitchina.pw hk2.visitchina.pw hk2.visitchina.pw,tcp,12200 26000 88 80
+Hong-Kong 2 (TCP),hk2.visitchina.pw hk2.visitchina.pw hk2.visitchina.pw hk2.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Hong-Kong 2 (UDP),hk2.visitchina.pw hk2.visitchina.pw hk2.visitchina.pw hk2.visitchina.pw,udp,12200 26000 88 53
-Japan Tokyo 2 (TCP),jp2.visitchina.pw jp2.visitchina.pw jp2.visitchina.pw jp2.visitchina.pw,tcp,12200 26000 88 80
+Japan Tokyo 2 (TCP),jp2.visitchina.pw jp2.visitchina.pw jp2.visitchina.pw jp2.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Japan Tokyo 2 (UDP),jp2.visitchina.pw jp2.visitchina.pw jp2.visitchina.pw jp2.visitchina.pw,udp,12200 26000 88 53
-Japan Tokyo (TCP),jp1.visitchina.pw jp1.visitchina.pw jp1.visitchina.pw jp1.visitchina.pw,tcp,12200 26000 88 80
+Japan Tokyo (TCP),jp1.visitchina.pw jp1.visitchina.pw jp1.visitchina.pw jp1.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Japan Tokyo (UDP),jp1.visitchina.pw jp1.visitchina.pw jp1.visitchina.pw jp1.visitchina.pw,udp,12200 26000 88 53
-Lithuania (TCP),lt1.visitchina.pw lt1.visitchina.pw lt1.visitchina.pw lt1.visitchina.pw,tcp,12200 26000 88 80
+Lithuania (TCP),lt1.visitchina.pw lt1.visitchina.pw lt1.visitchina.pw lt1.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Lithuania (UDP),lt1.visitchina.pw lt1.visitchina.pw lt1.visitchina.pw lt1.visitchina.pw,udp,12200 26000 88 53
-Luxembourg (TCP),lu1.visitchina.pw lu1.visitchina.pw lu1.visitchina.pw lu1.visitchina.pw,tcp,12200 26000 88 80
+Luxembourg (TCP),lu1.visitchina.pw lu1.visitchina.pw lu1.visitchina.pw lu1.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Luxembourg (UDP),lu1.visitchina.pw lu1.visitchina.pw lu1.visitchina.pw lu1.visitchina.pw,udp,12200 26000 88 53
-Netherlands Amsterdam 1 (TCP),nl1.visitchina.pw nl1.visitchina.pw nl1.visitchina.pw nl1.visitchina.pw,tcp,12200 26000 88 80
+Netherlands Amsterdam 1 (TCP),nl1.visitchina.pw nl1.visitchina.pw nl1.visitchina.pw nl1.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Netherlands Amsterdam 1 (UDP),nl1.visitchina.pw nl1.visitchina.pw nl1.visitchina.pw nl1.visitchina.pw,udp,12200 26000 88 53
-Netherlands Amsterdam 3 (TCP),nl3.visitchina.pw nl3.visitchina.pw nl3.visitchina.pw nl3.visitchina.pw,tcp,12200 26000 88 80
+Netherlands Amsterdam 3 (TCP),nl3.visitchina.pw nl3.visitchina.pw nl3.visitchina.pw nl3.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Netherlands Amsterdam 3 (UDP),nl3.visitchina.pw nl3.visitchina.pw nl3.visitchina.pw nl3.visitchina.pw,udp,12200 26000 88 53
-Poland (TCP),pl1.visitchina.pw pl1.visitchina.pw pl1.visitchina.pw pl1.visitchina.pw,tcp,12200 26000 88 80
+Poland (TCP),pl1.visitchina.pw pl1.visitchina.pw pl1.visitchina.pw pl1.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Poland (UDP),pl1.visitchina.pw pl1.visitchina.pw pl1.visitchina.pw pl1.visitchina.pw,udp,12200 26000 88 53
-Portugal (TCP),pt1.visitchina.pw pt1.visitchina.pw pt1.visitchina.pw pt1.visitchina.pw,tcp,12200 26000 88 80
+Portugal (TCP),pt1.visitchina.pw pt1.visitchina.pw pt1.visitchina.pw pt1.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Portugal (UDP),pt1.visitchina.pw pt1.visitchina.pw pt1.visitchina.pw pt1.visitchina.pw,udp,12200 26000 88 53
-Romania (TCP),ro1.visitchina.pw ro1.visitchina.pw ro1.visitchina.pw ro1.visitchina.pw,tcp,12200 26000 88 80
+Romania (TCP),ro1.visitchina.pw ro1.visitchina.pw ro1.visitchina.pw ro1.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Romania (UDP),ro1.visitchina.pw ro1.visitchina.pw ro1.visitchina.pw ro1.visitchina.pw,udp,12200 26000 88 53
-Singapore (TCP),sg1.visitchina.pw sg1.visitchina.pw sg1.visitchina.pw sg1.visitchina.pw,tcp,12200 26000 88 80
+Singapore (TCP),sg1.visitchina.pw sg1.visitchina.pw sg1.visitchina.pw sg1.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Singapore (UDP),sg1.visitchina.pw sg1.visitchina.pw sg1.visitchina.pw sg1.visitchina.pw,udp,12200 26000 88 53
-South-Korea (TCP),kr1.visitchina.pw kr1.visitchina.pw kr1.visitchina.pw kr1.visitchina.pw,tcp,12200 26000 88 80
+South-Korea (TCP),kr1.visitchina.pw kr1.visitchina.pw kr1.visitchina.pw kr1.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 South-Korea (UDP),kr1.visitchina.pw kr1.visitchina.pw kr1.visitchina.pw kr1.visitchina.pw,udp,12200 26000 88 53
-Sweden (TCP),se1.visitchina.pw se1.visitchina.pw se1.visitchina.pw se1.visitchina.pw,tcp,12200 26000 88 80
+Sweden (TCP),se1.visitchina.pw se1.visitchina.pw se1.visitchina.pw se1.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Sweden (UDP),se1.visitchina.pw se1.visitchina.pw se1.visitchina.pw se1.visitchina.pw,udp,12200 26000 88 53
-Switzerland (TCP),ch1.visitchina.pw ch1.visitchina.pw ch1.visitchina.pw ch1.visitchina.pw,tcp,12200 26000 88 80
+Switzerland (TCP),ch1.visitchina.pw ch1.visitchina.pw ch1.visitchina.pw ch1.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 Switzerland (UDP),ch1.visitchina.pw ch1.visitchina.pw ch1.visitchina.pw ch1.visitchina.pw,udp,12200 26000 88 53
-UK London (TCP),uk1.visitchina.pw uk1.visitchina.pw uk1.visitchina.pw uk1.visitchina.pw,tcp,12200 26000 88 80
+UK London (TCP),uk1.visitchina.pw uk1.visitchina.pw uk1.visitchina.pw uk1.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 UK London (UDP),uk1.visitchina.pw uk1.visitchina.pw uk1.visitchina.pw uk1.visitchina.pw,udp,12200 26000 88 53
-US-Central Chicago (TCP),us2.visitchina.pw us2.visitchina.pw us2.visitchina.pw us2.visitchina.pw,tcp,12200 26000 88 80
+US-Central Chicago (TCP),us2.visitchina.pw us2.visitchina.pw us2.visitchina.pw us2.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 US-Central Chicago (UDP),us2.visitchina.pw us2.visitchina.pw us2.visitchina.pw us2.visitchina.pw,udp,12200 26000 88 53
-US-Central Dallas (TCP),us7.visitchina.pw us7.visitchina.pw us7.visitchina.pw us7.visitchina.pw,tcp,12200 26000 88 80
+US-Central Dallas (TCP),us7.visitchina.pw us7.visitchina.pw us7.visitchina.pw us7.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 US-Central Dallas (UDP),us7.visitchina.pw us7.visitchina.pw us7.visitchina.pw us7.visitchina.pw,udp,12200 26000 88 53
-US-Central Kansas (TCP),us6.visitchina.pw us6.visitchina.pw us6.visitchina.pw us6.visitchina.pw,tcp,12200 26000 88 80
+US-Central Kansas (TCP),us6.visitchina.pw us6.visitchina.pw us6.visitchina.pw us6.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 US-Central Kansas (UDP),us6.visitchina.pw us6.visitchina.pw us6.visitchina.pw us6.visitchina.pw,udp,12200 26000 88 53
-US-East Miami (TCP),us12.visitchina.pw us12.visitchina.pw us12.visitchina.pw us12.visitchina.pw,tcp,12200 26000 88 80
+US-East Miami (TCP),us12.visitchina.pw us12.visitchina.pw us12.visitchina.pw us12.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 US-East Miami (UDP),us12.visitchina.pw us12.visitchina.pw us12.visitchina.pw us12.visitchina.pw,udp,12200 26000 88 53
-US-West Los-Angeles 1 (TCP),us3.visitchina.pw us3.visitchina.pw us3.visitchina.pw us3.visitchina.pw,tcp,12200 26000 88 80
+US-West Los-Angeles 1 (TCP),us3.visitchina.pw us3.visitchina.pw us3.visitchina.pw us3.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 US-West Los-Angeles 1 (UDP),us3.visitchina.pw us3.visitchina.pw us3.visitchina.pw us3.visitchina.pw,udp,12200 26000 88 53
-US-West Los-Angeles 2 (TCP),us10.visitchina.pw us10.visitchina.pw us10.visitchina.pw us10.visitchina.pw,tcp,12200 26000 88 80
+US-West Los-Angeles 2 (TCP),us10.visitchina.pw us10.visitchina.pw us10.visitchina.pw us10.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 US-West Los-Angeles 2 (UDP),us10.visitchina.pw us10.visitchina.pw us10.visitchina.pw us10.visitchina.pw,udp,12200 26000 88 53
-US-West Los-Angeles 3 (TCP),us11.visitchina.pw us11.visitchina.pw us11.visitchina.pw us11.visitchina.pw,tcp,12200 26000 88 80
+US-West Los-Angeles 3 (TCP),us11.visitchina.pw us11.visitchina.pw us11.visitchina.pw us11.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 US-West Los-Angeles 3 (UDP),us11.visitchina.pw us11.visitchina.pw us11.visitchina.pw us11.visitchina.pw,udp,12200 26000 88 53
-US-West Los-Angeles 4 China 2 (TCP),us15.visitchina.pw us15.visitchina.pw us15.visitchina.pw us15.visitchina.pw,tcp,12200 26000 88 80
+US-West Los-Angeles 4 China 2 (TCP),us15.visitchina.pw us15.visitchina.pw us15.visitchina.pw us15.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 US-West Los-Angeles 4 China 2 (UDP),us15.visitchina.pw us15.visitchina.pw us15.visitchina.pw us15.visitchina.pw,udp,12200 26000 88 53
-US-West Los-Angeles 5 China 2 (TCP),us16.visitchina.pw us16.visitchina.pw us16.visitchina.pw us16.visitchina.pw,tcp,12200 26000 88 80
+US-West Los-Angeles 5 China 2 (TCP),us16.visitchina.pw us16.visitchina.pw us16.visitchina.pw us16.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 US-West Los-Angeles 5 China 2 (UDP),us16.visitchina.pw us16.visitchina.pw us16.visitchina.pw us16.visitchina.pw,udp,12200 26000 88 53
-US-West San-Francisco (TCP),us13.visitchina.pw us13.visitchina.pw us13.visitchina.pw us13.visitchina.pw,tcp,12200 26000 88 80
+US-West San-Francisco (TCP),us13.visitchina.pw us13.visitchina.pw us13.visitchina.pw us13.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 US-West San-Francisco (UDP),us13.visitchina.pw us13.visitchina.pw us13.visitchina.pw us13.visitchina.pw,udp,12200 26000 88 53
-US-West San-Jose (TCP),us9.visitchina.pw us9.visitchina.pw us9.visitchina.pw us9.visitchina.pw,tcp,12200 26000 88 80
+US-West San-Jose (TCP),us9.visitchina.pw us9.visitchina.pw us9.visitchina.pw us9.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 US-West San-Jose (UDP),us9.visitchina.pw us9.visitchina.pw us9.visitchina.pw us9.visitchina.pw,udp,12200 26000 88 53
-US-West Seattle (TCP),us5.visitchina.pw us5.visitchina.pw us5.visitchina.pw us5.visitchina.pw,tcp,12200 26000 88 80
+US-West Seattle (TCP),us5.visitchina.pw us5.visitchina.pw us5.visitchina.pw us5.visitchina.pw,tcp,12200 26000 88 80,#REMOVE=1
 US-West Seattle (UDP),us5.visitchina.pw us5.visitchina.pw us5.visitchina.pw us5.visitchina.pw,udp,12200 26000 88 53

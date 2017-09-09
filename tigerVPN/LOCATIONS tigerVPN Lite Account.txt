@@ -1,28 +1,28 @@
 Austria - Vienna (UDP),vie.tigervpn.com,udp,1194
-Austria - Vienna (TCP),vie.tigervpn.com,tcp-client,443
+Austria - Vienna (TCP),vie.tigervpn.com,tcp-client,443,#REMOVE=1
 Canada - Montreal (UDP),mon.tigervpn.com,udp,1194
-Canada - Montreal (TCP),mon.tigervpn.com,tcp-client,443
+Canada - Montreal (TCP),mon.tigervpn.com,tcp-client,443,#REMOVE=1
 Canada - Toronto (UDP),tor.tigervpn.com,udp,1194
-Canada - Toronto (TCP),tor.tigervpn.com,tcp-client,443
+Canada - Toronto (TCP),tor.tigervpn.com,tcp-client,443,#REMOVE=1
 Switzerland - Zurich (UDP),zur.tigervpn.com,udp,1194
-Switzerland - Zurich (TCP),zur.tigervpn.com,tcp-client,443
+Switzerland - Zurich (TCP),zur.tigervpn.com,tcp-client,443,#REMOVE=1
 Germany - Frankfurt (UDP),fra.tigervpn.com,udp,1194
-Germany - Frankfurt (TCP),fra.tigervpn.com,tcp-client,443
+Germany - Frankfurt (TCP),fra.tigervpn.com,tcp-client,443,#REMOVE=1
 Denmark - Copenhagen (UDP),cop.tigervpn.com,udp,1194
-Denmark - Copenhagen (TCP),cop.tigervpn.com,tcp-client,443
+Denmark - Copenhagen (TCP),cop.tigervpn.com,tcp-client,443,#REMOVE=1
 Spain - Madrid (UDP),mad.tigervpn.com,udp,1194
-Spain - Madrid (TCP),mad.tigervpn.com,tcp-client,443
+Spain - Madrid (TCP),mad.tigervpn.com,tcp-client,443,#REMOVE=1
 United Kingdom - London (UDP),lon.tigervpn.com,udp,1194
-United Kingdom - London (TCP),lon.tigervpn.com,tcp-client,443
+United Kingdom - London (TCP),lon.tigervpn.com,tcp-client,443,#REMOVE=1
 Netherlands - Amsterdam (UDP),ams.tigervpn.com,udp,1194
-Netherlands - Amsterdam (TCP),ams.tigervpn.com,tcp-client,443
+Netherlands - Amsterdam (TCP),ams.tigervpn.com,tcp-client,443,#REMOVE=1
 Romania - Bucharest (UDP),buc.tigervpn.com,udp,1194
-Romania - Bucharest (TCP),buc.tigervpn.com,tcp-client,443
+Romania - Bucharest (TCP),buc.tigervpn.com,tcp-client,443,#REMOVE=1
 United States - Atlanta (UDP),atl.tigervpn.com,udp,1194
-United States - Atlanta (TCP),atl.tigervpn.com,tcp-client,443
+United States - Atlanta (TCP),atl.tigervpn.com,tcp-client,443,#REMOVE=1
 United States - Los Angeles (UDP),los.tigervpn.com,udp,1194
-United States - Los Angeles (TCP),los.tigervpn.com,tcp-client,443
+United States - Los Angeles (TCP),los.tigervpn.com,tcp-client,443,#REMOVE=1
 United States - Miami (UDP),mia.tigervpn.com,udp,1194
-United States - Miami (TCP),mia.tigervpn.com,tcp-client,443
+United States - Miami (TCP),mia.tigervpn.com,tcp-client,443,#REMOVE=1
 United States - New York (UDP),nyc.tigervpn.com,udp,1194
-United States - New York (TCP),nyc.tigervpn.com,tcp-client,443
+United States - New York (TCP),nyc.tigervpn.com,tcp-client,443,#REMOVE=1

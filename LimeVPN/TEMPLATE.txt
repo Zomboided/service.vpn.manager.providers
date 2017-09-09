@@ -22,3 +22,4 @@ comp-lzo
 reneg-sec 0
 
 verb 3
+cipher AES-256-CBC

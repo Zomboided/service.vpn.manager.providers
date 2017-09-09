@@ -1,13 +1,16 @@
+Australia 1 (UDP),108.61.251.44,udp,1195
+Canada 2 (UDP),104.145.239.55,udp,1195
+Europe 1 (UDP),95.141.35.146,udp,1195
 Europe 10 (UDP),95.211.153.84,udp,1195
 Europe 11 (UDP),5.2.70.154,udp,1195
 Hong Kong 2 (UDP),176.126.72.120,udp,1195
 India 1 (UDP),139.59.6.33,udp,1195
-Japan  (UDP),108.61.201.208,udp,1195
+Japan (UDP),108.61.201.208,udp,1195
 London (UDP),185.59.221.135,udp,1195
 Netherlands 1 (UDP),128.199.57.222,udp,1195
 Netherlands 2 (UDP),188.166.86.177,udp,1195
 New York (UDP),185.59.223.157,udp,1195
-Singapore  (UDP),128.199.186.214,udp,1195
+Singapore (UDP),128.199.186.214,udp,1195
 Singapore 1 (UDP),188.166.222.44,udp,1195
 Sweden 1 (UDP),31.220.15.183,udp,1195
 United Kingdom 2 (UDP),104.238.171.89,udp,1195

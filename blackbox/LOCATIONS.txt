@@ -2,3 +2,5 @@ US - United States (UDP),us.blackbox.unzoner.com,udp,1194
 US - United States (TCP),us.blackbox.unzoner.com,tcp,1194,#REMOVE=1
 GB - United Kingdom (UDP),gb.blackbox.unzoner.com,udp,1194
 GB - United Kingdom (TCP),gb.blackbox.unzoner.com,tcp,1194,#REMOVE=1
+CA - Canada (UDP),ca.blackbox.unzoner.com,udp,1194
+CA - Canada (TCP),ca.blackbox.unzoner.com,tcp,1194,#REMOVE=1

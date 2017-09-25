@@ -3,7 +3,7 @@ dev tun
 proto #PROTO
 remote #SERVER #PORT
 remote-cert-tls server
-resolv-retry infinite
+resolv-retry 30
 nobind
 persist-key
 persist-tun

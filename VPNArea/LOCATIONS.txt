@@ -7,17 +7,17 @@ GB Colibri-GB (TCP),45.32.182.243,tcp,1194,#USERCERT=user.crt #USERKEY=user.key 
 Austria (UDP),151.236.6.106,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
 Austria - Vienna (UDP),151.236.10.218,udp,53,#CERT=ca.vpnarea.crt #REMOVE=2
 Austria - Graz (UDP),149.154.153.144,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
-Australia - Adelaide (UDP),119.252.20.121,udp,1194
+Australia - Adelaide (UDP),119.252.20.121,udp,1194,#CERT=ca.vpnarea.crt #REMOVE=2
 Australia - Adelaide 2 (UDP),119.252.20.48,udp,443,#CERT=ca.vpnarea.crt #REMOVE=2
 Australia - Adelaide 3 (UDP),103.25.56.172,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
 Australia - Adelaide 4 (UDP),103.25.56.202,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
 Australia - Brisbane (UDP),103.226.179.33,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
-Australia - Melbourne (UDP),163.47.16.15,udp,1194
+Australia - Melbourne (UDP),163.47.16.15,udp,1194,#CERT=ca.vpnarea.crt #REMOVE=2
 Australia - Perth (UDP),103.9.162.253,udp,8292,#CERT=ca.vpnarea.crt #REMOVE=2
 Australia - Sydney 1 (UDP),45.114.116.221,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
 Australia - Sydney (UDP),103.25.58.63,udp,443,#CERT=ca.vpnarea.crt #REMOVE=2
 Australia - Sydney 0 (UDP),153.92.44.20,udp,8292,#CERT=ca.vpnarea.crt #REMOVE=2
-Australia - Sydney 2 (UDP),103.25.58.248,udp,1195
+Australia - Sydney 2 (UDP),103.25.58.248,udp,1195,#CERT=ca.vpnarea.crt #REMOVE=2
 Australia - Sydney 3 (UDP),103.25.58.118,udp,443,#CERT=ca.vpnarea.crt #REMOVE=2
 Australia - Sydney 4 (UDP),103.25.58.119,udp,443,#CERT=ca.vpnarea.crt #REMOVE=2
 Belgium - Brussel (UDP),192.71.249.15,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
@@ -41,7 +41,7 @@ Canada - Toronto (UDP),170.75.162.25,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
 Canada - Vancouver (UDP),71.19.250.43,udp,8292,#CERT=ca.vpnarea.crt #REMOVE=2
 Canada - Vancouver 2 (UDP),71.19.251.103,udp,8292,#CERT=ca.vpnarea.crt #REMOVE=2
 Chile (UDP),37.235.52.66,udp,443,#CERT=ca.vpnarea.crt #REMOVE=2
-China - Guangdong (UDP),103.205.8.250,udp,123
+China - Guangdong (UDP),103.205.8.250,udp,123,#CERT=ca.vpnarea.crt #REMOVE=2
 China - Guangzhou (UDP),123.249.79.218,udp,8292,#CERT=ca.vpnarea.crt #REMOVE=2
 Colombia - Bogota (UDP),179.50.62.237,udp,53,#CERT=ca.vpnarea.crt #REMOVE=2
 Cyprus (UDP),194.30.136.108,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
@@ -68,7 +68,7 @@ HongKong4 (UDP),103.192.177.98,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
 HongKong2 (UDP),119.81.173.141,udp,53,#CERT=ca.vpnarea.crt #REMOVE=2
 Hungary - Budapest 2 (UDP),185.112.158.116,udp,443,#CERT=ca.vpnarea.crt #REMOVE=2
 Iceland - Reykjavik (UDP),192.71.218.210,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
-Iceland 2 (UDP),192.71.218.171,udp,1194
+Iceland 2 (UDP),192.71.218.171,udp,1194,#CERT=ca.vpnarea.crt #REMOVE=2
 India - Bangalore (UDP),139.59.15.231,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
 India - Pune (UDP),103.12.211.55,udp,443,#CERT=ca.vpnarea.crt #REMOVE=2
 India - Pune 2 (UDP),103.12.211.92,udp,443,#CERT=ca.vpnarea.crt #REMOVE=2
@@ -77,7 +77,7 @@ Iran - Tehran (UDP),185.4.29.128,udp,443,#CERT=ca.vpnarea.crt #REMOVE=2
 Ireland - Dublin (UDP),217.78.5.34,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
 Isle of Man (UDP),37.235.55.23,udp,443,#CERT=ca.vpnarea.crt #REMOVE=2
 Isle of Man 2 (UDP),37.235.55.169,udp,443,#CERT=ca.vpnarea.crt #REMOVE=2
-Israel - Tel Aviv (UDP),193.182.144.18,udp,1194
+Israel - Tel Aviv (UDP),193.182.144.18,udp,1194,#CERT=ca.vpnarea.crt #REMOVE=2
 Italy - SkyGo (UDP),217.64.198.17,udp,8292,#CERT=ca.vpnarea.crt #REMOVE=2
 Italy - Milano (UDP),151.236.18.20,udp,443,#CERT=ca.vpnarea.crt #REMOVE=2
 Italy - SkyGo 3 (UDP),89.46.73.126,udp,8292,#CERT=ca.vpnarea.crt #REMOVE=2
@@ -86,8 +86,8 @@ Italy - SkyGo 6 (UDP),89.46.75.88,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
 Italy - SkyGo 5 (UDP),80.88.90.110,udp,8292,#CERT=ca.vpnarea.crt #REMOVE=2
 Italy - SkyGo 4 (UDP),89.46.73.109,udp,53,#CERT=ca.vpnarea.crt #REMOVE=2
 Italy (UDP),149.154.157.128,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
-Japan - Tokyo (UDP),108.61.201.106,udp,1194
-Japan - Tokyo 2 (UDP),108.61.201.150,udp,1194
+Japan - Tokyo (UDP),108.61.201.106,udp,1194,#CERT=ca.vpnarea.crt #REMOVE=2
+Japan - Tokyo 2 (UDP),108.61.201.150,udp,1194,#CERT=ca.vpnarea.crt #REMOVE=2
 Kyrgyzstan - Borneo (UDP),176.126.167.57,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
 Latvia - Riga (UDP),159.148.27.121,udp,443,#CERT=ca.vpnarea.crt #REMOVE=2
 Latvia - Riga 2 (UDP),159.148.27.174,udp,443,#CERT=ca.vpnarea.crt #REMOVE=2
@@ -105,14 +105,14 @@ Netherlands - Amsterdam 5 (UDP),185.14.28.100,udp,111,#CERT=ca.vpnarea.crt #REMO
 Netherlands - P2P 2 (UDP),188.166.1.43,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
 Netherlands - P2P (UDP),146.185.169.89,udp,8292,#CERT=ca.vpnarea.crt #REMOVE=2
 New Zealand (UDP),49.50.251.58,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
-New Zealand - Auckland 2 (UDP),163.47.21.26,udp,1194
-New Zealand - Auckland 3 (UDP),163.47.21.27,udp,1195
+New Zealand - Auckland 2 (UDP),163.47.21.26,udp,1194,#CERT=ca.vpnarea.crt #REMOVE=2
+New Zealand - Auckland 3 (UDP),163.47.21.27,udp,1195,#CERT=ca.vpnarea.crt #REMOVE=2
 Norway - Oslo (UDP),185.90.61.31,udp,53,#CERT=ca.vpnarea.crt #REMOVE=2
 Norway - Oslo 2 (UDP),185.90.61.58,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
 Panama (UDP),190.14.37.240,udp,443,#CERT=ca.vpnarea.crt #REMOVE=2
 Philppines - Manila (UDP),116.93.119.237,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
 Poland - Slaskie (UDP),178.19.109.229,udp,443,#CERT=ca.vpnarea.crt #REMOVE=2
-Poland - Warsaw (UDP),37.235.48.101,udp,1194
+Poland - Warsaw (UDP),37.235.48.101,udp,1194,#CERT=ca.vpnarea.crt #REMOVE=2
 Poland - Warsaw2 (UDP),37.235.48.101,udp,8292,#CERT=ca.vpnarea.crt #REMOVE=2
 Romania - Alba (UDP),77.81.104.24,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
 Romania - Bucharest (UDP),91.195.98.84,udp,8292,#CERT=ca.vpnarea.crt #REMOVE=2
@@ -134,7 +134,7 @@ South Africa (UDP),154.127.60.109,udp,443,#CERT=ca.vpnarea.crt #REMOVE=2
 South Africa - Johannesburg (UDP),154.127.60.70,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
 South Korea - Seoul (UDP), 211.33.122.253,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
 Spain - Alicante (UDP),5.134.115.109,udp,443,#CERT=ca.vpnarea.crt #REMOVE=2
-Spain - Alicante 2 (UDP),5.134.115.233,udp,1194
+Spain - Alicante 2 (UDP),5.134.115.233,udp,1194,#CERT=ca.vpnarea.crt #REMOVE=2
 Spain - Barcelona (UDP),185.47.131.193,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
 Spain - Barcelona 2 (UDP),185.47.131.151,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
 Spain - Madrid (UDP),37.235.53.76,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2

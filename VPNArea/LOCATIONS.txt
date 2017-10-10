@@ -1,9 +1,9 @@
-US Colibri-US (UDP),138.68.60.1,udp,1194,#USERCERT=user.crt #USERKEY=user.key #TA=ta.key #CERT=ca.colibri.crt #REMOVE=1
-US Colibri-US (TCP),138.68.60.1,tcp,1194,#USERCERT=user.crt #USERKEY=user.key #TA=ta.key #CERT=ca.colibri.crt #REMOVE=1
-US Colibri-GB (UDP),45.76.135.188,udp,1194,#USERCERT=user.crt #USERKEY=user.key #TA=ta.key #CERT=ca.colibri.crt #REMOVE=1
-US Colibri-GB (TCP),45.76.135.188,tcp,1194,#USERCERT=user.crt #USERKEY=user.key #TA=ta.key #CERT=ca.colibri.crt #REMOVE=1
-GB Colibri-GB (UDP),45.32.182.243,udp,1194,#USERCERT=user.crt #USERKEY=user.key #TA=ta.key #CERT=ca.colibri.crt #REMOVE=1
-GB Colibri-GB (TCP),45.32.182.243,tcp,1194,#USERCERT=user.crt #USERKEY=user.key #TA=ta.key #CERT=ca.colibri.crt #REMOVE=1
+US Colibri-US (UDP),138.68.60.1,udp,1194,#CERT=ca.colibri.crt #REMOVE=1
+US Colibri-US (TCP),138.68.60.1,tcp,1194,#CERT=ca.colibri.crt #REMOVE=1
+US Colibri-GB (UDP),45.76.135.188,udp,1194,#CERT=ca.colibri.crt #REMOVE=1
+US Colibri-GB (TCP),45.76.135.188,tcp,1194,#CERT=ca.colibri.crt #REMOVE=1
+GB Colibri-GB (UDP),45.32.182.243,udp,1194,#CERT=ca.colibri.crt #REMOVE=1
+GB Colibri-GB (TCP),45.32.182.243,tcp,1194,#CERT=ca.colibri.crt #REMOVE=1
 Austria (UDP),151.236.6.106,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2
 Austria - Vienna (UDP),151.236.10.218,udp,53,#CERT=ca.vpnarea.crt #REMOVE=2
 Austria - Graz (UDP),149.154.153.144,udp,111,#CERT=ca.vpnarea.crt #REMOVE=2

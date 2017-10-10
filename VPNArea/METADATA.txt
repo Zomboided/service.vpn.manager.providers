@@ -1,5 +1,9 @@
-1501708457
-400 4
+1507471504
+400 8
 LOCATIONS.txt
 TEMPLATE.txt
-ca.crt
+ca.vpnarea.crt
+user.crt
+user.key
+ta.key
+ca.colibri.crt

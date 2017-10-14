@@ -1,6 +1,8 @@
 client
 dev tun
 proto #PROTO
+cipher AES-256-CBC
+remote-cert-tls server
 remote #SERVER #PORT
 resolv-retry 30
 nobind

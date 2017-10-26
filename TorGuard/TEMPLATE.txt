@@ -2,24 +2,17 @@ client
 dev tun
 proto #PROTO
 remote #SERVER #PORT
-remote-cert-tls server
 resolv-retry 30
 nobind
 persist-key
 persist-tun
-auth-user-pass #PASS
-comp-lzo adaptive
-#REMOVE1mssfix 1450
-#REMOVE1fast-io
-mute-replay-warnings
-verb 3
-auth-nocache
 ca #CERT
-tls-auth #TLSKEY
-key-direction 1
-setenv CLIENT_CERT 0
-auth SHA256
-cipher AES-128-CBC
-tls-cipher TLS-DHE-RSA-WITH-AES-256-GCM-SHA384:TLS-DHE-RSA-WITH-AES-128-GCM-SHA256:TLS-DHE-RSA-WITH-AES-256-CBC-SHA:TLS-DHE-RSA-WITH-CAMELLIA-256-CBC-SHA:TLS-DHE-RSA-WITH-AES-128-CBC-SHA:TLS-DHE-RSA-WITH-CAMELLIA-128-CBC-SHA
-sndbuf 524288
-rcvbuf 524288
+#REMOVE1tls-auth #TLSKEY 1
+#REMOVE1auth SHA256
+#REMOVE1cipher AES-128-CBC
+remote-cert-tls server
+auth-user-pass #PASS
+comp-lzo
+verb 3
+reneg-sec 0
+fast-io

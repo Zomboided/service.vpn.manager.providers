@@ -9,7 +9,7 @@ persist-key
 persist-tun
 nobind
 cipher AES-256-CBC
-auth MD5
+auth sha256
 script-security 2
 remote-cert-tls server
 route-delay 5

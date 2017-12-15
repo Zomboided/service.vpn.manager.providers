@@ -1,0 +1,3 @@
+LOCATIONS.txt
+TEMPLATE.txt
+ca.crt

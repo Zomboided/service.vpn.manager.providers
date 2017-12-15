@@ -1,0 +1,88 @@
+Australia - Sydney (UDP),au.mullvad.net,udp,1194
+Australia - Sydney (TCP),au.mullvad.net,tcp-client,443
+Australia - Melbourne (UDP),au-mel.mullvad.net,udp,1194
+Australia - Melbourne (TCP),au-mel.mullvad.net,tcp-client,443
+Austria - Wien (UDP),at.mullvad.net,udp,1194
+Austria - Wien (TCP),at.mullvad.net,tcp-client,443
+Belgium - Brussels (UDP),be.mullvad.net,udp,1194
+Belgium - Brussels (TCP),be.mullvad.net,tcp-client,443
+Bulgaria - Sofia (UDP),bg.mullvad.net,udp,1194
+Bulgaria - Sofia (TCP),bg.mullvad.net,tcp-client,443
+Canada - Toronto (UDP),ca-on.mullvad.net,udp,1194
+Canada - Toronto (TCP),ca-on.mullvad.net,tcp-client,443
+Canada - Vancouver (UDP),ca-bc.mullvad.net,udp,1194
+Canada - Vancouver (TCP),ca-bc.mullvad.net,tcp-client,443
+Czech Rep. - Prague (UDP),cz.mullvad.net,udp,1194
+Czech Rep. - Prague (TCP),cz.mullvad.net,tcp-client,443
+Denmark - Copenhagen (UDP),dk.mullvad.net,udp,1194
+Denmark - Copenhagen (TCP),dk.mullvad.net,tcp-client,443
+Finland - Helsinki (UDP),fi.mullvad.net,udp,1194
+Finland - Helsinki (TCP),fi.mullvad.net,tcp-client,443
+France - Paris (UDP),fr.mullvad.net,udp,1194
+France - Paris (TCP),fr.mullvad.net,tcp-client,443
+Germany - Berlin (UDP),de-ber.mullvad.net,udp,1194
+Germany - Berlin (TCP),de-ber.mullvad.net,tcp-client,443
+Germany - Frankfurt (UDP),de-fra.mullvad.net,udp,1194
+Germany - Frankfurt (TCP),de-fra.mullvad.net,tcp-client,443
+Hong Kong (UDP),hk.mullvad.net,udp,1194
+Hong Kong (TCP),hk.mullvad.net,tcp-client,443
+Hungary - Budapest (UDP),hu.mullvad.net,udp,1194
+Hungary - Budapest (TCP),hu.mullvad.net,tcp-client,443
+Israel - Petach-Tikva (UDP),il.mullvad.net,udp,1194
+Israel - Petach-Tikva (TCP),il.mullvad.net,tcp-client,443
+Italy - Milan (UDP),it.mullvad.net,udp,1194
+Italy - Milan (UDP),it.mullvad.net,tcp-client,443
+Japan - Tokyo (UDP),jp.mullvad.net,udp,1194
+Japan - Tokyo (TCP),jp.mullvad.net,tcp-client,443
+Moldova - Chisinau (UDP),md.mullvad.net,udp,1194
+Moldova - Chisinau (TCP),md.mullvad.net,tcp-client,443
+Netherlands - Amsterdam (UDP),nl.mullvad.net,udp,1194
+Netherlands - Amsterdam (TCP),nl.mullvad.net,tcp-client,443
+Norway - Oslo (UDP),no.mullvad.net,udp,1194
+Norway - Oslo (TCP),no.mullvad.net,tcp-client,443
+Poland - Warsaw (UDP),pl.mullvad.net,udp,1194
+Poland - Warsaw (TCP),pl.mullvad.net,tcp-client,443
+Portugal - Lisbon (UDP),pt.mullvad.net,udp,1194
+Portugal - Lisbon (TCP),pt.mullvad.net,tcp-client,443
+Romania - Bucharest (UDP),ro.mullvad.net,udp,1194
+Romania - Bucharest (TCP),ro.mullvad.net,tcp-client,443
+Singapore (UDP),sg.mullvad.net,udp,1194
+Singapore (TCP),sg.mullvad.net,tcp-client,443
+Spain - Madrid (UDP),es.mullvad.net,udp,1194
+Spain - Madrid (TCP),es.mullvad.net,tcp-client,443
+Sweden - Malmö (UDP),se-mma.mullvad.net,udp,1194
+Sweden - Malmö (TCP),se-mma.mullvad.net,tcp-client,443
+Sweden - Helsingborg (UDP),se-sto.mullvad.net,udp,1194
+Sweden - Helsingborg (TCP),se-sto.mullvad.net,tcp-client,443
+Sweden - Stockholm (UDP),se-sto.mullvad.net,udp,1194
+Sweden - Stockholm (TCP),se-sto.mullvad.net,tcp-client,443
+Switzerland - Zurich (UDP),ch.mullvad.net,udp,1194
+Switzerland - Zurich (TCP),ch.mullvad.net,tcp-client,443
+UK - London (UDP),gb-lon.mullvad.net,udp,1194
+UK - London (TCP),gb-lon.mullvad.net,tcp-client,443
+UK - Manchester (UDP),gb-mnc.mullvad.net,udp,1194
+UK - Manchester (TCP),gb-mnc.mullvad.net,tcp-client,443
+USA - Atlanta (UDP),us-ga.mullvad.net,udp,1194
+USA - Atlanta (TCP),us-ga.mullvad.net,tcp-client,443
+USA - Chicago (UDP),us-il.mullvad.net,udp,1194
+USA - Chicago (TCP),us-il.mullvad.net,tcp-client,443
+USA - Dallas (UDP),s-tx.mullvad.net,udp,1194
+USA - Dallas (TCP),s-tx.mullvad.net,tcp-client,443
+USA - Las Vegas (UDP),us-nv.mullvad.net,udp,1194
+USA - Las Vegas (TCP),us-nv.mullvad.net,tcp-client,443
+USA - Los Angeles (UDP),us-ca.mullvad.net,udp,1194
+USA - Los Angeles (TCP),us-ca.mullvad.net,tcp-client,443
+USA - Miami (UDP),us-fl.mullvad.net,udp,1194
+USA - Miami (TCP),us-fl.mullvad.net,tcp-client,443
+USA - Newark (UDP),us-nj.mullvad.net,udp,1194
+USA - Newark (TCP),us-nj.mullvad.net,tcp-client,443
+USA - New Jersey (UDP),us-nj.mullvad.net,udp,1194
+USA - New Jersey (TCP),us-nj.mullvad.net,tcp-client,443
+USA - New York (UDP),us-ny.mullvad.net,udp,1194
+USA - New York (TCP),us-ny.mullvad.net,tcp-client,443
+USA - Phoenix (UDP),us-az.mullvad.net,udp,1194
+USA - Phoenix (TCP),us-az.mullvad.net,tcp-client,443
+USA - Salt Lake City (UDP),us-ut.mullvad.net,udp,1194
+USA - Salt Lake City (TCP),us-ut.mullvad.net,tcp-client,443
+USA - Seattle (UDP),us-wa.mullvad.net,udp,1194
+USA - Seattle (TCP),us-wa.mullvad.net,tcp-client,443

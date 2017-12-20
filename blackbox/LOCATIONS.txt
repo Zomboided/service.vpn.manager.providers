@@ -4,3 +4,5 @@ GB - United Kingdom (UDP),gb.blackbox.unzoner.com,udp,1194
 GB - United Kingdom (TCP),gb.blackbox.unzoner.com,tcp,1194,#REMOVE=1
 CA - Canada (UDP),ca.blackbox.unzoner.com,udp,1194
 CA - Canada (TCP),ca.blackbox.unzoner.com,tcp,1194,#REMOVE=1
+ES - Spain (UDP),es.blackbox.unzoner.com,udp,1194
+ES - Spain (TCP),es.blackbox.unzoner.com,tcp,1194,#REMOVE=1

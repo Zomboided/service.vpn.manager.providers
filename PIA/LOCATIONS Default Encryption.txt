@@ -2,6 +2,10 @@ AU Melbourne (UDP),aus-melbourne.privateinternetaccess.com,udp,1198,#REMOVE=1 #C
 AU Melbourne (TCP),aus-melbourne.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 AU Sydney (UDP),aus.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 AU Sydney (TCP),aus.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+Austria (UDP),austria.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+Austria (TCP),austria.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+Belgium (UDP),belgium.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+Belgium (TCP),belgium.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 Brazil (UDP),brazil.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 Brazil (TCP),brazil.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 CA North York (UDP),ca.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
@@ -48,6 +52,8 @@ Turkey (UDP),turkey.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.20
 Turkey (TCP),turkey.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 UK London (UDP),uk-london.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 UK London (TCP),uk-london.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+UK Manchester (UDP),uk-manchester.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+UK Manchester (TCP),uk-manchester.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 UK Southampton (UDP),uk-southampton.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 UK Southampton (TCP),uk-southampton.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 US California (UDP),us-california.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem

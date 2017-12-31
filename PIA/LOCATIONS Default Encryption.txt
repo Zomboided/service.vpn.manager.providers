@@ -48,6 +48,8 @@ Singapore (UDP),sg.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.204
 Singapore (TCP),sg.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 South Korea (UDP),kr.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 South Korea (TCP),kr.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+Spain (UDP),spain.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+Spain (TCP),spain.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 Sweden (UDP),sweden.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 Sweden (TCP),sweden.privateinternetaccess.com,tcp,443,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 Switzerland (UDP),swiss.privateinternetaccess.com,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem

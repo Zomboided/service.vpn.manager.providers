@@ -1,6 +1,5 @@
-LOCATIONS All Locations.txt
-LOCATIONS EU.txt
-LOCATIONS UK and Ireland.txt
-LOCATIONS USA and Canada.txt
+1521302092
+400 4
+LOCATIONS.txt
 TEMPLATE.txt
 ca.crt

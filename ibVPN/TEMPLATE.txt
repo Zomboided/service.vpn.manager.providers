@@ -3,6 +3,7 @@ server-poll-timeout 20
 client
 dev tap
 auth-user-pass #PASS
+auth-retry nointeract
 resolv-retry 30
 persist-key
 persist-tun
@@ -15,7 +16,7 @@ mute 20
 fragment 1300
 route-delay 2
 reneg-sec 0
-explicit-exit-notify 2
+explicit-exit-notify 3
 link-mtu 1578
 nobind
 remote-cert-tls server

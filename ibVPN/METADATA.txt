@@ -1,7 +1,5 @@
-1521308398
-441 6
+1521318714
+400 4
 LOCATIONS.txt
 TEMPLATE.txt
 ca.crt
-down.sh
-up.sh

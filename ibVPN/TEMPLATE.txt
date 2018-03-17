@@ -1,17 +1,22 @@
 remote #SERVER #PORT #PROTO
+server-poll-timeout 20
 client
 dev tap
+auth-user-pass #PASS
 resolv-retry 30
 persist-key
+persist-tun
 mute-replay-warnings
 ca #CERT
+auth RSA-SHA512
+cipher AES-256-CBC
 comp-lzo
 mute 20
-ns-cert-type server
 fragment 1300
 route-delay 2
-max-routes 5000
-auth-user-pass #PASS
 reneg-sec 0
 explicit-exit-notify 2
 link-mtu 1578
+nobind
+remote-cert-tls server
+route-method exe

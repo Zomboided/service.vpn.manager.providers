@@ -1,5 +1,3 @@
-1490702566
-400 6
 LOCATIONS All Locations.txt
 LOCATIONS EU.txt
 LOCATIONS UK and Ireland.txt

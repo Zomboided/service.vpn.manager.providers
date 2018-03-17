@@ -5,7 +5,6 @@ dev tap
 auth-user-pass #PASS
 #REMOVELINUXroute-metric 512
 #REMOVELINUXroute 0.0.0.0 0.0.0.0
-auth-retry nointeract
 resolv-retry 30
 persist-key
 persist-tun

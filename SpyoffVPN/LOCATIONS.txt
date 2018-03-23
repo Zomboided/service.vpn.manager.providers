@@ -1,0 +1,66 @@
+Australia - Sydney (TCP),australia-sydney.spyoff.network,tcp,1194
+Australia - Sydney (UDP),australia-sydney.spyoff.network,udp,1194
+Austria - Vienna (TCP),austria-vienna.spyoff.network,tcp,1194
+Austria - Vienna (UDP),austria-vienna.spyoff.network,udp,1194
+Belgium - Brussels (TCP),belgium-brussels.spyoff.network,tcp,1194
+Belgium - Brussels (UDP),belgium-brussels.spyoff.network,udp,1194
+Canada - Toronto (TCP),canada-toronto.spyoff.network,tcp,1194
+Canada - Toronto (UDP),canada-toronto.spyoff.network,udp,1194
+Czech Republic - Prague (TCP),czechrepublic-prague.spyoff.network,tcp,1194
+Czech Republic - Prague (UDP),czechrepublic-prague.spyoff.network,udp,1194
+France - Paris (TCP),france-paris.spyoff.network,tcp,1194
+France - Paris (UDP),france-paris.spyoff.network,udp,1194
+Germany - Dusseldorf (TCP),germany-dusseldorf.spyoff.network,tcp,1194
+Germany - Dusseldorf (UDP),germany-dusseldorf.spyoff.network,udp,1194
+Germany - Frankfurt (TCP),germany-frankfurt.spyoff.network,tcp,1194
+Germany - Frankfurt (UDP),germany-frankfurt.spyoff.network,udp,1194
+Hong Kong (TCP),hongkong.spyoff.network,tcp,1194
+Hong Kong (UDP),hongkong.spyoff.network,udp,1194
+Hungary - Budapest (TCP),hungary-budapest.spyoff.network,tcp,1194
+Hungary - Budapest (UDP),hungary-budapest.spyoff.network,udp,1194
+India - Bangalore (TCP),india-bangalore.spyoff.network,tcp,1194
+India - Bangalore (UDP),india-bangalore.spyoff.network,udp,1194
+Italy - Milan (TCP),italy-milan.spyoff.network,tcp,1194
+Italy - Milan (UDP),italy-milan.spyoff.network,udp,1194
+Japan - Tokyo (TCP),japan-tokyo.spyoff.network,tcp,1194
+Japan - Tokyo (UDP),japan-tokyo.spyoff.network,udp,1194
+Korea - Seoul (TCP),korea-seoul.spyoff.network,tcp,1194
+Korea - Seoul (UDP),korea-seoul.spyoff.network,udp,1194
+Netherlands - Amsterdam (TCP),netherlands-amsterdam.spyoff.network,tcp,1194
+Netherlands - Amsterdam (UDP),netherlands-amsterdam.spyoff.network,udp,1194
+Poland - Warsaw (TCP),poland-warsaw.spyoff.network,tcp,1194
+Poland - Warsaw (UDP),poland-warsaw.spyoff.network,udp,1194
+Romania - Bucharest (TCP),romania-bucharest.spyoff.network,tcp,1194
+Romania - Bucharest (UDP),romania-bucharest.spyoff.network,udp,1194
+Russia - St. Petersburg (TCP),russia-stpetersburg.spyoff.network,tcp,1194
+Russia - St. Petersburg (UDP),russia-stpetersburg.spyoff.network,udp,1194
+Singapore (TCP),singapore.spyoff.network,tcp,1194
+Singapore (UDP),singapore.spyoff.network,udp,1194
+South Africa - Johannesburg (TCP),southafrica-johannesburg.spyoff.network,tcp,1194
+South Africa - Johannesburg (UDP),southafrica-johannesburg.spyoff.network,udp,1194
+Spain - Madrid (TCP),spain-madrid.spyoff.network,tcp,1194
+Spain - Madrid (UDP),spain-madrid.spyoff.network,udp,1194
+Sweden - Stockholm (TCP),sweden-stockholm.spyoff.network,tcp,1194
+Sweden - Stockholm (UDP),sweden-stockholm.spyoff.network,udp,1194
+Switzerland - Zurich (TCP),switzerland-zurich.spyoff.network,tcp,1194
+Switzerland - Zurich (UDP),switzerland-zurich.spyoff.network,udp,1194
+Turkey - Bursa (TCP),turkey-bursa.spyoff.network,tcp,1194
+Turkey - Bursa (UDP),turkey-bursa.spyoff.network,udp,1194
+UK - London (TCP),uk-london.spyoff.network,tcp,1194
+UK - London (UDP),uk-london.spyoff.network,udp,1194
+USA - Atlanta (TCP),USA-atlanta.spyoff.network,tcp,1194
+USA - Atlanta (UDP),USA-atlanta.spyoff.network,udp,1194
+USA - Chicago (TCP),USA-chicago.spyoff.network,tcp,1194
+USA - Chicago (UDP),USA-chicago.spyoff.network,udp,1194
+USA - Dallas (TCP),USA-dallas.spyoff.network,tcp,1194
+USA - Dallas (UDP),USA-dallas.spyoff.network,udp,1194
+USA - Los Angeles (TCP),USA-losangeles.spyoff.network,tcp,1194
+USA - Los Angeles (UDP),USA-losangeles.spyoff.network,udp,1194
+USA - Miami (TCP),USA-miami.spyoff.network,tcp,1194
+USA - Miami (UDP),USA-miami.spyoff.network,udp,1194
+USA - Newyork (TCP),USA-newyork.spyoff.network,tcp,1194
+USA - Newyork (UDP),USA-newyork.spyoff.network,udp,1194
+USA - Phoenix (TCP),USA-phoenix.spyoff.network,tcp,1194
+USA - Phoenix (UDP),USA-phoenix.spyoff.network,udp,1194
+USA - Seattle (TCP),USA-seattle.spyoff.network,tcp,1194
+USA - Seattle (UDP),USA-seattle.spyoff.network,udp,1194

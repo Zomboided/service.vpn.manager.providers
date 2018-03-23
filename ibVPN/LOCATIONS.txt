@@ -1,0 +1,119 @@
+Argentina - Buenos Aires (UDP),ar1.ibvpn.com 131.255.5.126,udp,1196 1196
+Australia - Melbourne (UDP),au3.ibvpn.com 43.245.165.10,udp,1196 1196
+Australia - Sydney 1 (UDP),au1.ibvpn.com 52.62.84.224,udp,1196 1196
+Australia - Sydney 2 (UDP),au2.ibvpn.com 103.4.16.205,udp,1196 1196
+Austria - Vienna 1 (UDP),at1.ibvpn.com 159.100.24.170,udp,1196 1196
+Austria - Vienna 2 (UDP),at2.ibvpn.com 185.9.19.50,udp,1196 1196
+Belgium - Brussels (UDP),be1.ibvpn.com 194.187.251.26,udp,1196 1196
+Brazil - Sao Paulo (UDP),br1.ibvpn.com 191.96.6.217,udp,1196 1196
+Bulgaria - Sofia (UDP),bg1.ibvpn.com 185.94.192.26,udp,1196 1196
+Canada - Montreal (UDP),ca2.ibvpn.com 198.100.146.121,udp,1196 1196
+Canada - Toronto 6 (UDP),ca1.ibvpn.com 159.203.4.110,udp,1196 1196
+Canada - Toronto 7 (UDP),ca7.ibvpn.com 198.144.157.54,udp,1196 1196
+Canada - Vancouver 1 (UDP),ca10.ibvpn.com 162.221.207.51,udp,1196 1196
+Canada - Vancouver 2 (UDP),ca11.ibvpn.com 162.221.207.44,udp,1196 1196
+Chile - Vina Del Mar (UDP),cl1.ibvpn.com 37.235.52.109,udp,1196 1196
+China - Beijing (UDP),cn1.ibvpn.com 118.89.229.51,udp,1196 1196
+China - Shanghai (UDP),cn2.ibvpn.com 118.89.102.141,udp,1196 1196
+Denmark - Copenhagen (UDP),dk1.ibvpn.com 185.186.79.138,udp,1196 1196
+Double VPN - China to Netherlands (UDP),cn2nl.ibvpn.com 139.199.188.160,udp,1196 1196
+Double VPN - China to USA (UDP),cn2us.ibvpn.com 123.207.35.150,udp,1196 1196
+Egypt - Cairo (UDP),eg1.ibvpn.com 212.32.242.225,udp,1196 1196
+Finland - Helsinki 1 (UDP),fi1.ibvpn.com 185.117.118.195,udp,1196 1196
+Finland - Helsinki 2 (UDP),fi2.ibvpn.com 185.87.108.147,udp,1196 1196
+France - Gravelines (UDP),fr3.ibvpn.com 54.37.149.102,udp,1196 1196
+France - Paris 1 (UDP),fr1.ibvpn.com 178.33.82.189,udp,1196 1196
+France - Paris 2 (UDP),fr2.ibvpn.com 5.196.72.181,udp,1196 1196
+France - Roubaix (UDP),fr5.ibvpn.com 217.182.225.44,udp,1196 1196
+France - Strasbourg (UDP),fr4.ibvpn.com 54.36.100.174,udp,1196 1196
+Germany - Frankfurt 1 (UDP),de1.ibvpn.com 178.162.197.145,udp,1196 1196
+Germany - Frankfurt 2 (UDP),de2.ibvpn.com 46.165.236.109,udp,1196 1196
+Germany - Frankfurt 3 (UDP),de3.ibvpn.com 178.162.221.62,udp,1196 1196
+Germany - Frankfurt 4 (UDP),de4.ibvpn.com 178.162.221.209,udp,1196 1196
+Greece - Athens (UDP),gr1.ibvpn.com 78.108.46.220,udp,1196 1196
+Hong Kong - Hong Kong 1 (UDP),hk1.ibvpn.com 103.53.199.63,udp,1196 1196
+Hong Kong - Hong Kong 3 (UDP),hk3.ibvpn.com 27.0.232.223,udp,1196 1196
+Hungary - Budapest (UDP),hu1.ibvpn.com 91.219.237.76,udp,1196 1196
+Iceland - Hafnarfjordur (UDP),is1.ibvpn.com 37.235.49.190,udp,1196 1196
+India - Bangalore (UDP),in5.ibvpn.com 139.59.2.46,udp,1196 1196
+India - Indore (UDP),in3.ibvpn.com 137.59.54.134,udp,1196 1196
+India - Mumbai (UDP),in6.ibvpn.com 35.154.14.95,udp,1196 1196
+India - Pune 1 (UDP),in1.ibvpn.com 45.64.106.35,udp,1196 1196
+India - Pune 2 (UDP),in2.ibvpn.com 45.64.106.21,udp,1196 1196
+Indonesia - Jakarta (UDP),id1.ibvpn.com 45.114.118.156,udp,1196 1196
+Ireland - Dublin 2 (UDP),ie2.ibvpn.com 54.76.43.17,udp,1196 1196
+Israel - Rosh Haayin (UDP),il1.ibvpn.com 212.199.114.139,udp,1196 1196
+Israel - Tel Aviv 2 (UDP),il2.ibvpn.com 185.229.226.251,udp,1196 1196
+Italy - Milan 1 (UDP),it1.ibvpn.com 158.58.172.153,udp,1196 1196
+Italy - Palermo (UDP),it3.ibvpn.com 185.79.248.171,udp,1196 1196
+Japan - Tokyo 1 (UDP),jp1.ibvpn.com 13.114.225.40,udp,1196 1196
+Japan - Tokyo 2 (UDP),jp2.ibvpn.com 103.75.118.117,udp,1196 1196
+Japan - Tokyo 3 (UDP),jp3.ibvpn.com 45.32.29.235,udp,1196 1196
+Malaysia - Kuala Lumpur 2 (UDP),my2.ibvpn.com 103.75.191.166,udp,1196 1196
+Netherlands - Amsterdam 1 (UDP),nl2.ibvpn.com 62.212.73.52,udp,1196 1196
+Netherlands - Amsterdam 4 (UDP),nl7.ibvpn.com 37.48.66.69,udp,1196 1196
+Netherlands - Dronten (UDP),nl9.ibvpn.com 93.158.216.215,udp,1196 1196
+Netherlands - Haarlem 1 (UDP),nl1.ibvpn.com 95.211.162.11,udp,1196 1196
+Netherlands - Haarlem 2 (UDP),nl3.ibvpn.com 5.79.79.21,udp,1196 1196
+Netherlands - Rotterdam (UDP),nl8.ibvpn.com 85.17.72.113,udp,1196 1196
+New Zealand - Auckland (UDP),nz1.ibvpn.com 113.21.224.30,udp,1196 1196
+Norway - Oslo (UDP),no1.ibvpn.com 217.170.205.10,udp,1196 1196
+Panama - Panama 1 (UDP),pa1.ibvpn.com 200.74.240.92,udp,1196 1196
+Panama - Panama 2 (UDP),pa2.ibvpn.com 200.74.240.183,udp,1196 1196
+Poland - Warsaw (UDP),pl1.ibvpn.com 37.235.48.79,udp,1196 1196
+Portugal - Lisbon (UDP),pt1.ibvpn.com 94.46.175.222,udp,1196 1196
+Romania - Bucharest (UDP),ro1.ibvpn.com 89.46.101.70,udp,1196 1196
+Russia - Moscow 1 (UDP),ru1.ibvpn.com 62.109.30.187,udp,1196 1196
+Saudi - Arabia Riyadh (UDP),sa1.ibvpn.com 46.151.208.136,udp,1196 1196
+Singapore - Singapore 1 (UDP),sg1.ibvpn.com 209.58.164.21,udp,1196 1196
+Singapore - Singapore 2 (UDP),sg2.ibvpn.com 128.199.219.155,udp,1196 1196
+Slovenia - Ljubljana (UDP),si1.ibvpn.com 192.71.244.25,udp,1196 1196
+South Africa - Johannesburg (UDP),za1.ibvpn.com 129.232.129.149,udp,1196 1196
+South Korea - Seoul (UDP),kr1.ibvpn.com 103.212.223.67,udp,1196 1196
+Spain - Madrid 1 (UDP),es1.ibvpn.com 192.71.213.14,udp,1196 1196
+Spain - Madrid 2 (UDP),es2.ibvpn.com 37.235.53.75,udp,1196 1196
+Spain - Valencia (UDP),es3.ibvpn.com 185.140.114.111,udp,1196 1196
+Sweden - Stockholm 1 (UDP),se1.ibvpn.com 178.73.210.251,udp,1196 1196
+Sweden - Stockholm 8 (UDP),se8.ibvpn.com 178.73.210.247,udp,1196 1196
+Switzerland - Geneva (UDP),ch2.ibvpn.com 176.10.116.144,udp,1196 1196
+Switzerland - Zurich 1 (UDP),ch1.ibvpn.com 176.10.116.36,udp,1196 1196
+Taiwan - Taiwan 1 (UDP),tw1.ibvpn.com 103.9.116.113,udp,1196 1196
+Turkey - Istanbul (UDP),tr1.ibvpn.com 185.65.206.153,udp,1196 1196
+UAE - Dubai (UDP),ae1.ibvpn.com 188.172.255.18,udp,1196 1196
+UK - Gosport (UDP),uk6.ibvpn.com 88.150.220.171,udp,1196 1196
+UK - Leeds (UDP),uk2.ibvpn.com 94.76.229.169,udp,1196 1196
+UK - London 1 (UDP),uk3.ibvpn.com 213.229.106.229,udp,1196 1196
+UK - London 10 (UDP),uk14.ibvpn.com 213.229.106.142,udp,1196 1196
+UK - London 2 (UDP),uk5.ibvpn.com 5.152.207.50,udp,1196 1196
+UK - London 3 (UDP),uk1.ibvpn.com 151.236.32.28,udp,1196 1196
+UK - London 4 (UDP),uk9.ibvpn.com 213.229.106.134,udp,1196 1196
+UK - London 5 (UDP),uk10.ibvpn.com 213.229.106.131,udp,1196 1196
+UK - London 6 (UDP),uk11.ibvpn.com 94.76.229.149,udp,1196 1196
+UK - London 7 (UDP),uk12.ibvpn.com 213.229.106.143,udp,1196 1196
+UK - London 8 (UDP),uk13.ibvpn.com 213.229.106.228,udp,1196 1196
+UK - London 9 (UDP),uk7.ibvpn.com 46.101.16.118,udp,1196 1196
+UK - Manchester 1 (UDP),uk4.ibvpn.com 5.152.207.100,udp,1196 1196
+UK - Manchester 2 (UDP),uk8.ibvpn.com 77.81.107.220,udp,1196 1196
+USA - Chicago 1 (UDP),us7.ibvpn.com 104.151.246.108,udp,1196 1196
+USA - Columbus (UDP),us26.ibvpn.com 13.59.247.138,udp,1196 1196
+USA - Dallas 1 (UDP),us3.ibvpn.com 23.88.233.100,udp,1196 1196
+USA - Dallas 2 (UDP),us9.ibvpn.com 104.151.234.130,udp,1196 1196
+USA - Dallas 3 (UDP),us14.ibvpn.com 104.151.234.136,udp,1196 1196
+USA - Denver 1 (UDP),us13.ibvpn.com 174.128.239.226,udp,1196 1196
+USA - Houston 1 (UDP),us6.ibvpn.com 66.187.71.78,udp,1196 1196
+USA - Jacksonville (UDP),us18.ibvpn.com 155.94.88.106,udp,1196 1196
+USA - Kansas City 1 (UDP),us12.ibvpn.com 107.150.52.82,udp,1196 1196
+USA - Los Angeles 1 (UDP),us5.ibvpn.com 23.89.175.10,udp,1196 1196
+USA - Los Angeles 3 (UDP),us11.ibvpn.com 142.234.27.98,udp,1196 1196
+USA - Manassas (UDP),us1.ibvpn.com 207.244.75.15,udp,1196 1196
+USA - New Jersey 1 (UDP),us16.ibvpn.com 104.131.112.168,udp,1196 1196
+USA - New York 1 (UDP),us21.ibvpn.com 207.244.100.145,udp,1196 1196
+USA - New York 2 (UDP),us22.ibvpn.com 207.244.100.146,udp,1196 1196
+USA - New York 3 (UDP),us23.ibvpn.com 207.244.100.147,udp,1196 1196
+USA - New York 4 (UDP),us24.ibvpn.com 207.244.100.148,udp,1196 1196
+USA - New York 5 (UDP),us25.ibvpn.com 207.244.100.149,udp,1196 1196
+USA - New York 6 (UDP),us8.ibvpn.com 107.170.143.77,udp,1196 1196
+USA - New York 7 (UDP),us17.ibvpn.com 192.81.217.199,udp,1196 1196
+USA - Phoenix (UDP),us2.ibvpn.com 107.167.93.34,udp,1196 1196
+USA - San Francisco 1 (UDP),us15.ibvpn.com 45.55.12.64,udp,1196 1196
+USA - Seattle (UDP),us4.ibvpn.com 216.244.80.202,udp,1196 1196

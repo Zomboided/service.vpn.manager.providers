@@ -15,7 +15,6 @@
 5,perfect-privacy.com,Perfect Privacy is supported natively - consider using that instead.
 5,privateinternetaccess.com,Private Internet Access is supported natively - consider using that instead.
 5,proxpn.com,proXPN is supported natively - consider using that instead.
-5,pointtoserver.com,PureVPN is supported natively - consider using that instead.
 5,ra4wvpn.com,RA4W VPN is supported natively - consider using that instead.
 5,safervpn.com,SaferVPN is supported natively - consider using that instead.
 5,smart.serverlocation.co,Smart DNS Proxy is supported natively - consider using that instead.

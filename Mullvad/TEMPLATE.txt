@@ -1,0 +1,22 @@
+client
+dev tun
+proto #PROTO
+remote #SERVER #PORT
+remote-cert-tls server
+resolv-retry 30
+nobind
+persist-key
+persist-tun
+auth-user-pass #PASS
+comp-lzo
+#REMOVE1fast-io
+mute-replay-warnings
+verb 3
+tun-ipv6
+auth-nocache
+ca #CERT
+crl-verify #CRLVERIFY
+cipher AES-256-CBC
+tls-cipher TLS-DHE-RSA-WITH-AES-256-GCM-SHA384:TLS-DHE-RSA-WITH-AES-128-GCM-SHA256:TLS-DHE-RSA-WITH-AES-256-CBC-SHA:TLS-DHE-RSA-WITH-CAMELLIA-256-CBC-SHA:TLS-DHE-RSA-WITH-AES-128-CBC-SHA:TLS-DHE-RSA-WITH-CAMELLIA-128-CBC-SHA
+sndbuf 524288
+rcvbuf 524288

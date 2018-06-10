@@ -1,0 +1,116 @@
+Australia (UDP),au.mullvad.net,udp,1302
+Australia (TCP),au.mullvad.net,tcp,443,#REMOVE=1
+Australia - Brisbane (UDP),au-bne.mullvad.net,udp,1302
+Australia - Brisbane (TCP),au-bne.mullvad.net,tcp,443,#REMOVE=1
+Australia - Melbourne (UDP),au-mel.mullvad.net,udp,1302
+Australia - Melbourne (TCP),au-mel.mullvad.net,tcp,443,#REMOVE=1
+Australia - Perth (UDP),au-per.mullvad.net,udp,1302
+Australia - Perth (TCP),au-per.mullvad.net,tcp,443,#REMOVE=1
+Australia - Sydney (UDP),au-syd.mullvad.net,udp,1302
+Australia - Sydney (TCP),au-syd.mullvad.net,tcp,443,#REMOVE=1
+Austria - Vienna (UDP),at.mullvad.net,udp,1302
+Austria - Vienna (TCP),at.mullvad.net,tcp,443,#REMOVE=1
+Belgium - Brussels (UDP),be.mullvad.net,udp,1302
+Belgium - Brussels (TCP),be.mullvad.net,tcp,443,#REMOVE=1
+Brazil - Sao Paolo (UDP),br.mullvad.net,udp,1302
+Brazil - Sao Paolo (TCP),br.mullvad.net,tcp,443,#REMOVE=1
+Bulgaria - Sofia (UDP),bg.mullvad.net,udp,1302
+Bulgaria - Sofia (TCP),bg.mullvad.net,tcp,443,#REMOVE=1
+Canada (UDP),ca.mullvad.net,udp,1302
+Canada (TCP),ca.mullvad.net,tcp,443,#REMOVE=1
+Canada - Toronto (UDP),ca-on.mullvad.net,udp,1302
+Canada - Toronto (TCP),ca-on.mullvad.net,tcp,443,#REMOVE=1
+Canada - Vancouver (UDP),ca-bc.mullvad.net,udp,1302
+Canada - Vancouver (TCP),ca-bc.mullvad.net,tcp,443,#REMOVE=1
+Czech Republic - Prague (UDP),cz.mullvad.net,udp,1302
+Czech Republic - Prague (TCP),cz.mullvad.net,tcp,443,#REMOVE=1
+Denmark - Copenhagen (UDP),dk.mullvad.net,udp,1302
+Denmark - Copenhagen (TCP),dk.mullvad.net,tcp,443,#REMOVE=1
+Finland - Helsinki (UDP),fi.mullvad.net,udp,1302
+Finland - Helsinki (TCP),fi.mullvad.net,tcp,443,#REMOVE=1
+France - Paris (UDP),fr.mullvad.net,udp,1302
+France - Paris (TCP),fr.mullvad.net,tcp,443,#REMOVE=1
+Germany (UDP),de.mullvad.net,udp,1302
+Germany (TCP),de.mullvad.net,tcp,443,#REMOVE=1
+Germany - Berlin (UDP),de-ber.mullvad.net,udp,1302
+Germany - Berlin (TCP),de-ber.mullvad.net,tcp,443,#REMOVE=1
+Germany - Frankfurt (UDP),de-fra.mullvad.net,udp,1302
+Germany - Frankfurt (TCP),de-fra.mullvad.net,tcp,443,#REMOVE=1
+Hong Kong (UDP),hk.mullvad.net,udp,1302
+Hong Kong (TCP),hk.mullvad.net,tcp,443,#REMOVE=1
+Hungary - Budapest (UDP),hu.mullvad.net,udp,1302
+Hungary - Budapest (TCP),hu.mullvad.net,tcp,443,#REMOVE=1
+Israel - Petach-Tikva (UDP),il.mullvad.net,udp,1302
+Israel - Petach-Tikva (TCP),il.mullvad.net,tcp,443,#REMOVE=1
+Italy - Milan (UDP),it.mullvad.net,udp,1302
+Italy - Milan (TCP),it.mullvad.net,tcp,443,#REMOVE=1
+Japan - Tokyo (UDP),jp.mullvad.net,udp,1302
+Japan - Tokyo (TCP),jp.mullvad.net,tcp,443,#REMOVE=1
+Luxembourg (UDP),lu.mullvad.net,udp,1302
+Luxembourg (TCP),lu.mullvad.net,tcp,443,#REMOVE=1
+Moldova - Chisinau (UDP),md.mullvad.net,udp,1302
+Moldova - Chisinau (TCP),md.mullvad.net,tcp,443,#REMOVE=1
+Netherlands - Amsterdam (UDP),nl.mullvad.net,udp,1302
+Netherlands - Amsterdam (TCP),nl.mullvad.net,tcp,443,#REMOVE=1
+Norway - Oslo (UDP),no.mullvad.net,udp,1302
+Norway - Oslo (TCP),no.mullvad.net,tcp,443,#REMOVE=1
+Poland - Warsaw (UDP),pl.mullvad.net,udp,1302
+Poland - Warsaw (TCP),pl.mullvad.net,tcp,443,#REMOVE=1
+Portugal - Lisbon (UDP),pt.mullvad.net,udp,1302
+Portugal - Lisbon (TCP),pt.mullvad.net,tcp,443,#REMOVE=1
+Romania - Bucharest (UDP),ro.mullvad.net,udp,1302
+Romania - Bucharest (TCP),ro.mullvad.net,tcp,443,#REMOVE=1
+Serbia - Nis (UDP),rs.mullvad.net,udp,1302
+Serbia - Nis (TCP),rs.mullvad.net,tcp,443,#REMOVE=1
+Singapore (UDP),sg.mullvad.net,udp,1302
+Singapore (TCP),sg.mullvad.net,tcp,443,#REMOVE=1
+Slovakia - Bratislava (UDP),sk.mullvad.net,udp,1302
+Slovakia - Bratislava (TCP),sk.mullvad.net,tcp,443,#REMOVE=1
+Spain - Madrid (UDP),es.mullvad.net,udp,1302
+Spain - Madrid (TCP),es.mullvad.net,tcp,443,#REMOVE=1
+Sweden (UDP),se.mullvad.net,udp,1302
+Sweden (TCP),se.mullvad.net,tcp,443,#REMOVE=1
+Sweden - Gothenburg (UDP),se-got.mullvad.net,udp,1302
+Sweden - Gothenburg (TCP),se-got.mullvad.net,tcp,443,#REMOVE=1
+Sweden - Helsingborg (UDP),se-hel.mullvad.net,udp,1302
+Sweden - Helsingborg (TCP),se-hel.mullvad.net,tcp,443,#REMOVE=1
+Sweden - Malmö (UDP),se-mma.mullvad.net,udp,1302
+Sweden - Malmö (TCP),se-mma.mullvad.net,tcp,443,#REMOVE=1
+Sweden - Stockholm (UDP),se-sto.mullvad.net,udp,1302
+Sweden - Stockholm (TCP),se-sto.mullvad.net,tcp,443,#REMOVE=1
+Switzerland - Zürich (UDP),ch.mullvad.net,udp,1302
+Switzerland - Zürich (TCP),ch.mullvad.net,tcp,443,#REMOVE=1
+United Kingdom (UDP),gb.mullvad.net,udp,1302
+United Kingdom (TCP),gb.mullvad.net,tcp,443,#REMOVE=1
+United Kingdom - London (UDP),gb-lon.mullvad.net,udp,1302
+United Kingdom - London (TCP),gb-lon.mullvad.net,tcp,443,#REMOVE=1
+United Kingdom - Manchester (UDP),gb-mnc.mullvad.net,udp,1302
+United Kingdom - Manchester (TCP),gb-mnc.mullvad.net,tcp,443,#REMOVE=1
+USA (UDP),us.mullvad.net,udp,1302
+USA (TCP),us.mullvad.net,tcp,443,#REMOVE=1
+USA - Atlanta (UDP),us-ga.mullvad.net,udp,1302
+USA - Atlanta (TCP),us-ga.mullvad.net,tcp,443,#REMOVE=1
+USA - Chicago (UDP),us-il.mullvad.net,udp,1302
+USA - Chicago (TCP),us-il.mullvad.net,tcp,443,#REMOVE=1
+USA - Dallas (UDP),us-tx.mullvad.net,udp,1302
+USA - Dallas (TCP),us-tx.mullvad.net,tcp,443,#REMOVE=1
+USA - Las Vegas (UDP),us-nv.mullvad.net,udp,1302
+USA - Las Vegas (TCP),us-nv.mullvad.net,tcp,443,#REMOVE=1
+USA - Los Angeles (UDP),us-ca.mullvad.net,udp,1302
+USA - Los Angeles (TCP),us-ca.mullvad.net,tcp,443,#REMOVE=1
+USA - Miami (UDP),us-fl.mullvad.net,udp,1302
+USA - Miami (TCP),us-fl.mullvad.net,tcp,443,#REMOVE=1
+USA - New Jersey (UDP),us-nj.mullvad.net,udp,1302
+USA - New Jersey (TCP),us-nj.mullvad.net,tcp,443,#REMOVE=1
+USA - New York (UDP),us-ny.mullvad.net,udp,1302
+USA - New York (TCP),us-ny.mullvad.net,tcp,443,#REMOVE=1
+USA - Phoenix (UDP),us-az.mullvad.net,udp,1302
+USA - Phoenix (TCP),us-az.mullvad.net,tcp,443,#REMOVE=1
+USA - Salt Lake City (UDP),us-ut.mullvad.net,udp,1302
+USA - Salt Lake City (TCP),us-ut.mullvad.net,tcp,443,#REMOVE=1
+USA - Seattle (UDP),us-wa.mullvad.net,udp,1302
+USA - Seattle (TCP),us-wa.mullvad.net,tcp,443,#REMOVE=1
+USA - Washington, D.C. (UDP),us-dc.mullvad.net,udp,1302
+USA - Washington, D.C. (TCP),us-dc.mullvad.net,tcp,443,#REMOVE=1
+Ukraine - Kiev (UDP),ua.mullvad.net,udp,1302
+Ukraine - Kiev (TCP),ua.mullvad.net,tcp,443,#REMOVE=1

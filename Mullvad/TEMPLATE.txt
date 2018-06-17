@@ -10,10 +10,8 @@ persist-tun
 auth-user-pass #PASS
 comp-lzo
 #REMOVE1fast-io
-mute-replay-warnings
 verb 3
 tun-ipv6
-auth-nocache
 ca #CERT
 crl-verify #CRLVERIFY
 cipher AES-256-CBC

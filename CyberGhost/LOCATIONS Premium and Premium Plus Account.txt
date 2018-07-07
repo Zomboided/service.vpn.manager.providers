@@ -40,8 +40,8 @@ Luxembourg (TCP),1-lu.cg-dialup.net,tcp,443,#REMOVE=1 #PINGSPEED=15 #PINGEXIT=90
 Luxembourg (UDP),1-lu.cg-dialup.net,udp,443,#PINGSPEED=5 #PINGEXIT=60
 Mexico (TCP),1-mx.cg-dialup.net,tcp,443,#REMOVE=1 #PINGSPEED=15 #PINGEXIT=90
 Mexico (UDP),1-mx.cg-dialup.net,udp,443,#PINGSPEED=5 #PINGEXIT=60
-Netherlands (TCP),5-nl.cg-dialup.net,tcp,443,#REMOVE=1 #PINGSPEED=15 #PINGEXIT=90
-Netherlands (UDP),5-nl.cg-dialup.net,udp,443,#PINGSPEED=5 #PINGEXIT=60
+Netherlands (TCP),1-nl.cg-dialup.net,tcp,443,#REMOVE=1 #PINGSPEED=15 #PINGEXIT=90
+Netherlands (UDP),1-nl.cg-dialup.net,udp,443,#PINGSPEED=5 #PINGEXIT=60
 Norway (TCP),1-no.cg-dialup.net,tcp,443,#REMOVE=1 #PINGSPEED=15 #PINGEXIT=90
 Norway (UDP),1-no.cg-dialup.net,udp,443,#PINGSPEED=5 #PINGEXIT=60
 Poland (TCP),1-pl.cg-dialup.net,tcp,443,#REMOVE=1 #PINGSPEED=15 #PINGEXIT=90

@@ -1,36 +1,40 @@
-Australia 1 (TCP),au1.celo.net,tcp-client,443,#TLSKEY=Australia_1_tcp_ta.key #CERT=Australia_1_tcp_ca.crt
-Australia 1 (UDP),au1.celo.net,udp,1194,#TLSKEY=Australia_1_udp_ta.key #CERT=Australia_1_udp_ca.crt
-Bulgaria 1 (TCP),bg1.celo.net,tcp-client,443,#TLSKEY=Bulgaria_1_tcp_ta.key #CERT=Bulgaria_1_tcp_ca.crt
-Bulgaria 1 (UDP),bg1.celo.net,udp,1194,#TLSKEY=Bulgaria_1_udp_ta.key #CERT=Bulgaria_1_udp_ca.crt
-Canada 1 (TCP),ca1.celo.net,tcp-client,443,#TLSKEY=Canada_1_tcp_ta.key #CERT=Canada_1_tcp_ca.crt
-Canada 1 (UDP),ca1.celo.net,udp,1194,#TLSKEY=Canada_1_udp_ta.key #CERT=Canada_1_udp_ca.crt
-Switzerland 1 (TCP),ch1.celo.net,tcp-client,443,#TLSKEY=Switzerland_1_tcp_ta.key #CERT=Switzerland_1_tcp_ca.crt
-Switzerland 1 (UDP),ch1.celo.net,udp,1194,#TLSKEY=Switzerland_1_udp_ta.key #CERT=Switzerland_1_udp_ca.crt
-Germany 1 (TCP),de1.celo.net,tcp-client,443,#TLSKEY=Germany_1_tcp_ta.key #CERT=Germany_1_tcp_ca.crt
-Germany 1 (UDP),de1.celo.net,udp,1194,#TLSKEY=Germany_1_udp_ta.key #CERT=Germany_1_udp_ca.crt
-France 1 (TCP),fr1.celo.net,tcp-client,443,#TLSKEY=France_1_tcp_ta.key #CERT=France_1_tcp_ca.crt
-France 1 (UDP),fr1.celo.net,udp,1194,#TLSKEY=France_1_udp_ta.key #CERT=France_1_udp_ca.crt
-Hong Kong 1 (TCP),hk1.celo.net,tcp-client,443,#TLSKEY=Hong_Kong_1_tcp_ta.key #CERT=Hong_Kong_1_tcp_ca.crt
-Hong Kong 1 (UDP),hk1.celo.net,udp,1194,#TLSKEY=Hong_Kong_1_udp_ta.key #CERT=Hong_Kong_1_udp_ca.crt
-Japan 1 (TCP),jp1.celo.net,tcp-client,443,#TLSKEY=Japan_1_tcp_ta.key #CERT=Japan_1_tcp_ca.crt
-Japan 1 (UDP),jp1.celo.net,udp,1194,#TLSKEY=Japan_1_udp_ta.key #CERT=Japan_1_udp_ca.crt
-South Korea 1 (TCP),kr1.celo.net,tcp-client,443,#TLSKEY=South_Korea_1_tcp_ta.key #CERT=South_Korea_1_tcp_ca.crt
-South Korea 1 (UDP),kr1.celo.net,udp,1194,#TLSKEY=South_Korea_1_udp_ta.key #CERT=South_Korea_1_udp_ca.crt
-Netherlands 1 (TCP),nl1.celo.net,tcp-client,443,#TLSKEY=Netherlands_1_tcp_ta.key #CERT=Netherlands_1_tcp_ca.crt
-Netherlands 1 (UDP),nl1.celo.net,udp,1194,#TLSKEY=Netherlands_1_udp_ta.key #CERT=Netherlands_1_udp_ca.crt
-Netherlands 2 (TCP),nl2.celo.net,tcp-client,443,#TLSKEY=Netherlands_2_tcp_ta.key #CERT=Netherlands_2_tcp_ca.crt
-Netherlands 2 (UDP),nl2.celo.net,udp,1194,#TLSKEY=Netherlands_2_udp_ta.key #CERT=Netherlands_2_udp_ca.crt
-Romania 1 (TCP),ro1.celo.net,tcp-client,443,#TLSKEY=Romania_1_tcp_ta.key #CERT=Romania_1_tcp_ca.crt
-Romania 1 (UDP),ro1.celo.net,udp,1194,#TLSKEY=Romania_1_udp_ta.key #CERT=Romania_1_udp_ca.crt
-Russia 1 (TCP),ru1.celo.net,tcp-client,443,#TLSKEY=Russia_1_tcp_ta.key #CERT=Russia_1_tcp_ca.crt
-Russia 1 (UDP),ru1.celo.net,udp,1194,#TLSKEY=Russia_1_udp_ta.key #CERT=Russia_1_udp_ca.crt
-Sweden 1 (TCP),sw1.celo.net,tcp-client,443,#TLSKEY=Sweden_1_tcp_ta.key #CERT=Sweden_1_tcp_ca.crt
-Sweden 1 (UDP),sw1.celo.net,udp,1194,#TLSKEY=Sweden_1_udp_ta.key #CERT=Sweden_1_udp_ca.crt
-United Kingdom 1 (TCP),uk1.celo.net,tcp-client,443,#TLSKEY=United_Kingdom_1_tcp_ta.key #CERT=United_Kingdom_1_tcp_ca.crt
-United Kingdom 1 (UDP),uk1.celo.net,udp,1194,#TLSKEY=United_Kingdom_1_udp_ta.key #CERT=United_Kingdom_1_udp_ca.crt
-United States 1 (TCP),us1.celo.net,tcp-client,443,#TLSKEY=United_States_1_tcp_ta.key #CERT=United_States_1_tcp_ca.crt
-United States 1 (UDP),us1.celo.net,udp,1194,#TLSKEY=United_States_1_udp_ta.key #CERT=United_States_1_udp_ca.crt
-United States 2 (TCP),us2.celo.net,tcp-client,443,#TLSKEY=United_States_2_tcp_ta.key #CERT=United_States_2_tcp_ca.crt
-United States 2 (UDP),us2.celo.net,udp,1194,#TLSKEY=United_States_2_udp_ta.key #CERT=United_States_2_udp_ca.crt
-United States 3 (TCP),us3.celo.net,tcp-client,443,#TLSKEY=United_States_3_tcp_ta.key #CERT=United_States_3_tcp_ca.crt
-United States 3 (UDP),us3.celo.net,udp,1194,#TLSKEY=United_States_3_udp_ta.key #CERT=United_States_3_udp_ca.crt
+Australia 1 (TCP),au1.celo.net,tcp-client,443,#TLSKEY=Australia_1_tcp_ta.key
+Australia 1 (UDP),au1.celo.net,udp,1194,#TLSKEY=Australia_1_udp_ta.key
+Bulgaria 1 (TCP),bg1.celo.net,tcp-client,443,#TLSKEY=Bulgaria_1_tcp_ta.key
+Bulgaria 1 (UDP),bg1.celo.net,udp,1194,#TLSKEY=Bulgaria_1_udp_ta.key
+Canada 1 (TCP),ca1.celo.net,tcp-client,443,#TLSKEY=Canada_1_tcp_ta.key
+Canada 1 (UDP),ca1.celo.net,udp,1194,#TLSKEY=Canada_1_udp_ta.key
+Switzerland 1 (TCP),ch1.celo.net,tcp-client,443,#TLSKEY=Switzerland_1_tcp_ta.key
+Switzerland 1 (UDP),ch1.celo.net,udp,1194,#TLSKEY=Switzerland_1_udp_ta.key
+Germany 1 (TCP),de1.celo.net,tcp-client,443,#TLSKEY=Germany_1_tcp_ta.key
+Germany 1 (UDP),de1.celo.net,udp,1194,#TLSKEY=Germany_1_udp_ta.key
+France 1 (TCP),fr1.celo.net,tcp-client,443,#TLSKEY=France_1_tcp_ta.key
+France 1 (UDP),fr1.celo.net,udp,1194,#TLSKEY=France_1_udp_ta.key
+Hong Kong 1 (TCP),hk1.celo.net,tcp-client,443,#TLSKEY=Hong_Kong_1_tcp_ta.key
+Hong Kong 1 (UDP),hk1.celo.net,udp,1194,#TLSKEY=Hong_Kong_1_udp_ta.key
+Japan 1 (TCP),jp1.celo.net,tcp-client,443,#TLSKEY=Japan_1_tcp_ta.key
+Japan 1 (UDP),jp1.celo.net,udp,1194,#TLSKEY=Japan_1_udp_ta.key
+South Korea 1 (TCP),kr1.celo.net,tcp-client,443,#TLSKEY=South_Korea_1_tcp_ta.key
+South Korea 1 (UDP),kr1.celo.net,udp,1194,#TLSKEY=South_Korea_1_udp_ta.key
+Netherlands 1 (TCP),nl1.celo.net,tcp-client,443,#TLSKEY=Netherlands_1_tcp_ta.key
+Netherlands 1 (UDP),nl1.celo.net,udp,1194,#TLSKEY=Netherlands_1_udp_ta.key
+Netherlands 2 (TCP),nl2.celo.net,tcp-client,443,#TLSKEY=Netherlands_2_tcp_ta.key
+Netherlands 2 (UDP),nl2.celo.net,udp,1194,#TLSKEY=Netherlands_2_udp_ta.key
+Romania 1 (TCP),ro1.celo.net,tcp-client,443,#TLSKEY=Romania_1_tcp_ta.key
+Romania 1 (UDP),ro1.celo.net,udp,1194,#TLSKEY=Romania_1_udp_ta.key
+Russia 1 (TCP),ru1.celo.net,tcp-client,443,#TLSKEY=Russia_1_tcp_ta.key
+Russia 1 (UDP),ru1.celo.net,udp,1194,#TLSKEY=Russia_1_udp_ta.key
+Sweden 1 (TCP),sw1.celo.net,tcp-client,443,#TLSKEY=Sweden_1_tcp_ta.key
+Sweden 1 (UDP),sw1.celo.net,udp,1194,#TLSKEY=Sweden_1_udp_ta.key
+United Kingdom Stream (TCP),uk-stream.celo.net,tcp-client,443,#TLSKEY=United_Kingdom_Stream_tcp_ta.key
+United Kingdom Stream (UDP),uk-stream.celo.net,udp,1194,#TLSKEY=United_Kingdom_Stream_udp_ta.key
+United Kingdom 1 (TCP),uk1.celo.net,tcp-client,443,#TLSKEY=United_Kingdom_1_tcp_ta.key
+United Kingdom 1 (UDP),uk1.celo.net,udp,1194,#TLSKEY=United_Kingdom_1_udp_ta.key
+United States Stream (TCP),us-stream.celo.net,tcp-client,443,#TLSKEY=United_States_Stream_tcp_ta.key
+United States Stream (UDP),us-stream.celo.net,udp,1194,#TLSKEY=United_States_Stream_udp_ta.key
+United States 1 (TCP),us1.celo.net,tcp-client,443,#TLSKEY=United_States_1_tcp_ta.key
+United States 1 (UDP),us1.celo.net,udp,1194,#TLSKEY=United_States_1_udp_ta.key
+United States 2 (TCP),us2.celo.net,tcp-client,443,#TLSKEY=United_States_2_tcp_ta.key
+United States 2 (UDP),us2.celo.net,udp,1194,#TLSKEY=United_States_2_udp_ta.key
+United States 3 (TCP),us3.celo.net,tcp-client,443,#TLSKEY=United_States_3_tcp_ta.key
+United States 3 (UDP),us3.celo.net,udp,1194,#TLSKEY=United_States_3_udp_ta.key

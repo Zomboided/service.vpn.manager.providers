@@ -76,6 +76,8 @@ Germany - Frankfurt - 1 (UDP),germany-frankfurt-1-ca-version-2.expressnetw.com,u
 Germany - Frankfurt - 1 (TCP),germany-frankfurt-1-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Germany - Frankfurt - 2 (UDP),germany-frankfurt-2-ca-version-2.expressnetw.com,udp,1195
 Germany - Frankfurt - 2 (TCP),germany-frankfurt-2-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+Germany - Nuremberg (UDP),germany-nuremberg-ca-version-2.expressnetw.com,udp,1195
+Germany - Nuremberg (TCP),germany-nuremberg-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Greece (UDP),greece-ca-version-2.expressnetw.com,udp,1195
 Greece (TCP),greece-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Guatemala (UDP),guatemala-ca-version-2.expressnetw.com,udp,1195

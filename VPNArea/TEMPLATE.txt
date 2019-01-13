@@ -1,11 +1,9 @@
 client
-dev tun
+dev tun0
 proto #PROTO
 remote #SERVER #PORT
 auth-user-pass #PASS
-dev tun
 nobind
-#REMOVE1comp-lzo
 persist-key
 persist-tun
 ns-cert-type server
@@ -18,5 +16,7 @@ resolv-retry 30
 #REMOVE2tls-exit
 #REMOVE2remote-cert-tls server
 #REMOVE2tls-auth #TLSKEY 1
+tun-mtu 1500
+passtos
 ca #CERT
-redirect-gateway def1 autolocal
+

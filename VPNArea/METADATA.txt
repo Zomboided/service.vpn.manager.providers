@@ -1,9 +1,9 @@
-1507623400
+1547411011
 400 8
 LOCATIONS.txt
 TEMPLATE.txt
+ca.colibri.crt
 ca.vpnarea.crt
+ta.key
 user.crt
 user.key
-ta.key
-ca.colibri.crt

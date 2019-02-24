@@ -1,6 +1,5 @@
-1543398931
-400 5
-LOCATIONS Premium and Premium Plus Account.txt
-LOCATIONS Promo Account.txt
+1551035599
+400 3
+LOCATIONS.txt
 TEMPLATE.txt
 ca.crt

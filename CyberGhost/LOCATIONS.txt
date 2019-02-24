@@ -12,8 +12,8 @@ Switzerland Standard (TCP),9-ch.cg-dialup.net,tcp,443,#REMOVE=1 #PINGSPEED=15 #P
 Switzerland Standard (UDP) ,9-ch.cg-dialup.net,udp,443,#PINGSPEED=5 #PINGEXIT=60
 Czech Republic (TCP),4-cz.cg-dialup.net,tcp,443,#REMOVE=1 #PINGSPEED=15 #PINGEXIT=90
 Czech Republic (UDP),4-cz.cg-dialup.net,udp,443,#PINGSPEED=5 #PINGEXIT=60
-Germany (TCP),4-de.cg-dialup.net,tcp,443,#REMOVE=1 #PINGSPEED=15 #PINGEXIT=90
-Germany (UDP),4-de.cg-dialup.net,udp,443,#PINGSPEED=5 #PINGEXIT=60
+Germany (TCP),1-de.cg-dialup.net,tcp,443,#REMOVE=1 #PINGSPEED=15 #PINGEXIT=90
+Germany (UDP),1-de.cg-dialup.net,udp,443,#PINGSPEED=5 #PINGEXIT=60
 Denmark (TCP),1-dk.cg-dialup.net,tcp,443,#REMOVE=1 #PINGSPEED=15 #PINGEXIT=90
 Denmark (UDP),1-dk.cg-dialup.net,udp,443,#PINGSPEED=5 #PINGEXIT=60
 Spain (TCP),1-es.cg-dialup.net,tcp,443,#REMOVE=1 #PINGSPEED=15 #PINGEXIT=90

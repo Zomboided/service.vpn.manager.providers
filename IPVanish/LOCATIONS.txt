@@ -242,14 +242,14 @@ Canada - Toronto 15 (UDP),tor-a15.ipvanish.com,udp,443
 Canada - Toronto 15 (TCP),tor-a15.ipvanish.com,tcp,443
 Canada - Toronto 16 (UDP),tor-a16.ipvanish.com,udp,443
 Canada - Toronto 16 (TCP),tor-a16.ipvanish.com,tcp,443
-Canada - Toronto 17 (UDP),tor-a17.ipvanish.com,udp,443
-Canada - Toronto 17 (TCP),tor-a17.ipvanish.com,tcp,443
 Canada - Toronto 18 (UDP),tor-a18.ipvanish.com,udp,443
 Canada - Toronto 18 (TCP),tor-a18.ipvanish.com,tcp,443
 Canada - Toronto 19 (UDP),tor-a19.ipvanish.com,udp,443
 Canada - Toronto 19 (TCP),tor-a19.ipvanish.com,tcp,443
 Canada - Toronto 20 (UDP),tor-a20.ipvanish.com,udp,443
 Canada - Toronto 20 (TCP),tor-a20.ipvanish.com,tcp,443
+Canada - Vancouver 03 (UDP),yvr-c03.ipvanish.com,udp,443
+Canada - Vancouver 03 (TCP),yvr-c03.ipvanish.com,tcp,443
 Canada - Vancouver 04 (UDP),yvr-c04.ipvanish.com,udp,443
 Canada - Vancouver 04 (TCP),yvr-c04.ipvanish.com,tcp,443
 Canada - Vancouver 05 (UDP),yvr-c05.ipvanish.com,udp,443
@@ -258,8 +258,16 @@ Canada - Vancouver 06 (UDP),yvr-c06.ipvanish.com,udp,443
 Canada - Vancouver 06 (TCP),yvr-c06.ipvanish.com,tcp,443
 Canada - Vancouver 07 (UDP),yvr-c07.ipvanish.com,udp,443
 Canada - Vancouver 07 (TCP),yvr-c07.ipvanish.com,tcp,443
-Canada - Vancouver 08 (UDP),yvr-c08.ipvanish.com,udp,443
-Canada - Vancouver 08 (TCP),yvr-c08.ipvanish.com,tcp,443
+Canada - Vancouver 10 (UDP),yvr-c10.ipvanish.com,udp,443
+Canada - Vancouver 10 (TCP),yvr-c10.ipvanish.com,tcp,443
+Canada - Vancouver 11 (UDP),yvr-c11.ipvanish.com,udp,443
+Canada - Vancouver 11 (TCP),yvr-c11.ipvanish.com,tcp,443
+Canada - Vancouver 12 (UDP),yvr-c12.ipvanish.com,udp,443
+Canada - Vancouver 12 (TCP),yvr-c12.ipvanish.com,tcp,443
+Canada - Vancouver 13 (UDP),yvr-c13.ipvanish.com,udp,443
+Canada - Vancouver 13 (TCP),yvr-c13.ipvanish.com,tcp,443
+Canada - Vancouver 14 (UDP),yvr-c14.ipvanish.com,udp,443
+Canada - Vancouver 14 (TCP),yvr-c14.ipvanish.com,tcp,443
 Switzerland - Zurich 03 (UDP),zur-c03.ipvanish.com,udp,443
 Switzerland - Zurich 03 (TCP),zur-c03.ipvanish.com,tcp,443
 Switzerland - Zurich 12 (UDP),zur-c12.ipvanish.com,udp,443
@@ -272,6 +280,14 @@ Switzerland - Zurich 15 (UDP),zur-c15.ipvanish.com,udp,443
 Switzerland - Zurich 15 (TCP),zur-c15.ipvanish.com,tcp,443
 Switzerland - Zurich 16 (UDP),zur-c16.ipvanish.com,udp,443
 Switzerland - Zurich 16 (TCP),zur-c16.ipvanish.com,tcp,443
+Colombia - Bogota 01 (UDP),bog-c01.ipvanish.com,udp,443
+Colombia - Bogota 01 (TCP),bog-c01.ipvanish.com,tcp,443
+Colombia - Bogota 02 (UDP),bog-c02.ipvanish.com,udp,443
+Colombia - Bogota 02 (TCP),bog-c02.ipvanish.com,tcp,443
+Colombia - Bogota 03 (UDP),bog-c03.ipvanish.com,udp,443
+Colombia - Bogota 03 (TCP),bog-c03.ipvanish.com,tcp,443
+Colombia - Bogota 04 (UDP),bog-c04.ipvanish.com,udp,443
+Colombia - Bogota 04 (TCP),bog-c04.ipvanish.com,tcp,443
 Costa Rica - San Jose 01 (UDP),sjo-c01.ipvanish.com,udp,443
 Costa Rica - San Jose 01 (TCP),sjo-c01.ipvanish.com,tcp,443
 Cyprus - Larnarca 02 (UDP),nic-c02.ipvanish.com,udp,443
@@ -484,6 +500,16 @@ Spain - Valencia 05 (UDP),vlc-c05.ipvanish.com,udp,443
 Spain - Valencia 05 (TCP),vlc-c05.ipvanish.com,tcp,443
 Spain - Valencia 06 (UDP),vlc-c06.ipvanish.com,udp,443
 Spain - Valencia 06 (TCP),vlc-c06.ipvanish.com,tcp,443
+Finland - Helsinki 01 (UDP),hel-c01.ipvanish.com,udp,443
+Finland - Helsinki 01 (TCP),hel-c01.ipvanish.com,tcp,443
+Finland - Helsinki 02 (UDP),hel-c02.ipvanish.com,udp,443
+Finland - Helsinki 02 (TCP),hel-c02.ipvanish.com,tcp,443
+Finland - Helsinki 03 (UDP),hel-c03.ipvanish.com,udp,443
+Finland - Helsinki 03 (TCP),hel-c03.ipvanish.com,tcp,443
+Finland - Helsinki 04 (UDP),hel-c04.ipvanish.com,udp,443
+Finland - Helsinki 04 (TCP),hel-c04.ipvanish.com,tcp,443
+Finland - Helsinki 05 (UDP),hel-c05.ipvanish.com,udp,443
+Finland - Helsinki 05 (TCP),hel-c05.ipvanish.com,tcp,443
 Finland - Helsinki 06 (UDP),hel-c06.ipvanish.com,udp,443
 Finland - Helsinki 06 (TCP),hel-c06.ipvanish.com,tcp,443
 Finland - Helsinki 07 (UDP),hel-c07.ipvanish.com,udp,443
@@ -496,8 +522,10 @@ Finland - Helsinki 10 (UDP),hel-c10.ipvanish.com,udp,443
 Finland - Helsinki 10 (TCP),hel-c10.ipvanish.com,tcp,443
 Finland - Helsinki 11 (UDP),hel-c11.ipvanish.com,udp,443
 Finland - Helsinki 11 (TCP),hel-c11.ipvanish.com,tcp,443
-Finland - Helsinki 12 (UDP),hel-c12.ipvanish.com,udp,443
-Finland - Helsinki 12 (TCP),hel-c12.ipvanish.com,tcp,443
+Finland - Helsinki 13 (UDP),hel-c13.ipvanish.com,udp,443
+Finland - Helsinki 13 (TCP),hel-c13.ipvanish.com,tcp,443
+Finland - Helsinki 14 (UDP),hel-c14.ipvanish.com,udp,443
+Finland - Helsinki 14 (TCP),hel-c14.ipvanish.com,tcp,443
 France - Paris 01 (UDP),par-a01.ipvanish.com,udp,443
 France - Paris 01 (TCP),par-a01.ipvanish.com,tcp,443
 France - Paris 02 (UDP),par-a02.ipvanish.com,udp,443
@@ -550,8 +578,16 @@ France - Paris 25 (UDP),par-a25.ipvanish.com,udp,443
 France - Paris 25 (TCP),par-a25.ipvanish.com,tcp,443
 France - Paris 26 (UDP),par-a26.ipvanish.com,udp,443
 France - Paris 26 (TCP),par-a26.ipvanish.com,tcp,443
-Greece - Athens 03 (UDP),ath-c03.ipvanish.com,udp,443
-Greece - Athens 03 (TCP),ath-c03.ipvanish.com,tcp,443
+Greece - Athens 02 (UDP),ath-c02.ipvanish.com,udp,443
+Greece - Athens 02 (TCP),ath-c02.ipvanish.com,tcp,443
+Greece - Athens 04 (UDP),ath-c04.ipvanish.com,udp,443
+Greece - Athens 04 (TCP),ath-c04.ipvanish.com,tcp,443
+Greece - Athens 05 (UDP),ath-c05.ipvanish.com,udp,443
+Greece - Athens 05 (TCP),ath-c05.ipvanish.com,tcp,443
+Greece - Athens 06 (UDP),ath-c06.ipvanish.com,udp,443
+Greece - Athens 06 (TCP),ath-c06.ipvanish.com,tcp,443
+Greece - Athens 07 (UDP),ath-c07.ipvanish.com,udp,443
+Greece - Athens 07 (TCP),ath-c07.ipvanish.com,tcp,443
 Hong Kong - Hong Kong 01 (UDP),hkg-a01.ipvanish.com,udp,443
 Hong Kong - Hong Kong 01 (TCP),hkg-a01.ipvanish.com,tcp,443
 Hong Kong - Hong Kong 02 (UDP),hkg-a02.ipvanish.com,udp,443
@@ -614,6 +650,10 @@ India - New Delhi 06 (UDP),del-c06.ipvanish.com,udp,443
 India - New Delhi 06 (TCP),del-c06.ipvanish.com,tcp,443
 India - New Delhi 07 (UDP),del-c07.ipvanish.com,udp,443
 India - New Delhi 07 (TCP),del-c07.ipvanish.com,tcp,443
+Iceland - Reykjavik 02 (UDP),rkv-c02.ipvanish.com,udp,443
+Iceland - Reykjavik 02 (TCP),rkv-c02.ipvanish.com,tcp,443
+Iceland - Reykjavik 03 (UDP),rkv-c03.ipvanish.com,udp,443
+Iceland - Reykjavik 03 (TCP),rkv-c03.ipvanish.com,tcp,443
 Italy - Milan 01 (UDP),lin-a01.ipvanish.com,udp,443
 Italy - Milan 01 (TCP),lin-a01.ipvanish.com,tcp,443
 Italy - Milan 02 (UDP),lin-a02.ipvanish.com,udp,443
@@ -622,6 +662,22 @@ Italy - Milan 03 (UDP),lin-a03.ipvanish.com,udp,443
 Italy - Milan 03 (TCP),lin-a03.ipvanish.com,tcp,443
 Italy - Milan 04 (UDP),lin-a04.ipvanish.com,udp,443
 Italy - Milan 04 (TCP),lin-a04.ipvanish.com,tcp,443
+Italy - Milan 05 (UDP),lin-a05.ipvanish.com,udp,443
+Italy - Milan 05 (TCP),lin-a05.ipvanish.com,tcp,443
+Italy - Milan 06 (UDP),lin-a06.ipvanish.com,udp,443
+Italy - Milan 06 (TCP),lin-a06.ipvanish.com,tcp,443
+Italy - Milan 07 (UDP),lin-a07.ipvanish.com,udp,443
+Italy - Milan 07 (TCP),lin-a07.ipvanish.com,tcp,443
+Italy - Milan 08 (UDP),lin-a08.ipvanish.com,udp,443
+Italy - Milan 08 (TCP),lin-a08.ipvanish.com,tcp,443
+Italy - Milan 09 (UDP),lin-a09.ipvanish.com,udp,443
+Italy - Milan 09 (TCP),lin-a09.ipvanish.com,tcp,443
+Italy - Milan 10 (UDP),lin-a10.ipvanish.com,udp,443
+Italy - Milan 10 (TCP),lin-a10.ipvanish.com,tcp,443
+Italy - Milan 11 (UDP),lin-a11.ipvanish.com,udp,443
+Italy - Milan 11 (TCP),lin-a11.ipvanish.com,tcp,443
+Italy - Milan 12 (UDP),lin-a12.ipvanish.com,udp,443
+Italy - Milan 12 (TCP),lin-a12.ipvanish.com,tcp,443
 Italy - Milan 05 (UDP),lin-c05.ipvanish.com,udp,443
 Italy - Milan 05 (TCP),lin-c05.ipvanish.com,tcp,443
 Italy - Milan 06 (UDP),lin-c06.ipvanish.com,udp,443
@@ -632,40 +688,44 @@ Italy - Milan 16 (UDP),lin-c16.ipvanish.com,udp,443
 Italy - Milan 16 (TCP),lin-c16.ipvanish.com,tcp,443
 Italy - Milan 17 (UDP),lin-c17.ipvanish.com,udp,443
 Italy - Milan 17 (TCP),lin-c17.ipvanish.com,tcp,443
-Italy - Milan 18 (UDP),lin-c18.ipvanish.com,udp,443
-Italy - Milan 18 (TCP),lin-c18.ipvanish.com,tcp,443
-Italy - Milan 19 (UDP),lin-c19.ipvanish.com,udp,443
-Italy - Milan 19 (TCP),lin-c19.ipvanish.com,tcp,443
-Italy - Milan 20 (UDP),lin-c20.ipvanish.com,udp,443
-Italy - Milan 20 (TCP),lin-c20.ipvanish.com,tcp,443
-Italy - Milan 21 (UDP),lin-c21.ipvanish.com,udp,443
-Italy - Milan 21 (TCP),lin-c21.ipvanish.com,tcp,443
-Italy - Milan 23 (UDP),lin-c23.ipvanish.com,udp,443
-Italy - Milan 23 (TCP),lin-c23.ipvanish.com,tcp,443
-Italy - Milan 24 (UDP),lin-c24.ipvanish.com,udp,443
-Italy - Milan 24 (TCP),lin-c24.ipvanish.com,tcp,443
 Japan - Tokyo 01 (UDP),nrt-a01.ipvanish.com,udp,443
 Japan - Tokyo 01 (TCP),nrt-a01.ipvanish.com,tcp,443
 Japan - Tokyo 02 (UDP),nrt-a02.ipvanish.com,udp,443
 Japan - Tokyo 02 (TCP),nrt-a02.ipvanish.com,tcp,443
 Japan - Tokyo 03 (UDP),nrt-a03.ipvanish.com,udp,443
 Japan - Tokyo 03 (TCP),nrt-a03.ipvanish.com,tcp,443
+Japan - Tokyo 04 (UDP),nrt-a04.ipvanish.com,udp,443
+Japan - Tokyo 04 (TCP),nrt-a04.ipvanish.com,tcp,443
 Japan - Tokyo 05 (UDP),nrt-a05.ipvanish.com,udp,443
 Japan - Tokyo 05 (TCP),nrt-a05.ipvanish.com,tcp,443
 Japan - Tokyo 06 (UDP),nrt-a06.ipvanish.com,udp,443
 Japan - Tokyo 06 (TCP),nrt-a06.ipvanish.com,tcp,443
+South Korea - Seoul 03 (UDP),sel-a03.ipvanish.com,udp,443
+South Korea - Seoul 03 (TCP),sel-a03.ipvanish.com,tcp,443
 South Korea - Seoul 04 (UDP),sel-a04.ipvanish.com,udp,443
 South Korea - Seoul 04 (TCP),sel-a04.ipvanish.com,tcp,443
-South Korea - Seoul 06 (UDP),sel-a06.ipvanish.com,udp,443
-South Korea - Seoul 06 (TCP),sel-a06.ipvanish.com,tcp,443
 Luxembourg - Luxembourg 02 (UDP),lux-c02.ipvanish.com,udp,443
 Luxembourg - Luxembourg 02 (TCP),lux-c02.ipvanish.com,tcp,443
 Luxembourg - Luxembourg 03 (UDP),lux-c03.ipvanish.com,udp,443
 Luxembourg - Luxembourg 03 (TCP),lux-c03.ipvanish.com,tcp,443
+Latvia - Riga 01 (UDP),rix-c01.ipvanish.com,udp,443
+Latvia - Riga 01 (TCP),rix-c01.ipvanish.com,tcp,443
+Latvia - Riga 02 (UDP),rix-c02.ipvanish.com,udp,443
+Latvia - Riga 02 (TCP),rix-c02.ipvanish.com,tcp,443
+Latvia - Riga 03 (UDP),rix-c03.ipvanish.com,udp,443
+Latvia - Riga 03 (TCP),rix-c03.ipvanish.com,tcp,443
+Latvia - Riga 04 (UDP),rix-c04.ipvanish.com,udp,443
+Latvia - Riga 04 (TCP),rix-c04.ipvanish.com,tcp,443
 Latvia - Riga 05 (UDP),rix-c05.ipvanish.com,udp,443
 Latvia - Riga 05 (TCP),rix-c05.ipvanish.com,tcp,443
 Latvia - Riga 06 (UDP),rix-c06.ipvanish.com,udp,443
 Latvia - Riga 06 (TCP),rix-c06.ipvanish.com,tcp,443
+Latvia - Riga 07 (UDP),rix-c07.ipvanish.com,udp,443
+Latvia - Riga 07 (TCP),rix-c07.ipvanish.com,tcp,443
+Latvia - Riga 08 (UDP),rix-c08.ipvanish.com,udp,443
+Latvia - Riga 08 (TCP),rix-c08.ipvanish.com,tcp,443
+Latvia - Riga 09 (UDP),rix-c09.ipvanish.com,udp,443
+Latvia - Riga 09 (TCP),rix-c09.ipvanish.com,tcp,443
 Moldova - Chisinau 02 (UDP),kiv-c02.ipvanish.com,udp,443
 Moldova - Chisinau 02 (TCP),kiv-c02.ipvanish.com,tcp,443
 Moldova - Chisinau 03 (UDP),kiv-c03.ipvanish.com,udp,443
@@ -722,8 +782,6 @@ Netherlands - Amsterdam 18 (UDP),ams-a18.ipvanish.com,udp,443
 Netherlands - Amsterdam 18 (TCP),ams-a18.ipvanish.com,tcp,443
 Netherlands - Amsterdam 19 (UDP),ams-a19.ipvanish.com,udp,443
 Netherlands - Amsterdam 19 (TCP),ams-a19.ipvanish.com,tcp,443
-Netherlands - Amsterdam 20 (UDP),ams-a20.ipvanish.com,udp,443
-Netherlands - Amsterdam 20 (TCP),ams-a20.ipvanish.com,tcp,443
 Netherlands - Amsterdam 21 (UDP),ams-a21.ipvanish.com,udp,443
 Netherlands - Amsterdam 21 (TCP),ams-a21.ipvanish.com,tcp,443
 Netherlands - Amsterdam 22 (UDP),ams-a22.ipvanish.com,udp,443
@@ -768,8 +826,6 @@ Netherlands - Amsterdam 41 (UDP),ams-a41.ipvanish.com,udp,443
 Netherlands - Amsterdam 41 (TCP),ams-a41.ipvanish.com,tcp,443
 Netherlands - Amsterdam 42 (UDP),ams-a42.ipvanish.com,udp,443
 Netherlands - Amsterdam 42 (TCP),ams-a42.ipvanish.com,tcp,443
-Netherlands - Amsterdam 43 (UDP),ams-a43.ipvanish.com,udp,443
-Netherlands - Amsterdam 43 (TCP),ams-a43.ipvanish.com,tcp,443
 Netherlands - Amsterdam 44 (UDP),ams-a44.ipvanish.com,udp,443
 Netherlands - Amsterdam 44 (TCP),ams-a44.ipvanish.com,tcp,443
 Netherlands - Amsterdam 45 (UDP),ams-a45.ipvanish.com,udp,443
@@ -884,8 +940,6 @@ Norway - Oslo 01 (UDP),osl-c01.ipvanish.com,udp,443
 Norway - Oslo 01 (TCP),osl-c01.ipvanish.com,tcp,443
 Norway - Oslo 02 (UDP),osl-c02.ipvanish.com,udp,443
 Norway - Oslo 02 (TCP),osl-c02.ipvanish.com,tcp,443
-New Zealand - Auckland 09 (UDP),akl-c09.ipvanish.com,udp,443
-New Zealand - Auckland 09 (TCP),akl-c09.ipvanish.com,tcp,443
 New Zealand - Auckland 10 (UDP),akl-c10.ipvanish.com,udp,443
 New Zealand - Auckland 10 (TCP),akl-c10.ipvanish.com,tcp,443
 New Zealand - Auckland 11 (UDP),akl-c11.ipvanish.com,udp,443
@@ -902,6 +956,22 @@ Philippines - Manila 07 (UDP),mnl-a07.ipvanish.com,udp,443
 Philippines - Manila 07 (TCP),mnl-a07.ipvanish.com,tcp,443
 Philippines - Manila 08 (UDP),mnl-a08.ipvanish.com,udp,443
 Philippines - Manila 08 (TCP),mnl-a08.ipvanish.com,tcp,443
+Poland - Warsaw 01 (UDP),waw-a01.ipvanish.com,udp,443
+Poland - Warsaw 01 (TCP),waw-a01.ipvanish.com,tcp,443
+Poland - Warsaw 02 (UDP),waw-a02.ipvanish.com,udp,443
+Poland - Warsaw 02 (TCP),waw-a02.ipvanish.com,tcp,443
+Poland - Warsaw 03 (UDP),waw-a03.ipvanish.com,udp,443
+Poland - Warsaw 03 (TCP),waw-a03.ipvanish.com,tcp,443
+Poland - Warsaw 04 (UDP),waw-a04.ipvanish.com,udp,443
+Poland - Warsaw 04 (TCP),waw-a04.ipvanish.com,tcp,443
+Poland - Warsaw 05 (UDP),waw-a05.ipvanish.com,udp,443
+Poland - Warsaw 05 (TCP),waw-a05.ipvanish.com,tcp,443
+Poland - Warsaw 08 (UDP),waw-a08.ipvanish.com,udp,443
+Poland - Warsaw 08 (TCP),waw-a08.ipvanish.com,tcp,443
+Poland - Warsaw 09 (UDP),waw-a09.ipvanish.com,udp,443
+Poland - Warsaw 09 (TCP),waw-a09.ipvanish.com,tcp,443
+Poland - Warsaw 10 (UDP),waw-a10.ipvanish.com,udp,443
+Poland - Warsaw 10 (TCP),waw-a10.ipvanish.com,tcp,443
 Poland - Warsaw 02 (UDP),waw-c02.ipvanish.com,udp,443
 Poland - Warsaw 02 (TCP),waw-c02.ipvanish.com,tcp,443
 Poland - Warsaw 03 (UDP),waw-c03.ipvanish.com,udp,443
@@ -1020,6 +1090,12 @@ Ukraine - Kiev 03 (UDP),iev-c03.ipvanish.com,udp,443
 Ukraine - Kiev 03 (TCP),iev-c03.ipvanish.com,tcp,443
 Ukraine - Kiev 04 (UDP),iev-c04.ipvanish.com,udp,443
 Ukraine - Kiev 04 (TCP),iev-c04.ipvanish.com,tcp,443
+Ukraine - Kiev 05 (UDP),iev-c05.ipvanish.com,udp,443
+Ukraine - Kiev 05 (TCP),iev-c05.ipvanish.com,tcp,443
+Ukraine - Kiev 06 (UDP),iev-c06.ipvanish.com,udp,443
+Ukraine - Kiev 06 (TCP),iev-c06.ipvanish.com,tcp,443
+Ukraine - Kiev 07 (UDP),iev-c07.ipvanish.com,udp,443
+Ukraine - Kiev 07 (TCP),iev-c07.ipvanish.com,tcp,443
 United Kingdom - Glasgow 01 (UDP),gla-c01.ipvanish.com,udp,443
 United Kingdom - Glasgow 01 (TCP),gla-c01.ipvanish.com,tcp,443
 United Kingdom - Glasgow 02 (UDP),gla-c02.ipvanish.com,udp,443
@@ -1168,6 +1244,12 @@ United Kingdom - London 10 (UDP),lon-c10.ipvanish.com,udp,443
 United Kingdom - London 10 (TCP),lon-c10.ipvanish.com,tcp,443
 United Kingdom - London 12 (UDP),lon-c12.ipvanish.com,udp,443
 United Kingdom - London 12 (TCP),lon-c12.ipvanish.com,tcp,443
+United Kingdom - London 14 (UDP),lon-c14.ipvanish.com,udp,443
+United Kingdom - London 14 (TCP),lon-c14.ipvanish.com,tcp,443
+United Kingdom - London 16 (UDP),lon-c16.ipvanish.com,udp,443
+United Kingdom - London 16 (TCP),lon-c16.ipvanish.com,tcp,443
+United Kingdom - London 30 (UDP),lon-c30.ipvanish.com,udp,443
+United Kingdom - London 30 (TCP),lon-c30.ipvanish.com,tcp,443
 United Kingdom - London 32 (UDP),lon-c32.ipvanish.com,udp,443
 United Kingdom - London 32 (TCP),lon-c32.ipvanish.com,tcp,443
 United Kingdom - London 34 (UDP),lon-c34.ipvanish.com,udp,443
@@ -1180,6 +1262,8 @@ United Kingdom - London 40 (UDP),lon-c40.ipvanish.com,udp,443
 United Kingdom - London 40 (TCP),lon-c40.ipvanish.com,tcp,443
 United Kingdom - London 42 (UDP),lon-c42.ipvanish.com,udp,443
 United Kingdom - London 42 (TCP),lon-c42.ipvanish.com,tcp,443
+United Kingdom - London 44 (UDP),lon-c44.ipvanish.com,udp,443
+United Kingdom - London 44 (TCP),lon-c44.ipvanish.com,tcp,443
 United Kingdom - London 46 (UDP),lon-c46.ipvanish.com,udp,443
 United Kingdom - London 46 (TCP),lon-c46.ipvanish.com,tcp,443
 United Kingdom - London 48 (UDP),lon-c48.ipvanish.com,udp,443
@@ -1218,6 +1302,8 @@ United States - Ashburn 01 (UDP),iad-a01.ipvanish.com,udp,443
 United States - Ashburn 01 (TCP),iad-a01.ipvanish.com,tcp,443
 United States - Ashburn 02 (UDP),iad-a02.ipvanish.com,udp,443
 United States - Ashburn 02 (TCP),iad-a02.ipvanish.com,tcp,443
+United States - Ashburn 03 (UDP),iad-a03.ipvanish.com,udp,443
+United States - Ashburn 03 (TCP),iad-a03.ipvanish.com,tcp,443
 United States - Ashburn 04 (UDP),iad-a04.ipvanish.com,udp,443
 United States - Ashburn 04 (TCP),iad-a04.ipvanish.com,tcp,443
 United States - Ashburn 05 (UDP),iad-a05.ipvanish.com,udp,443
@@ -1398,6 +1484,8 @@ United States - Atlanta 24 (UDP),atl-a24.ipvanish.com,udp,443
 United States - Atlanta 24 (TCP),atl-a24.ipvanish.com,tcp,443
 United States - Atlanta 25 (UDP),atl-a25.ipvanish.com,udp,443
 United States - Atlanta 25 (TCP),atl-a25.ipvanish.com,tcp,443
+United States - Atlanta 26 (UDP),atl-a26.ipvanish.com,udp,443
+United States - Atlanta 26 (TCP),atl-a26.ipvanish.com,tcp,443
 United States - Atlanta 27 (UDP),atl-a27.ipvanish.com,udp,443
 United States - Atlanta 27 (TCP),atl-a27.ipvanish.com,tcp,443
 United States - Atlanta 28 (UDP),atl-a28.ipvanish.com,udp,443
@@ -1412,6 +1500,8 @@ United States - Atlanta 32 (UDP),atl-a32.ipvanish.com,udp,443
 United States - Atlanta 32 (TCP),atl-a32.ipvanish.com,tcp,443
 United States - Atlanta 33 (UDP),atl-a33.ipvanish.com,udp,443
 United States - Atlanta 33 (TCP),atl-a33.ipvanish.com,tcp,443
+United States - Atlanta 34 (UDP),atl-a34.ipvanish.com,udp,443
+United States - Atlanta 34 (TCP),atl-a34.ipvanish.com,tcp,443
 United States - Atlanta 35 (UDP),atl-a35.ipvanish.com,udp,443
 United States - Atlanta 35 (TCP),atl-a35.ipvanish.com,tcp,443
 United States - Atlanta 36 (UDP),atl-a36.ipvanish.com,udp,443
@@ -1524,6 +1614,40 @@ United States - Atlanta 01 (UDP),atl-c01.ipvanish.com,udp,443
 United States - Atlanta 01 (TCP),atl-c01.ipvanish.com,tcp,443
 United States - Atlanta 02 (UDP),atl-c02.ipvanish.com,udp,443
 United States - Atlanta 02 (TCP),atl-c02.ipvanish.com,tcp,443
+United States - Boston 04 (UDP),bos-c04.ipvanish.com,udp,443
+United States - Boston 04 (TCP),bos-c04.ipvanish.com,tcp,443
+United States - Boston 05 (UDP),bos-c05.ipvanish.com,udp,443
+United States - Boston 05 (TCP),bos-c05.ipvanish.com,tcp,443
+United States - Boston 06 (UDP),bos-c06.ipvanish.com,udp,443
+United States - Boston 06 (TCP),bos-c06.ipvanish.com,tcp,443
+United States - Boston 07 (UDP),bos-c07.ipvanish.com,udp,443
+United States - Boston 07 (TCP),bos-c07.ipvanish.com,tcp,443
+United States - Boston 08 (UDP),bos-c08.ipvanish.com,udp,443
+United States - Boston 08 (TCP),bos-c08.ipvanish.com,tcp,443
+United States - Boston 09 (UDP),bos-c09.ipvanish.com,udp,443
+United States - Boston 09 (TCP),bos-c09.ipvanish.com,tcp,443
+United States - Boston 16 (UDP),bos-c16.ipvanish.com,udp,443
+United States - Boston 16 (TCP),bos-c16.ipvanish.com,tcp,443
+United States - Boston 17 (UDP),bos-c17.ipvanish.com,udp,443
+United States - Boston 17 (TCP),bos-c17.ipvanish.com,tcp,443
+United States - Boston 18 (UDP),bos-c18.ipvanish.com,udp,443
+United States - Boston 18 (TCP),bos-c18.ipvanish.com,tcp,443
+United States - Boston 19 (UDP),bos-c19.ipvanish.com,udp,443
+United States - Boston 19 (TCP),bos-c19.ipvanish.com,tcp,443
+United States - Boston 20 (UDP),bos-c20.ipvanish.com,udp,443
+United States - Boston 20 (TCP),bos-c20.ipvanish.com,tcp,443
+United States - Boston 21 (UDP),bos-c21.ipvanish.com,udp,443
+United States - Boston 21 (TCP),bos-c21.ipvanish.com,tcp,443
+United States - Boston 22 (UDP),bos-c22.ipvanish.com,udp,443
+United States - Boston 22 (TCP),bos-c22.ipvanish.com,tcp,443
+United States - Boston 23 (UDP),bos-c23.ipvanish.com,udp,443
+United States - Boston 23 (TCP),bos-c23.ipvanish.com,tcp,443
+United States - Boston 25 (UDP),bos-c25.ipvanish.com,udp,443
+United States - Boston 25 (TCP),bos-c25.ipvanish.com,tcp,443
+United States - Boston 26 (UDP),bos-c26.ipvanish.com,udp,443
+United States - Boston 26 (TCP),bos-c26.ipvanish.com,tcp,443
+United States - Boston 27 (UDP),bos-c27.ipvanish.com,udp,443
+United States - Boston 27 (TCP),bos-c27.ipvanish.com,tcp,443
 United States - Chicago 01 (UDP),chi-a01.ipvanish.com,udp,443
 United States - Chicago 01 (TCP),chi-a01.ipvanish.com,tcp,443
 United States - Chicago 02 (UDP),chi-a02.ipvanish.com,udp,443
@@ -1662,14 +1786,6 @@ United States - Chicago 04 (UDP),chi-c04.ipvanish.com,udp,443
 United States - Chicago 04 (TCP),chi-c04.ipvanish.com,tcp,443
 United States - Chicago 05 (UDP),chi-c05.ipvanish.com,udp,443
 United States - Chicago 05 (TCP),chi-c05.ipvanish.com,tcp,443
-United States - Cleveland 01 (UDP),cle-c01.ipvanish.com,udp,443
-United States - Cleveland 01 (TCP),cle-c01.ipvanish.com,tcp,443
-United States - Cleveland 02 (UDP),cle-c02.ipvanish.com,udp,443
-United States - Cleveland 02 (TCP),cle-c02.ipvanish.com,tcp,443
-United States - Cleveland 03 (UDP),cle-c03.ipvanish.com,udp,443
-United States - Cleveland 03 (TCP),cle-c03.ipvanish.com,tcp,443
-United States - Cleveland 04 (UDP),cle-c04.ipvanish.com,udp,443
-United States - Cleveland 04 (TCP),cle-c04.ipvanish.com,tcp,443
 United States - Cleveland 05 (UDP),cle-c05.ipvanish.com,udp,443
 United States - Cleveland 05 (TCP),cle-c05.ipvanish.com,tcp,443
 United States - Cleveland 06 (UDP),cle-c06.ipvanish.com,udp,443
@@ -1680,8 +1796,18 @@ United States - Cleveland 08 (UDP),cle-c08.ipvanish.com,udp,443
 United States - Cleveland 08 (TCP),cle-c08.ipvanish.com,tcp,443
 United States - Cleveland 09 (UDP),cle-c09.ipvanish.com,udp,443
 United States - Cleveland 09 (TCP),cle-c09.ipvanish.com,tcp,443
-United States - Cleveland 10 (UDP),cle-c10.ipvanish.com,udp,443
-United States - Cleveland 10 (TCP),cle-c10.ipvanish.com,tcp,443
+United States - Cleveland 15 (UDP),cle-c15.ipvanish.com,udp,443
+United States - Cleveland 15 (TCP),cle-c15.ipvanish.com,tcp,443
+United States - Cleveland 17 (UDP),cle-c17.ipvanish.com,udp,443
+United States - Cleveland 17 (TCP),cle-c17.ipvanish.com,tcp,443
+United States - Cleveland 18 (UDP),cle-c18.ipvanish.com,udp,443
+United States - Cleveland 18 (TCP),cle-c18.ipvanish.com,tcp,443
+United States - Cleveland 19 (UDP),cle-c19.ipvanish.com,udp,443
+United States - Cleveland 19 (TCP),cle-c19.ipvanish.com,tcp,443
+United States - Cleveland 20 (UDP),cle-c20.ipvanish.com,udp,443
+United States - Cleveland 20 (TCP),cle-c20.ipvanish.com,tcp,443
+United States - Cleveland 21 (UDP),cle-c21.ipvanish.com,udp,443
+United States - Cleveland 21 (TCP),cle-c21.ipvanish.com,tcp,443
 United States - Dallas 01 (UDP),dal-a01.ipvanish.com,udp,443
 United States - Dallas 01 (TCP),dal-a01.ipvanish.com,tcp,443
 United States - Dallas 02 (UDP),dal-a02.ipvanish.com,udp,443
@@ -1738,12 +1864,20 @@ United States - Dallas 27 (UDP),dal-a27.ipvanish.com,udp,443
 United States - Dallas 27 (TCP),dal-a27.ipvanish.com,tcp,443
 United States - Dallas 28 (UDP),dal-a28.ipvanish.com,udp,443
 United States - Dallas 28 (TCP),dal-a28.ipvanish.com,tcp,443
+United States - Dallas 29 (UDP),dal-a29.ipvanish.com,udp,443
+United States - Dallas 29 (TCP),dal-a29.ipvanish.com,tcp,443
 United States - Dallas 30 (UDP),dal-a30.ipvanish.com,udp,443
 United States - Dallas 30 (TCP),dal-a30.ipvanish.com,tcp,443
+United States - Dallas 31 (UDP),dal-a31.ipvanish.com,udp,443
+United States - Dallas 31 (TCP),dal-a31.ipvanish.com,tcp,443
 United States - Dallas 32 (UDP),dal-a32.ipvanish.com,udp,443
 United States - Dallas 32 (TCP),dal-a32.ipvanish.com,tcp,443
+United States - Dallas 33 (UDP),dal-a33.ipvanish.com,udp,443
+United States - Dallas 33 (TCP),dal-a33.ipvanish.com,tcp,443
 United States - Dallas 34 (UDP),dal-a34.ipvanish.com,udp,443
 United States - Dallas 34 (TCP),dal-a34.ipvanish.com,tcp,443
+United States - Dallas 35 (UDP),dal-a35.ipvanish.com,udp,443
+United States - Dallas 35 (TCP),dal-a35.ipvanish.com,tcp,443
 United States - Dallas 36 (UDP),dal-a36.ipvanish.com,udp,443
 United States - Dallas 36 (TCP),dal-a36.ipvanish.com,tcp,443
 United States - Dallas 38 (UDP),dal-a38.ipvanish.com,udp,443
@@ -1756,8 +1890,6 @@ United States - Dallas 41 (UDP),dal-a41.ipvanish.com,udp,443
 United States - Dallas 41 (TCP),dal-a41.ipvanish.com,tcp,443
 United States - Dallas 42 (UDP),dal-a42.ipvanish.com,udp,443
 United States - Dallas 42 (TCP),dal-a42.ipvanish.com,tcp,443
-United States - Dallas 43 (UDP),dal-a43.ipvanish.com,udp,443
-United States - Dallas 43 (TCP),dal-a43.ipvanish.com,tcp,443
 United States - Dallas 45 (UDP),dal-a45.ipvanish.com,udp,443
 United States - Dallas 45 (TCP),dal-a45.ipvanish.com,tcp,443
 United States - Dallas 46 (UDP),dal-a46.ipvanish.com,udp,443
@@ -1814,6 +1946,18 @@ United States - Dallas 72 (UDP),dal-a72.ipvanish.com,udp,443
 United States - Dallas 72 (TCP),dal-a72.ipvanish.com,tcp,443
 United States - Dallas 73 (UDP),dal-a73.ipvanish.com,udp,443
 United States - Dallas 73 (TCP),dal-a73.ipvanish.com,tcp,443
+United States - Dallas 74 (UDP),dal-a74.ipvanish.com,udp,443
+United States - Dallas 74 (TCP),dal-a74.ipvanish.com,tcp,443
+United States - Dallas 75 (UDP),dal-a75.ipvanish.com,udp,443
+United States - Dallas 75 (TCP),dal-a75.ipvanish.com,tcp,443
+United States - Dallas 76 (UDP),dal-a76.ipvanish.com,udp,443
+United States - Dallas 76 (TCP),dal-a76.ipvanish.com,tcp,443
+United States - Dallas 77 (UDP),dal-a77.ipvanish.com,udp,443
+United States - Dallas 77 (TCP),dal-a77.ipvanish.com,tcp,443
+United States - Dallas 78 (UDP),dal-a78.ipvanish.com,udp,443
+United States - Dallas 78 (TCP),dal-a78.ipvanish.com,tcp,443
+United States - Dallas 79 (UDP),dal-a79.ipvanish.com,udp,443
+United States - Dallas 79 (TCP),dal-a79.ipvanish.com,tcp,443
 United States - Denver 01 (UDP),den-c01.ipvanish.com,udp,443
 United States - Denver 01 (TCP),den-c01.ipvanish.com,tcp,443
 United States - Denver 02 (UDP),den-c02.ipvanish.com,udp,443
@@ -1856,6 +2000,20 @@ United States - Jackson 07 (UDP),jan-c07.ipvanish.com,udp,443
 United States - Jackson 07 (TCP),jan-c07.ipvanish.com,tcp,443
 United States - Jackson 08 (UDP),jan-c08.ipvanish.com,udp,443
 United States - Jackson 08 (TCP),jan-c08.ipvanish.com,tcp,443
+United States - Jackson 09 (UDP),jan-c09.ipvanish.com,udp,443
+United States - Jackson 09 (TCP),jan-c09.ipvanish.com,tcp,443
+United States - Jackson 10 (UDP),jan-c10.ipvanish.com,udp,443
+United States - Jackson 10 (TCP),jan-c10.ipvanish.com,tcp,443
+United States - Jackson 11 (UDP),jan-c11.ipvanish.com,udp,443
+United States - Jackson 11 (TCP),jan-c11.ipvanish.com,tcp,443
+United States - Jackson 12 (UDP),jan-c12.ipvanish.com,udp,443
+United States - Jackson 12 (TCP),jan-c12.ipvanish.com,tcp,443
+United States - Jackson 13 (UDP),jan-c13.ipvanish.com,udp,443
+United States - Jackson 13 (TCP),jan-c13.ipvanish.com,tcp,443
+United States - Jackson 14 (UDP),jan-c14.ipvanish.com,udp,443
+United States - Jackson 14 (TCP),jan-c14.ipvanish.com,tcp,443
+United States - Jackson 15 (UDP),jan-c15.ipvanish.com,udp,443
+United States - Jackson 15 (TCP),jan-c15.ipvanish.com,tcp,443
 United States - Las Vegas 11 (UDP),las-c11.ipvanish.com,udp,443
 United States - Las Vegas 11 (TCP),las-c11.ipvanish.com,tcp,443
 United States - Las Vegas 12 (UDP),las-c12.ipvanish.com,udp,443
@@ -1930,6 +2088,8 @@ United States - Los Angeles 26 (UDP),lax-a26.ipvanish.com,udp,443
 United States - Los Angeles 26 (TCP),lax-a26.ipvanish.com,tcp,443
 United States - Los Angeles 27 (UDP),lax-a27.ipvanish.com,udp,443
 United States - Los Angeles 27 (TCP),lax-a27.ipvanish.com,tcp,443
+United States - Los Angeles 28 (UDP),lax-a28.ipvanish.com,udp,443
+United States - Los Angeles 28 (TCP),lax-a28.ipvanish.com,tcp,443
 United States - Los Angeles 29 (UDP),lax-a29.ipvanish.com,udp,443
 United States - Los Angeles 29 (TCP),lax-a29.ipvanish.com,tcp,443
 United States - Los Angeles 30 (UDP),lax-a30.ipvanish.com,udp,443
@@ -1992,6 +2152,10 @@ United States - Miami 01 (UDP),mia-a01.ipvanish.com,udp,443
 United States - Miami 01 (TCP),mia-a01.ipvanish.com,tcp,443
 United States - Miami 02 (UDP),mia-a02.ipvanish.com,udp,443
 United States - Miami 02 (TCP),mia-a02.ipvanish.com,tcp,443
+United States - Miami 03 (UDP),mia-a03.ipvanish.com,udp,443
+United States - Miami 03 (TCP),mia-a03.ipvanish.com,tcp,443
+United States - Miami 04 (UDP),mia-a04.ipvanish.com,udp,443
+United States - Miami 04 (TCP),mia-a04.ipvanish.com,tcp,443
 United States - Miami 05 (UDP),mia-a05.ipvanish.com,udp,443
 United States - Miami 05 (TCP),mia-a05.ipvanish.com,tcp,443
 United States - Miami 06 (UDP),mia-a06.ipvanish.com,udp,443
@@ -2020,12 +2184,50 @@ United States - Miami 17 (UDP),mia-a17.ipvanish.com,udp,443
 United States - Miami 17 (TCP),mia-a17.ipvanish.com,tcp,443
 United States - Miami 18 (UDP),mia-a18.ipvanish.com,udp,443
 United States - Miami 18 (TCP),mia-a18.ipvanish.com,tcp,443
+United States - Miami 19 (UDP),mia-a19.ipvanish.com,udp,443
+United States - Miami 19 (TCP),mia-a19.ipvanish.com,tcp,443
+United States - Miami 20 (UDP),mia-a20.ipvanish.com,udp,443
+United States - Miami 20 (TCP),mia-a20.ipvanish.com,tcp,443
+United States - Miami 21 (UDP),mia-a21.ipvanish.com,udp,443
+United States - Miami 21 (TCP),mia-a21.ipvanish.com,tcp,443
+United States - Milwaukee 01 (UDP),mke-c01.ipvanish.com,udp,443
+United States - Milwaukee 01 (TCP),mke-c01.ipvanish.com,tcp,443
 United States - Milwaukee 02 (UDP),mke-c02.ipvanish.com,udp,443
 United States - Milwaukee 02 (TCP),mke-c02.ipvanish.com,tcp,443
 United States - Milwaukee 03 (UDP),mke-c03.ipvanish.com,udp,443
 United States - Milwaukee 03 (TCP),mke-c03.ipvanish.com,tcp,443
 United States - Milwaukee 04 (UDP),mke-c04.ipvanish.com,udp,443
 United States - Milwaukee 04 (TCP),mke-c04.ipvanish.com,tcp,443
+United States - Milwaukee 05 (UDP),mke-c05.ipvanish.com,udp,443
+United States - Milwaukee 05 (TCP),mke-c05.ipvanish.com,tcp,443
+United States - Milwaukee 06 (UDP),mke-c06.ipvanish.com,udp,443
+United States - Milwaukee 06 (TCP),mke-c06.ipvanish.com,tcp,443
+United States - Milwaukee 07 (UDP),mke-c07.ipvanish.com,udp,443
+United States - Milwaukee 07 (TCP),mke-c07.ipvanish.com,tcp,443
+United States - Milwaukee 08 (UDP),mke-c08.ipvanish.com,udp,443
+United States - Milwaukee 08 (TCP),mke-c08.ipvanish.com,tcp,443
+United States - Milwaukee 09 (UDP),mke-c09.ipvanish.com,udp,443
+United States - Milwaukee 09 (TCP),mke-c09.ipvanish.com,tcp,443
+United States - Milwaukee 10 (UDP),mke-c10.ipvanish.com,udp,443
+United States - Milwaukee 10 (TCP),mke-c10.ipvanish.com,tcp,443
+United States - Milwaukee 11 (UDP),mke-c11.ipvanish.com,udp,443
+United States - Milwaukee 11 (TCP),mke-c11.ipvanish.com,tcp,443
+United States - Milwaukee 12 (UDP),mke-c12.ipvanish.com,udp,443
+United States - Milwaukee 12 (TCP),mke-c12.ipvanish.com,tcp,443
+United States - Milwaukee 13 (UDP),mke-c13.ipvanish.com,udp,443
+United States - Milwaukee 13 (TCP),mke-c13.ipvanish.com,tcp,443
+United States - Milwaukee 14 (UDP),mke-c14.ipvanish.com,udp,443
+United States - Milwaukee 14 (TCP),mke-c14.ipvanish.com,tcp,443
+United States - Milwaukee 15 (UDP),mke-c15.ipvanish.com,udp,443
+United States - Milwaukee 15 (TCP),mke-c15.ipvanish.com,tcp,443
+United States - Milwaukee 16 (UDP),mke-c16.ipvanish.com,udp,443
+United States - Milwaukee 16 (TCP),mke-c16.ipvanish.com,tcp,443
+United States - Milwaukee 17 (UDP),mke-c17.ipvanish.com,udp,443
+United States - Milwaukee 17 (TCP),mke-c17.ipvanish.com,tcp,443
+United States - Milwaukee 18 (UDP),mke-c18.ipvanish.com,udp,443
+United States - Milwaukee 18 (TCP),mke-c18.ipvanish.com,tcp,443
+United States - Milwaukee 19 (UDP),mke-c19.ipvanish.com,udp,443
+United States - Milwaukee 19 (TCP),mke-c19.ipvanish.com,tcp,443
 United States - New York 01 (UDP),nyc-a01.ipvanish.com,udp,443
 United States - New York 01 (TCP),nyc-a01.ipvanish.com,tcp,443
 United States - New York 02 (UDP),nyc-a02.ipvanish.com,udp,443
@@ -2134,10 +2336,6 @@ United States - New York 02 (UDP),nyc-c02.ipvanish.com,udp,443
 United States - New York 02 (TCP),nyc-c02.ipvanish.com,tcp,443
 United States - New York 03 (UDP),nyc-c03.ipvanish.com,udp,443
 United States - New York 03 (TCP),nyc-c03.ipvanish.com,tcp,443
-United States - New York 05 (UDP),nyc-c05.ipvanish.com,udp,443
-United States - New York 05 (TCP),nyc-c05.ipvanish.com,tcp,443
-United States - New York 06 (UDP),nyc-c06.ipvanish.com,udp,443
-United States - New York 06 (TCP),nyc-c06.ipvanish.com,tcp,443
 United States - New York 07 (UDP),nyc-c07.ipvanish.com,udp,443
 United States - New York 07 (TCP),nyc-c07.ipvanish.com,tcp,443
 United States - Phoenix 01 (UDP),phx-a01.ipvanish.com,udp,443
@@ -2246,6 +2444,20 @@ United States - San Jose 19 (UDP),sjc-a19.ipvanish.com,udp,443
 United States - San Jose 19 (TCP),sjc-a19.ipvanish.com,tcp,443
 United States - San Jose 20 (UDP),sjc-a20.ipvanish.com,udp,443
 United States - San Jose 20 (TCP),sjc-a20.ipvanish.com,tcp,443
+United States - San Jose 21 (UDP),sjc-a21.ipvanish.com,udp,443
+United States - San Jose 21 (TCP),sjc-a21.ipvanish.com,tcp,443
+United States - San Jose 22 (UDP),sjc-a22.ipvanish.com,udp,443
+United States - San Jose 22 (TCP),sjc-a22.ipvanish.com,tcp,443
+United States - San Jose 23 (UDP),sjc-a23.ipvanish.com,udp,443
+United States - San Jose 23 (TCP),sjc-a23.ipvanish.com,tcp,443
+United States - San Jose 24 (UDP),sjc-a24.ipvanish.com,udp,443
+United States - San Jose 24 (TCP),sjc-a24.ipvanish.com,tcp,443
+United States - San Jose 25 (UDP),sjc-a25.ipvanish.com,udp,443
+United States - San Jose 25 (TCP),sjc-a25.ipvanish.com,tcp,443
+United States - San Jose 26 (UDP),sjc-a26.ipvanish.com,udp,443
+United States - San Jose 26 (TCP),sjc-a26.ipvanish.com,tcp,443
+United States - San Jose 27 (UDP),sjc-a27.ipvanish.com,udp,443
+United States - San Jose 27 (TCP),sjc-a27.ipvanish.com,tcp,443
 United States - Seattle 01 (UDP),sea-a01.ipvanish.com,udp,443
 United States - Seattle 01 (TCP),sea-a01.ipvanish.com,tcp,443
 United States - Seattle 02 (UDP),sea-a02.ipvanish.com,udp,443
@@ -2312,6 +2524,8 @@ United States - Seattle 32 (UDP),sea-a32.ipvanish.com,udp,443
 United States - Seattle 32 (TCP),sea-a32.ipvanish.com,tcp,443
 United States - Seattle 33 (UDP),sea-a33.ipvanish.com,udp,443
 United States - Seattle 33 (TCP),sea-a33.ipvanish.com,tcp,443
+United States - Seattle 34 (UDP),sea-a34.ipvanish.com,udp,443
+United States - Seattle 34 (TCP),sea-a34.ipvanish.com,tcp,443
 United States - Seattle 35 (UDP),sea-a35.ipvanish.com,udp,443
 United States - Seattle 35 (TCP),sea-a35.ipvanish.com,tcp,443
 United States - Seattle 36 (UDP),sea-a36.ipvanish.com,udp,443
@@ -2340,12 +2554,22 @@ United States - St Louis 06 (UDP),stl-c06.ipvanish.com,udp,443
 United States - St Louis 06 (TCP),stl-c06.ipvanish.com,tcp,443
 United States - St Louis 07 (UDP),stl-c07.ipvanish.com,udp,443
 United States - St Louis 07 (TCP),stl-c07.ipvanish.com,tcp,443
-United States - St Louis 08 (UDP),stl-c08.ipvanish.com,udp,443
-United States - St Louis 08 (TCP),stl-c08.ipvanish.com,tcp,443
-United States - St Louis 09 (UDP),stl-c09.ipvanish.com,udp,443
-United States - St Louis 09 (TCP),stl-c09.ipvanish.com,tcp,443
-United States - St Louis 10 (UDP),stl-c10.ipvanish.com,udp,443
-United States - St Louis 10 (TCP),stl-c10.ipvanish.com,tcp,443
+United States - St Louis 11 (UDP),stl-c11.ipvanish.com,udp,443
+United States - St Louis 11 (TCP),stl-c11.ipvanish.com,tcp,443
+United States - St Louis 12 (UDP),stl-c12.ipvanish.com,udp,443
+United States - St Louis 12 (TCP),stl-c12.ipvanish.com,tcp,443
+United States - St Louis 13 (UDP),stl-c13.ipvanish.com,udp,443
+United States - St Louis 13 (TCP),stl-c13.ipvanish.com,tcp,443
+United States - St Louis 14 (UDP),stl-c14.ipvanish.com,udp,443
+United States - St Louis 14 (TCP),stl-c14.ipvanish.com,tcp,443
+United States - St Louis 15 (UDP),stl-c15.ipvanish.com,udp,443
+United States - St Louis 15 (TCP),stl-c15.ipvanish.com,tcp,443
+United States - St Louis 16 (UDP),stl-c16.ipvanish.com,udp,443
+United States - St Louis 16 (TCP),stl-c16.ipvanish.com,tcp,443
+United States - St Louis 17 (UDP),stl-c17.ipvanish.com,udp,443
+United States - St Louis 17 (TCP),stl-c17.ipvanish.com,tcp,443
+United States - St Louis 18 (UDP),stl-c18.ipvanish.com,udp,443
+United States - St Louis 18 (TCP),stl-c18.ipvanish.com,tcp,443
 South Africa - Johannesburg 01 (UDP),jnb-c01.ipvanish.com,udp,443
 South Africa - Johannesburg 01 (TCP),jnb-c01.ipvanish.com,tcp,443
 South Africa - Johannesburg 02 (UDP),jnb-c02.ipvanish.com,udp,443
@@ -2358,3 +2582,5 @@ South Africa - Johannesburg 05 (UDP),jnb-c05.ipvanish.com,udp,443
 South Africa - Johannesburg 05 (TCP),jnb-c05.ipvanish.com,tcp,443
 South Africa - Johannesburg 06 (UDP),jnb-c06.ipvanish.com,udp,443
 South Africa - Johannesburg 06 (TCP),jnb-c06.ipvanish.com,tcp,443
+South Africa - Johannesburg 07 (UDP),jnb-c07.ipvanish.com,udp,443
+South Africa - Johannesburg 07 (TCP),jnb-c07.ipvanish.com,tcp,443

@@ -50,6 +50,7 @@ Ireland (UDP),ire.torguardvpnaccess.com,udp,1912
 Ireland (TCP),ire.torguardvpnaccess.com,tcp,1912,#REMOVE=1
 Isle Of Man (UDP),iom.torguardvpnaccess.com,udp,1912
 Isle Of Man (TCP),iom.torguardvpnaccess.com,tcp,1912,#REMOVE=1
+Israel (UDP),isr.torguardvpnaccess.com,udp,1912
 Italy (UDP),it.torguardvpnaccess.com,udp,1912
 Italy (TCP),it.torguardvpnaccess.com,tcp,1912,#REMOVE=1
 Japan - Tokyo (UDP),jp.torguardvpnaccess.com,udp,1912

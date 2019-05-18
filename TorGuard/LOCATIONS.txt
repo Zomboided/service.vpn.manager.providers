@@ -1,144 +1,128 @@
-Australia - Melbourne (UDP),melb.au.torguardvpnaccess.com,udp,1912
-Australia - Melbourne (TCP),melb.au.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Australia - Sydney (UDP),au.torguardvpnaccess.com,udp,1912
-Australia - Sydney (TCP),au.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Austria (UDP),aus.torguardvpnaccess.com,udp,1912
-Austria (TCP),aus.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Belgium (UDP),bg.torguardvpnaccess.com,udp,1912
-Belgium (TCP),bg.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Brazil (UDP),br.torguardvpnaccess.com,udp,1912
-Brazil (TCP),br.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Bulgaria - Burgas (UDP),bul.torguardvpnaccess.com,udp,1912
-Bulgaria - Burgas (TCP),bul.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Canada - Toronto (UDP),ca.torguardvpnaccess.com,udp,1912
-Canada - Toronto (TCP),ca.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Canada - Vancouver (UDP),vanc.ca.west.torguardvpnaccess.com,udp,1912
-Canada - Vancouver (TCP),vanc.ca.west.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Chile (UDP),chil.torguardvpnaccess.com,udp,1912
-Chile (TCP),chil.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-China (UDP),cn.torguardvpnaccess.com,udp,1912
-China (TCP),cn.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Costa Rica (UDP),cr.torguardvpnaccess.com,udp,1912
-Costa Rica (TCP),cr.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Czech Republic (UDP),czech.torguardvpnaccess.com,udp,1912
-Czech Republic (TCP),czech.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Denmark (UDP),den.torguardvpnaccess.com,udp,1912
-Denmark (TCP),den.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Egypt (UDP),egy.torguardvpnaccess.com,udp,1912
-Egypt (TCP),egy.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Finland (UDP),fin.torguardvpnaccess.com,udp,1912
-Finland (TCP),fin.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-France (UDP),fr.torguardvpnaccess.com,udp,1912
-France (TCP),fr.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Germany - Frankfurt (UDP),frank.gr.torguardvpnaccess.com,udp,1912
-Germany - Frankfurt (TCP),frank.gr.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Greece (UDP),gre.torguardvpnaccess.com,udp,1912
-Greece (TCP),gre.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Hong Kong (UDP),hk.torguardvpnaccess.com,udp,1912
-Hong Kong (TCP),hk.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Hungary (UDP),hg.torguardvpnaccess.com,udp,1912
-Hungary (TCP),hg.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Iceland (UDP),ice.torguardvpnaccess.com,udp,1912
-Iceland (TCP),ice.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-India - Chennai (UDP),loc2.in.torguardvpnaccess.com,udp,1912
-India - Chennai (TCP),loc2.in.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-India - Mumbai (UDP),in.torguardvpnaccess.com,udp,1912
-India - Mumbai (TCP),in.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Indonesia (UDP),ind.torguardvpnaccess.com,udp,1912
-Indonesia (TCP),ind.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Ireland (UDP),ire.torguardvpnaccess.com,udp,1912
-Ireland (TCP),ire.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Isle Of Man (UDP),iom.torguardvpnaccess.com,udp,1912
-Isle Of Man (TCP),iom.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Italy (UDP),it.torguardvpnaccess.com,udp,1912
-Italy (TCP),it.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Japan - Tokyo (UDP),jp.torguardvpnaccess.com,udp,1912
-Japan - Tokyo (TCP),jp.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Latvia (UDP),lv.torguardvpnaccess.com,udp,1912
-Latvia (TCP),lv.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Luxembourg (UDP),lux.torguardvpnaccess.com,udp,1912
-Luxembourg (TCP),lux.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Malaysia (UDP),my.torguardvpnaccess.com,udp,1912
-Malaysia (TCP),my.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Mexico (UDP),mx.torguardvpnaccess.com,udp,1912
-Mexico (TCP),mx.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Moldova (UDP),md.torguardvpnaccess.com,udp,1912
-Moldova (TCP),md.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Netherlands (UDP),nl.torguardvpnaccess.com,udp,1912
-Netherlands (TCP),nl.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-New Zealand (UDP),nz.torguardvpnaccess.com,udp,1912
-New Zealand (TCP),nz.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Norway (UDP),no.torguardvpnaccess.com,udp,1912
-Norway (TCP),no.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Panama (UDP),pa.torguardvpnaccess.com,udp,1912
-Panama (TCP),pa.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Poland (UDP),pl.torguardvpnaccess.com,udp,1912
-Poland (TCP),pl.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Portugal (UDP),por.torguardvpnaccess.com,udp,1912
-Portugal (TCP),por.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Romania (UDP),ro.torguardvpnaccess.com,udp,1912
-Romania (TCP),ro.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Russia - Moscow (UDP),mos.ru.torguardvpnaccess.com,udp,1912
-Russia - Moscow (TCP),mos.ru.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Russia - St. Petersburg (UDP),ru.torguardvpnaccess.com,udp,1912
-Russia - St. Petersburg (TCP),ru.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Saudi Arabia (UDP),saudi.torguardvpnaccess.com,udp,1912
-Saudi Arabia (TCP),saudi.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Singapore - Location 1 (UDP),singp.torguardvpnaccess.com,udp,1912
-Singapore - Location 1 (TCP),singp.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Singapore - Location 2 (UDP),loc2.singp.torguardvpnaccess.com,udp,1912
-Singapore - Location 2 (TCP),loc2.singp.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Slovakia - Bratislava (UDP),slk.torguardvpnaccess.com,udp,1912
-Slovakia - Bratislava (TCP),slk.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-South Africa (UDP),za.torguardvpnaccess.com,udp,1912
-South Africa (TCP),za.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-South Korea (UDP),sk.torguardvpnaccess.com,udp,1912
-South Korea (TCP),sk.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Spain (UDP),sp.torguardvpnaccess.com,udp,1912
-Spain (TCP),sp.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Sweden - Stockholm (UDP),swe.torguardvpnaccess.com,udp,1912
-Sweden - Stockholm (TCP),swe.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Switzerland (UDP),swiss.torguardvpnaccess.com,udp,1912
-Switzerland (TCP),swiss.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Taiwan (UDP),tw.torguardvpnaccess.com,udp,1912
-Taiwan (TCP),tw.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Thailand (UDP),thai.torguardvpnaccess.com,udp,1912
-Thailand (TCP),thai.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Tunisia (UDP),tun.torguardvpnaccess.com,udp,1912
-Tunisia (TCP),tun.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Turkey (UDP),turk.torguardvpnaccess.com,udp,1912
-Turkey (TCP),turk.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Ukraine (UDP),ukr.torguardvpnaccess.com,udp,1912
-Ukraine (TCP),ukr.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-United Arab Emirates - Dubai (UDP),uae.torguardvpnaccess.com,udp,1912
-United Arab Emirates - Dubai (TCP),uae.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-United Kingdom - Hampshire (UDP),uk.torguardvpnaccess.com,udp,1912
-United Kingdom - Hampshire (TCP),uk.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-United Kingdom - London (UDP),lon.uk.torguardvpnaccess.com,udp,1912
-United Kingdom - London (TCP),lon.uk.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-USA - Atlanta (UDP),atl.east.usa.torguardvpnaccess.com,udp,1912
-USA - Atlanta (TCP),atl.east.usa.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-USA - Chicago (UDP),chi.central.usa.torguardvpnaccess.com,udp,1912
-USA - Chicago (TCP),chi.central.usa.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-USA - Dallas (UDP),dal.central.usa.torguardvpnaccess.com,udp,1912
-USA - Dallas (TCP),dal.central.usa.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-USA - Las Vegas (UDP),lv.west.usa.torguardvpnaccess.com,udp,1912
-USA - Las Vegas (TCP),lv.west.usa.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-USA - Los Angeles (UDP),la.west.usa.torguardvpnaccess.com,udp,1912
-USA - Los Angeles (TCP),la.west.usa.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-USA - Miami (UDP),fl.east.usa.torguardvpnaccess.com,udp,1912
-USA - Miami (TCP),fl.east.usa.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-USA - New Jersey (UDP),nj.east.usa.torguardvpnaccess.com,udp,1912
-USA - New Jersey (TCP),nj.east.usa.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-USA - New York (UDP),ny.east.usa.torguardvpnaccess.com,udp,1912
-USA - New York (TCP),ny.east.usa.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-USA - Seattle (UDP),sa.west.usa.torguardvpnaccess.com,udp,1912
-USA - Seattle (TCP),sa.west.usa.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-USA - Central (UDP),central.usa.torguardvpnaccess.com,udp,1912
-USA - Central (TCP),central.usa.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-USA - East (UDP),east.usa.torguardvpnaccess.com,udp,1912
-USA - East (TCP),east.usa.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-USA - West (UDP),west.usa.torguardvpnaccess.com,udp,1912
-USA - West (TCP),west.usa.torguardvpnaccess.com,tcp,1912,#REMOVE=1
-Vietnam (UDP),vn.torguardvpnaccess.com,udp,1912
-Vietnam (TCP),vn.torguardvpnaccess.com,tcp,1912,#REMOVE=1
+Australia - Melbourne (UDP),168.1.99.242,udp,1912
+Australia - Melbourne (TCP),168.1.99.242,tcp,1912,#REMOVE=1
+Australia - Sydney (UDP),168.1.210.188,udp,1912
+Australia - Sydney (TCP),168.1.210.188,tcp,1912,#REMOVE=1
+Austria (UDP),37.120.155.18,udp,1912
+Austria (TCP),37.120.155.18,tcp,1912,#REMOVE=1
+Belarus (UDP),95.47.99.12,udp,1912
+Belarus (TCP),95.47.99.12,tcp,1912,#REMOVE=1
+Belgium (UDP),91.207.57.125,udp,1912
+Belgium (TCP),91.207.57.125,tcp,1912,#REMOVE=1
+Brazil (UDP),169.57.142.125,udp,1912
+Brazil (TCP),169.57.142.125,tcp,1912,#REMOVE=1
+Bulgaria (UDP),82.102.23.186,udp,1912
+Bulgaria (TCP),82.102.23.186,tcp,1912,#REMOVE=1
+Canada - Toronto (UDP),184.75.209.250,udp,1912
+Canada - Toronto (TCP),184.75.209.250,tcp,1912,#REMOVE=1
+Canada - Vancouver (UDP),107.181.189.48,udp,1912
+Canada - Vancouver (TCP),107.181.189.48,tcp,1912,#REMOVE=1
+Chile (UDP),37.235.52.19,udp,1912
+Chile (TCP),37.235.52.19,tcp,1912,#REMOVE=1
+Costa Rica (UDP),190.112.223.54,udp,1912
+Costa Rica (TCP),190.112.223.54,tcp,1912,#REMOVE=1
+Cyprus (UDP),185.173.226.49,udp,1912
+Cyprus (TCP),185.173.226.49,tcp,1912,#REMOVE=1
+Czech (UDP),185.189.115.103,udp,1912
+Czech (TCP),185.189.115.103,tcp,1912,#REMOVE=1
+Denmark (UDP),37.120.131.29,udp,1912
+Denmark (TCP),37.120.131.29,tcp,1912,#REMOVE=1
+Egypt (UDP),41.77.139.98,udp,1912
+Egypt (TCP),41.77.139.98,tcp,1912,#REMOVE=1
+Finland (UDP),91.233.116.228,udp,1912
+Finland (TCP),91.233.116.228,tcp,1912,#REMOVE=1
+France (UDP),93.177.75.90,udp,1912
+France (TCP),93.177.75.90,tcp,1912,#REMOVE=1
+Germany (UDP),93.177.73.90,udp,1912
+Germany (TCP),93.177.73.90,tcp,1912,#REMOVE=1
+Greece (UDP),185.25.21.203,udp,1912
+Greece (TCP),185.25.21.203,tcp,1912,#REMOVE=1
+Hong Kong 1 (UDP),161.202.39.252,udp,1912
+Hong Kong 1 (TCP),161.202.39.252,tcp,1912,#REMOVE=1
+Hong Kong 2 (UDP),103.195.6.8,udp,1912
+Hong Kong 2 (TCP),103.195.6.8,tcp,1912,#REMOVE=1
+Hungary (UDP),91.219.236.140,udp,1912
+Hungary (TCP),91.219.236.140,tcp,1912,#REMOVE=1
+Iceland (UDP),82.221.111.11,udp,1912
+Iceland (TCP),82.221.111.11,tcp,1912,#REMOVE=1
+India Bangalore (UDP),139.59.62.109,udp,1912
+India Bangalore (TCP),139.59.62.109,tcp,1912,#REMOVE=1
+India Chennai (UDP),169.38.85.107,udp,1912
+India Chennai (TCP),169.38.85.107,tcp,1912,#REMOVE=1
+Ireland (UDP),81.17.246.108,udp,1912
+Ireland (TCP),81.17.246.108,tcp,1912,#REMOVE=1
+Israel (UDP),91.223.106.201,udp,1912
+Israel (TCP),91.223.106.201,tcp,1912,#REMOVE=1
+Italy (UDP),159.122.133.211,udp,1912
+Italy (TCP),159.122.133.211,tcp,1912,#REMOVE=1
+Japan (UDP),161.202.72.163,udp,1912
+Japan (TCP),161.202.72.163,tcp,1912,#REMOVE=1
+Latvia (UDP),109.248.149.167,udp,1912
+Latvia (TCP),109.248.149.167,tcp,1912,#REMOVE=1
+Luxembourg (UDP),94.242.238.66,udp,1912
+Luxembourg (TCP),94.242.238.66,tcp,1912,#REMOVE=1
+Malaysia (UDP),43.252.213.152,udp,1912
+Malaysia (TCP),43.252.213.152,tcp,1912,#REMOVE=1
+Mexico (UDP),169.57.0.228,udp,1912
+Mexico (TCP),169.57.0.228,tcp,1912,#REMOVE=1
+Moldova (UDP),178.175.128.74,udp,1912
+Moldova (TCP),178.175.128.74,tcp,1912,#REMOVE=1
+Netherlands (UDP),88.202.177.181,udp,1912
+Netherlands (TCP),88.202.177.181,tcp,1912,#REMOVE=1
+New Zealand (UDP),103.18.58.198,udp,1912
+New Zealand (TCP),103.18.58.198,tcp,1912,#REMOVE=1
+Norway (UDP),185.125.169.31,udp,1912
+Norway (TCP),185.125.169.31,tcp,1912,#REMOVE=1
+Poland (UDP),37.120.156.194,udp,1912
+Poland (TCP),37.120.156.194,tcp,1912,#REMOVE=1
+Portugal (UDP),94.46.179.75,udp,1912
+Portugal (TCP),94.46.179.75,tcp,1912,#REMOVE=1
+Romania (UDP),93.120.27.162,udp,1912
+Romania (TCP),93.120.27.162,tcp,1912,#REMOVE=1
+Singapore 1 (UDP),119.81.66.226,udp,1912
+Singapore 1 (TCP),119.81.66.226,tcp,1912,#REMOVE=1
+Singapore 2 (UDP),159.65.135.30,udp,1912
+Singapore 2 (TCP),159.65.135.30,tcp,1912,#REMOVE=1
+Slovakia (UDP),46.29.2.113,udp,1912
+Slovakia (TCP),46.29.2.113,tcp,1912,#REMOVE=1
+South Africa (UDP),156.38.133.194,udp,1912
+South Africa (TCP),156.38.133.194,tcp,1912,#REMOVE=1
+South Korea (UDP),169.56.83.216,udp,1912
+South Korea (TCP),169.56.83.216,tcp,1912,#REMOVE=1
+Spain (UDP),185.93.182.227,udp,1912
+Spain (TCP),185.93.182.227,tcp,1912,#REMOVE=1
+Sweden (UDP),37.120.153.72,udp,1912
+Sweden (TCP),37.120.153.72,tcp,1912,#REMOVE=1
+Switzerland (UDP),195.206.105.37,udp,1912
+Switzerland (TCP),195.206.105.37,tcp,1912,#REMOVE=1
+Taiwan (UDP),61.216.159.176,udp,1912
+Taiwan (TCP),61.216.159.176,tcp,1912,#REMOVE=1
+Thailand (UDP),202.129.16.104,udp,1912
+Thailand (TCP),202.129.16.104,tcp,1912,#REMOVE=1
+Tunisia (UDP),41.231.5.22,udp,1912
+Tunisia (TCP),41.231.5.22,tcp,1912,#REMOVE=1
+Turkey (UDP),213.128.71.36,udp,1912
+Turkey (TCP),213.128.71.36,tcp,1912,#REMOVE=1
+UK - London (UDP),109.123.118.13,udp,1912
+UK - London (TCP),109.123.118.13,tcp,1912,#REMOVE=1
+USA - Atlanta (UDP),104.223.95.50,udp,1912
+USA - Atlanta (TCP),104.223.95.50,tcp,1912,#REMOVE=1
+USA - Chicago (UDP),167.160.172.106,udp,1912
+USA - Chicago (TCP),167.160.172.106,tcp,1912,#REMOVE=1
+USA - Dallas (UDP),96.44.145.26,udp,1912
+USA - Dallas (TCP),96.44.145.26,tcp,1912,#REMOVE=1
+USA - Las Vegas (UDP),76.164.203.130,udp,1912
+USA - Las Vegas (TCP),76.164.203.130,tcp,1912,#REMOVE=1
+USA - Los Angeles (UDP),67.215.236.58,udp,1912
+USA - Los Angeles (TCP),67.215.236.58,tcp,1912,#REMOVE=1
+USA - Miami (UDP),96.47.226.42,udp,1912
+USA - Miami (TCP),96.47.226.42,tcp,1912,#REMOVE=1
+USA - New Jersey (UDP),23.226.128.146,udp,1912
+USA - New Jersey (TCP),23.226.128.146,tcp,1912,#REMOVE=1
+USA - New York (UDP),209.95.50.116,udp,1912
+USA - New York (TCP),209.95.50.116,tcp,1912,#REMOVE=1
+USA - San-francisco (UDP),206.189.218.238,udp,1912
+USA - San-francisco (TCP),206.189.218.238,tcp,1912,#REMOVE=1
+USA - Seattle (UDP),199.229.250.38,udp,1912
+USA - Seattle (TCP),199.229.250.38,tcp,1912,#REMOVE=1
+Vietnam (UDP),210.211.122.234,udp,1912
+Vietnam (TCP),210.211.122.234,tcp,1912,#REMOVE=1

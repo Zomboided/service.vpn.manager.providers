@@ -82,3 +82,11 @@ Ukraine (UDP),ua.windscribe.com,udp,443
 Ukraine (TCP),ua.windscribe.com,tcp,443
 Malaysia (UDP),my.windscribe.com,udp,443
 Malaysia (TCP),my.windscribe.com,tcp,443
+Canada Windflix (UDP),wf-ca.windscribe.com,udp,443
+Canada Windflix (TCP),wf-ca.windscribe.com,tcp,443
+Japan Windflix (UDP),wf-jp.windscribe.com,udp,443
+Japan Windflix (TCP),wf-jp.windscribe.com,tcp,443
+United Kingdom Windflix (UDP),wf-uk.windscribe.com,udp,443
+United Kingdom Windflix (TCP),wf-uk.windscribe.com,tcp,443
+United States Windflix (UDP),wf-us.windscribe.com,udp,443
+United States Windflix (TCP),wf-us.windscribe.com,tcp,443

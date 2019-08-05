@@ -7,7 +7,7 @@ nobind
 remote #SERVER #PORT
 remote-random
 pull
-comp-lzo
+comp-lzo no
 tls-client
 verify-x509-name Server name-prefix
 ns-cert-type server
@@ -16,7 +16,7 @@ route-method exe
 route-delay 2
 tun-mtu 1500
 #REMOVE1fragment 1300
-#REMOVE1mssfix 1450
+#REMOVE1mssfix 1200
 verb 3
 cipher AES-256-CBC
 keysize 256

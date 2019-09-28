@@ -6,13 +6,21 @@ resolv-retry 30
 nobind
 persist-key
 persist-tun
-ca #CERT
-#REMOVE1tls-auth #TLSKEY 1
-#REMOVE1auth SHA256
-#REMOVE1cipher AES-128-CBC
+tun-mtu 1500
+tun-mtu-extra 32
+#REMOVE1mssfix 1450
+tls-client
 remote-cert-tls server
 auth-user-pass #PASS
-comp-lzo
-verb 3
+compress
+ncp-disable
 reneg-sec 0
 fast-io
+sndbuf 393216
+rcvbuf 393216
+cipher AES-256-GCM
+auth SHA256
+key-direction 1
+tls-auth #TLSKEY
+ca #CERT
+verb 3

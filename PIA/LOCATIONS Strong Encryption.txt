@@ -66,8 +66,6 @@ Sweden (UDP),sweden.privateinternetaccess.com,udp,1197,#REMOVE=2 #CERT=ca.rsa.40
 Sweden (TCP),sweden.privateinternetaccess.com,tcp,443,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 Switzerland (UDP),swiss.privateinternetaccess.com,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 Switzerland (TCP),swiss.privateinternetaccess.com,tcp,443,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
-Turkey (UDP),turkey.privateinternetaccess.com,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
-Turkey (TCP),turkey.privateinternetaccess.com,tcp,443,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 UAE (UDP),ae.privateinternetaccess.com,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 UAE (TCP),ae.privateinternetaccess.com,tcp,443,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 UK London (UDP),uk-london.privateinternetaccess.com,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem

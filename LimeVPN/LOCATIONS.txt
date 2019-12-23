@@ -1,25 +1,25 @@
-Australia 1 (UDP),108.61.251.44,udp,1195
-Canada 2 (UDP),104.145.239.55,udp,1195
-Europe 1 (UDP),95.141.35.146,udp,1195
-Europe 10 (UDP),95.211.153.84,udp,1195
-Europe 11 (UDP),5.2.70.154,udp,1195
-Hong Kong 2 (UDP),176.126.72.120,udp,1195
-India 1 (UDP),139.59.6.33,udp,1195
-Japan (UDP),108.61.201.208,udp,1195
-London (UDP),185.59.221.135,udp,1195
-Netherlands 1 (UDP),128.199.57.222,udp,1195
-Netherlands 2 (UDP),188.166.86.177,udp,1195
-New York (UDP),185.59.223.157,udp,1195
-Singapore (UDP),128.199.186.214,udp,1195
-Singapore 1 (UDP),188.166.222.44,udp,1195
-Sweden 1 (UDP),31.220.15.183,udp,1195
-United Kingdom 2 (UDP),104.238.171.89,udp,1195
-United Kingdom 3 (UDP),185.10.202.246,udp,1195
-United States 1 (UDP),198.199.82.197,udp,1195
-United States 11 (UDP),208.94.241.226,udp,1195
-United States 12 (UDP),64.251.30.95,udp,1195
-United States 2 (UDP),107.170.231.171,udp,1195
-United States 3 (UDP),108.61.216.42,udp,1195
-United States 4 (UDP),45.63.67.4,udp,1195
-United States 5 (UDP),104.238.180.135,udp,1195
-United States 6 (UDP),104.207.156.53,udp,1195
+Australia 1 (UDP),aus1.limevpn.com,udp,1195
+Canada 2 (UDP),ca2.limevpn.com,udp,1195
+Europe 05 (UDP),eu05.limevpn.com,udp,1195
+Europe 10 (UDP),vpn407334537.v4.softether.net,udp,1195,#CERT=eu10ca.crt
+Europe 12 (UDP),eu12.limevpn.com,udp,1195
+India (UDP),in.limevpn.com,udp,1195
+India 2 (UDP),in2.limevpn.com,udp,1195
+Japan (UDP),jp.limevpn.com,udp,1195
+Netherlands 2 (UDP),nl2.limevpn.com,udp,1195
+Singapore (UDP),ansible.limevpn.com,udp,1195
+Singapore 1 (UDP),sg1.limevpn.com,udp,1195
+Sweden 1 (UDP),sw1.limevpn.com,udp,1195
+United Kingdom 2 (UDP),uk2.limevpn.com,udp,1195
+United Kingdom 3 (UDP),uk3.limevpn.com,udp,1195
+United States 1 (UDP),us1.limevpn.com,udp,1195
+United States 11 (UDP),us11.limevpn.com,udp,1195
+United States 2 (UDP),us2.limevpn.com,udp,1195
+United States 3 (UDP),us3.limevpn.com,udp,1195
+United States 4 (UDP),us4.limevpn.com,udp,1195
+United States 6 (UDP),us6.limevpn.com,udp,1195
+United States CA2 (UDP),usca2.limevpn.com,udp,1195
+United States CH1 (UDP),usch1.limevpn.com,udp,1195
+United States DA1 (UDP),usda1.limevpn.com,udp,1195
+United States LA2 (UDP),usla2.limevpn.com,udp,1195
+United States NY3 (UDP),usny3.limevpn.com,udp,1195

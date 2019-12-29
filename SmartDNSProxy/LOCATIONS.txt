@@ -46,8 +46,10 @@ Greece - Athens (TCP),gr-at.serverlocation.co,tcp,443
 Greece - Athens (UDP),gr-at.serverlocation.co,udp,1194
 Honk Kong (TCP),hk-vpn-00.serverlocation.co,tcp,443
 Honk Kong (UDP),hk-vpn-00.serverlocation.co,udp,1194
-India - Pune (TCP Smart),in-pn-smart.serverlocation.co,tcp,443
-India - Pune (UDP Smart),in-pn-smart.serverlocation.co,udp,1194
+India - Bangalore (TCP Smart),in-bg-smart.serverlocation.co,tcp,443
+India - Bangalore (UDP Smart),in-bg-smart.serverlocation.co,udp,1194
+India - Pune (TCP),in-pn.serverlocation.co,tcp,443
+India - Pune (UDP),in-pn.serverlocation.co,udp,1194
 Ireland - Dublin (TCP),ie-db.serverlocation.co,tcp,443
 Ireland - Dublin (UDP),ie-db.serverlocation.co,udp,1194
 Ireland - Waterford 2 (TCP Smart),ie-wt2-smart.serverlocation.co,tcp,443
@@ -63,7 +65,9 @@ Kyrgyzstan - Bishkek (UDP Smart),kg-sh-smart.serverlocation.co,udp,1194
 Malaysia - Selangor (TCP),my-sl.serverlocation.co,tcp,443
 Malaysia - Selangor (UDP),my-sl.serverlocation.co,udp,1194
 Mexico - Cabo San Lucas (TCP),mx-cb.serverlocation.co,tcp,443
+Mexico - Cabo San Lucas (TCP Smart),mx-cb-smart.serverlocation.co,tcp,443
 Mexico - Cabo San Lucas (UDP),mx-cb.serverlocation.co,udp,1194
+Mexico - Cabo San Lucas (UDP Smart),mx-cb-smart.serverlocation.co,udp,1194
 Mexico - Rosarito (TCP Smart),mx-rs-smart.serverlocation.co,tcp,443
 Mexico - Rosarito (UDP Smart),mx-rs-smart.serverlocation.co,udp,1194
 Mozambique - Maputo (TCP Smart),mz-mp-smart.serverlocation.co,tcp,443
@@ -74,7 +78,9 @@ Netherlands - Amsterdam (TCP),nl-am2.serverlocation.co,tcp,443
 Netherlands - Amsterdam (TCP Smart),nl-am2-smart.serverlocation.co,tcp,443
 Netherlands - Amsterdam (UDP),nl-am2.serverlocation.co,udp,1194
 Netherlands - Amsterdam (UDP Smart),nl-am2-smart.serverlocation.co,udp,1194
+New Zealand - Auckland (TCP),nz-ac.serverlocation.co,tcp,443
 New Zealand - Auckland (TCP Smart),nz-ac-smart.serverlocation.co,tcp,443
+New Zealand - Auckland (UDP),nz-ac.serverlocation.co,udp,1194
 New Zealand - Auckland (UDP Smart),nz-ac-smart.serverlocation.co,udp,1194
 Norway - Oslo (TCP),no-os.serverlocation.co,tcp,443
 Norway - Oslo (UDP),no-os.serverlocation.co,udp,1194
@@ -94,24 +100,34 @@ South Africa - Johannesburg (TCP Smart),za-jh-smart.serverlocation.co,tcp,443
 South Africa - Johannesburg (UDP Smart),za-jh-smart.serverlocation.co,udp,1194
 South Korea - Seoul (TCP Smart),kr-sl-smart.serverlocation.co,tcp,443
 South Korea - Seoul (UDP Smart),kr-sl-smart.serverlocation.co,udp,1194
-Spain - Valencia (TCP),es-vl.serverlocation.co,tcp,443
-Spain - Valencia (TCP Smart),es-vl-smart.serverlocation.co,tcp,443
-Spain - Valencia (UDP),es-vl.serverlocation.co,udp,1194
-Spain - Valencia (UDP Smart),es-vl-smart.serverlocation.co,udp,1194
+Spain - Madrid (TCP),es-md.serverlocation.co,tcp,443
+Spain - Madrid (TCP Smart),es-md-smart.serverlocation.co,tcp,443
+Spain - Madrid (UDP),es-md.serverlocation.co,udp,1194
+Spain - Madrid (UDP Smart),es-md-smart.serverlocation.co,udp,1194
 Sudan (TCP),sd.serverlocation.co,tcp,443
 Sudan (UDP),sd.serverlocation.co,udp,1194
 Sweden - Stockholm (TCP Smart),se-st-smart.serverlocation.co,tcp,443
 Sweden - Stockholm (UDP Smart),se-st-smart.serverlocation.co,udp,1194
+Switzerland - Zurich 2 (TCP),ch-zr2.serverlocation.co,tcp,443
+Switzerland - Zurich 2 (UDP),ch-zr2.serverlocation.co,udp,1194
 Switzerland - Zurich (TCP),ch-zr.serverlocation.co,tcp,443
+Switzerland - Zurich (TCP Smart),ch-zr-smart.serverlocation.co,tcp,443
 Switzerland - Zurich (UDP),ch-zr.serverlocation.co,udp,1194
+Switzerland - Zurich (UDP Smart),ch-zr-smart.serverlocation.co,udp,1194
 Turkey - Istanbul (TCP),tr-is.serverlocation.co,tcp,443
+Turkey - Istanbul (TCP Smart),tr-is-smart.serverlocation.co,tcp,443
 Turkey - Istanbul (UDP),tr-is.serverlocation.co,udp,1194
+Turkey - Istanbul (UDP Smart),tr-is-smart.serverlocation.co,udp,1194
 UK - Canterbury (TCP),uk-can.serverlocation.co,tcp,443
 UK - Canterbury (UDP),uk-can.serverlocation.co,udp,1194
 UK - Hull (TCP Smart),uk-hl-smart.serverlocation.co,tcp,443
 UK - Hull (UDP Smart),uk-hl-smart.serverlocation.co,udp,1194
 UK - London 1 (TCP),uk-lon1.serverlocation.co,tcp,443
+UK - London 1 (TCP Smart),uk-lon1-smart.serverlocation.co,tcp,443
 UK - London 1 (UDP),uk-lon1.serverlocation.co,udp,1194
+UK - London 1 (UDP Smart),uk-lon1-smart.serverlocation.co,udp,1194
+UK - Oxford 2 (TCP Smart),uk-ox2-smart.serverlocation.co,tcp,443
+UK - Oxford 2 (UDP Smart),uk-ox2-smart.serverlocation.co,udp,1194
 Ukraine - Kiev (TCP),ua-kv.serverlocation.co,tcp,443
 Ukraine - Kiev (UDP),ua-kv.serverlocation.co,udp,1194
 US - Chicago (TCP),us-ch.serverlocation.co,tcp,443
@@ -141,6 +157,7 @@ US - New York City (UDP),us-nyc.serverlocation.co,udp,1194
 US - Orlando (TCP),us-or.serverlocation.co,tcp,443
 US - Orlando (UDP),us-or.serverlocation.co,udp,1194
 US - San Francisco 2 (TCP),us-sf2.serverlocation.co,tcp,443
+US - San Francisco 2 (UDP),us-sf2.serverlocation.co,udp,1194
 US - San Jose (TCP),us-sj.serverlocation.co,tcp,443
 US - San Jose (UDP),us-sj.serverlocation.co,udp,1194
 US - Savannah (TCP),us-sav.serverlocation.co,tcp,443

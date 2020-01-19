@@ -58,8 +58,8 @@ India (TCP),9-1-in.cg-dialup.net,tcp,443,#REMOVE=1 #PINGSPEED=15 #PINGEXIT=90
 India (UDP),4-1-in.cg-dialup.net,udp,443,#PINGSPEED=5 #PINGEXIT=60
 Island (TCP),9-1-is.cg-dialup.net,tcp,443,#REMOVE=1 #PINGSPEED=15 #PINGEXIT=90
 Island (UDP),4-1-is.cg-dialup.net,udp,443,#PINGSPEED=5 #PINGEXIT=60
-Italy (TCP),87-1-it.cg-dialup.net,tcp,443,#REMOVE=1 #PINGSPEED=15 #PINGEXIT=90
-Italy (UDP),87-1-it.cg-dialup.net,udp,443,#PINGSPEED=5 #PINGEXIT=60
+Italy (TCP),9-1-it.cg-dialup.net,tcp,443,#REMOVE=1 #PINGSPEED=15 #PINGEXIT=90
+Italy (UDP),4-1-it.cg-dialup.net,udp,443,#PINGSPEED=5 #PINGEXIT=60
 Japan (TCP),19-1-jp.cg-dialup.net,tcp,443,#REMOVE=1 #PINGSPEED=15 #PINGEXIT=90
 Japan (UDP),18-1-jp.cg-dialup.net,udp,443,#PINGSPEED=5 #PINGEXIT=60
 Kenya (TCP),19-1-ke.cg-dialup.net,tcp,443,#REMOVE=1 #PINGSPEED=15 #PINGEXIT=90

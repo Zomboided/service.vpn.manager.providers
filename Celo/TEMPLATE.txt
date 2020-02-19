@@ -2,14 +2,15 @@ dev tun
 tun-ipv6
 persist-tun
 persist-key
-cipher AES-256-CBC
+cipher AES-256-GCM
 ncp-disable
-auth SHA1
+auth SHA256
 tls-client
 client
 resolv-retry 30
 proto #PROTO
 remote #SERVER #PORT
+dhcp-option DNS #USER1
 auth-user-pass #PASS
 remote-cert-tls server
 verb 3

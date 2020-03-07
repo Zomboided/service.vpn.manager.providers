@@ -90,3 +90,5 @@ United Kingdom Windflix (UDP),wf-uk.windscribe.com,udp,443
 United Kingdom Windflix (TCP),wf-uk.windscribe.com,tcp,443
 United States Windflix (UDP),wf-us.windscribe.com,udp,443
 United States Windflix (TCP),wf-us.windscribe.com,tcp,443
+Portugal (UDP),pt.windscribe.com,udp,443
+Portugal (TCP),pt.windscribe.com,tcp,443

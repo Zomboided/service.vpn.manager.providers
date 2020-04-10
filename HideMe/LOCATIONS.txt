@@ -1,31 +1,63 @@
-Bucharest (UDP),ro.hide.me,udp,4000
-Frankfurt (UDP),de.hide.me,udp,4000
-Haarlem (UDP),haarlem.hide.me,udp,4000
-Hong Kong (UDP),hk.hide.me,udp,4000
-Istanbul (UDP),tr.hide.me,udp,4000
-London (UDP),uk.hide.me,udp,4000
-Marrakech (UDP),ma.hide.me,udp,4000
-Melbourne (UDP),au-1.hide.me,udp,4000
-Miami (UDP),us-5.hide.me,udp,4000
-Milan (UDP),it.hide.me,udp,4000
-Montreal (UDP),ca.hide.me,udp,4000
-Paris (UDP),fr.hide.me,udp,4000
-Queretaro (UDP),mx.hide.me,udp,4000
-Reykjavik (UDP),is.hide.me,udp,4000
-Roosendaal (UDP),roosendaal.hide.me,udp,4000
-Salt Lake City (UDP),us-1.hide.me,udp,4000
-San Jose (UDP),us-3.hide.me,udp,4000
-Sao Paulo (UDP),brazil.hide.me,udp,4000
-Seattle (UDP),us-4.hide.me,udp,4000
-Siauliai (UDP),lt.hide.me,udp,4000
-Singapore (UDP),sg.hide.me,udp,4000
-Steinsel (UDP),lu.hide.me,udp,4000
-Stockholm (UDP),se.hide.me,udp,4000
-Sydney (UDP),au-2.hide.me,udp,4000
-Tokyo (UDP),jp.hide.me,udp,4000
-US-East (UDP),us-east.hide.me,udp,4000
-US-West (UDP),us-west.hide.me,udp,4000
-Vienna (UDP),at.hide.me,udp,4000
-Warsaw (UDP),pl.hide.me,udp,4000
-Washington D.C. (UDP),us-2.hide.me,udp,4000
-Zurich (UDP),ch.hide.me,udp,4000
+Australia (UDP),australia.hide.me,udp,4000
+Australia - Melbourne (UDP),melbourne.hide.me,udp,4000
+Australia - Sydney (UDP),sydney.hide.me,udp,4000
+Austria - Vienna (UDP),vienna.hide.me,udp,4000
+Belgium - Brussels (UDP),brussels.hide.me,udp,4000
+Brazil - São Paulo (UDP),brazil.hide.me,udp,4000
+Bulgaria - Sofia (UDP),sofia.hide.me,udp,4000
+Canada - Montreal (UDP),montreal.hide.me,udp,4000
+Czech Republic - Prague (UDP),prague.hide.me,udp,4000
+Denmark - Copenhagen (UDP),copenhagen.hide.me,udp,4000
+France - Paris (UDP),paris.hide.me,udp,4000
+Germany (UDP),germany.hide.me,udp,4000
+Germany - Berlin (UDP),berlin.hide.me,udp,4000
+Germany - Frankfurt (UDP),frankfurt.hide.me,udp,4000
+Hong Kong (UDP),hongkong.hide.me,udp,4000
+Hong Kong - Hong Kong #1 (UDP),hk-1.hide.me,udp,4000
+Hong Kong - Hong Kong #2 (UDP),hk-2.hide.me,udp,4000
+Hungary - Budapest (UDP),budapest.hide.me,udp,4000
+Iceland - Reykjavik (UDP),reykjavik.hide.me,udp,4000
+India - Chennai (UDP),chennai.hide.me,udp,4000
+Italy (UDP),italy.hide.me,udp,4000
+Italy - Milan (UDP),milan.hide.me,udp,4000
+Italy - Rome (UDP),rome.hide.me,udp,4000
+Japan - Tokyo (UDP),tokyo.hide.me,udp,4000
+Lithuania - Siauliai (UDP),siauliai.hide.me,udp,4000
+Luxembourg - Steinsel (UDP),steinsel.hide.me,udp,4000
+Mexico - Queretaro (UDP),queretaro.hide.me,udp,4000
+Morocco - Marrakech (UDP),marrakech.hide.me,udp,4000
+Netherlands (UDP),netherlands.hide.me,udp,4000
+Netherlands - Amsterdam (UDP),amsterdam.hide.me,udp,4000
+Netherlands - Roosendaal (UDP),roosendaal.hide.me,udp,4000
+Norway - Oslo (UDP),oslo.hide.me,udp,4000
+Poland (UDP),poland.hide.me,udp,4000
+Romania - Bucharest (UDP),bucharest.hide.me,udp,4000
+Singapore (UDP),singapore.hide.me,udp,4000
+Singapore - Singapore #1 (UDP),sg1.hide.me,udp,4000
+Singapore - Singapore #2 (UDP),sg2.hide.me,udp,4000
+Singapore - Singapore #3 (UDP),sg3.hide.me,udp,4000
+Slovakia - Bratislava (UDP),bratislava.hide.me,udp,4000
+South Korea - Seoul (UDP),seoul.hide.me,udp,4000
+Spain (UDP),spain.hide.me,udp,4000
+Spain - Barcelona (UDP),barcelona.hide.me,udp,4000
+Spain - Madrid (UDP),madrid.hide.me,udp,4000
+Sweden - Stockholm (UDP),stockholm.hide.me,udp,4000
+Switzerland (UDP),switzerland.hide.me,udp,4000
+Switzerland - Zug (UDP),zug.hide.me,udp,4000
+Switzerland - Zurich (UDP),zurich.hide.me,udp,4000
+Turkey - Istanbul (UDP),istanbul.hide.me,udp,4000
+Arizona - Phoenix (UDP),phoenix.hide.me,udp,4000
+California - Los Angeles (UDP),losangeles.hide.me,udp,4000
+California - San Francisco (UDP),sanfrancisco.hide.me,udp,4000
+D.C. - Washington (UDP),washingtondc.hide.me,udp,4000
+Florida - Miami (UDP),miami.hide.me,udp,4000
+Nevada - Las Vegas (UDP),lasvegas.hide.me,udp,4000
+New Jersey - Secaucus (UDP),secaucus.hide.me,udp,4000
+New York - New York (UDP),newyorkcity.hide.me,udp,4000
+USA - US-East (UDP),us-east.hide.me,udp,4000
+USA - US-West (UDP),us-west.hide.me,udp,4000
+Utah - Salt Lake City (UDP),saltlakecity.hide.me,udp,4000
+Ukraine (UDP),ukraine.hide.me,udp,4000
+United Kingdom (UDP),unitedkingdom.hide.me,udp,4000
+United Kingdom - London (UDP),london.hide.me,udp,4000
+United Kingdom - Manchester (UDP),manchester.hide.me,udp,4000

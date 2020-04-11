@@ -1,98 +1,99 @@
-Argentina - Buenos Aires (UDP),ar-bue.privatevpn.com,udp,1194
-Argentina - Buenos Aires (TCP),ar-bue.privatevpn.com,tcp-client,443
-Austria - Wien (UDP),at-wie.privatevpn.com,udp,1194
-Austria - Wien (TCP),at-wie.privatevpn.com,tcp-client,443
-Australia - Sydney (UDP),au-syd.privatevpn.com,udp,1194
-Australia - Sydney (TCP),au-syd.privatevpn.com,tcp-client,443
-Belgium - Brussels (UDP),be-bru.privatevpn.com,udp,1194
-Belgium - Brussels (TCP),be-bru.privatevpn.com,tcp-client,443
-Bulgaria - Sofia (UDP),bg-sof.privatevpn.com,udp,1194
-Bulgaria - Sofia (TCP),bg-sof.privatevpn.com,tcp-client,443
-Brazil - Sao Paulo (UDP),br-sau.privatevpn.com,udp,1194
-Brazil - Sao Paulo (TCP),br-sau.privatevpn.com,tcp-client,443
-Canada - Toronto (UDP),ca-tor.privatevpn.com,udp,1194
-Canada - Toronto (TCP),ca-tor.privatevpn.com,tcp-client,443
-Switzerland - Zurich (UDP),ch-zur.privatevpn.com,udp,1194
-Switzerland - Zurich (TCP),ch-zur.privatevpn.com,tcp-client,443
-Colombia - Bogotá (UDP),co-bog.privatevpn.com,udp,1194
-Colombia - Bogotá (TCP),ca-tor.privatevpn.com,tcp-client,443
-Czech Republic - Prague (UDP),cz-pra.privatevpn.com,udp,1194
-Czech Republic - Prague (TCP),cz-pra.privatevpn.com,tcp-client,443
-Germany - Frankfurt 1 (UDP),de-fra1.privatevpn.com,udp,1194
-Germany - Frankfurt 1 (TCP),de-fra1.privatevpn.com,tcp-client,443
-Germany - Frankfurt 2 (UDP),de-fra2.privatevpn.com,udp,1194
-Germany - Frankfurt 2 (TCP),de-fra2.privatevpn.com,tcp-client,443
-Denmark - Copenhagen (UDP),dk-cop.privatevpn.com,udp,1194
-Denmark - Copenhagen (TCP),dk-cop.privatevpn.com,tcp-client,443
-Spain - Madrid (UDP),es-mad.privatevpn.com,udp,1194
-Spain - Madrid (TCP),es-mad.privatevpn.com,tcp-client,443
-Finland - Helsinki (UDP),fi-hel.privatevpn.com,udp,1194
-Finland - Helsinki (TCP),fi-hel.privatevpn.com,tcp-client,443
-France - Paris (UDP),fr-par.privatevpn.com,udp,1194
-France - Paris (TCP),fr-par.privatevpn.com,tcp-client,443
-Greece - Athens (UDP),gr-ath.privatevpn.com,udp,1194
-Greece - Athens (TCP),gr-ath.privatevpn.com,tcp-client,443
-Hong Kong - Hong Kong (UDP),hk-hon.privatevpn.com,udp,1194
-Hong Kong - Hong Kong (TCP),hk-hon.privatevpn.com,tcp-client,443
-Hungary - Budapest (UDP),hu-bud.privatevpn.com,udp,1194
-Hungary - Budapest (TCP),hu-bud.privatevpn.com,tcp-client,443
-India - Pune (UDP),in-pun.privatevpn.com,udp,1194
-India - Pune (TCP),in-pun.privatevpn.com,tcp-client,443
-Iceland - Reykjavik (UDP),ar-bue.privatevpn.com,udp,1194
-Iceland - Reykjavik (TCP),ar-bue.privatevpn.com,tcp-client,443
-Italy - Milan (UDP),it-mil.privatevpn.com,udp,1194
-Italy - Milan (TCP),it-mil.privatevpn.com,tcp-client,443
-Japan - Tokyo (UDP),jp-tok.privatevpn.com,udp,1194
-Japan - Tokyo (TCP),jp-tok.privatevpn.com,tcp-client,443
-South Korea - Seoul (UDP),kr-seo.privatevpn.com,udp,1194
-South Korea - Seoul (TCP),kr-seo.privatevpn.com,tcp-client,443
-Lithuania - Siauliai (UDP),lt-sia.privatevpn.com,udp,1194
-Lithuania - Siauliai (TCP),lt-sia.privatevpn.com,tcp-client,443
-Luxembourg - Steinsel (UDP),lu-ste.privatevpn.com,udp,1194
-Luxembourg - Steinsel (TCP),lu-ste.privatevpn.com,tcp-client,443
-Mexico - Mexico City (UDP),mx-mex.privatevpn.com,udp,1194
-Mexico - Mexico City (TCP),mx-mex.privatevpn.com,tcp-client,443
-Malaysia - Kuala Lumpur (UDP),my-kua.privatevpn.com,udp,1194
-Malaysia - Kuala Lumpur (TCP),my-kua.privatevpn.com,tcp-client,443
-Netherlands - Amsterdam 1 (UDP),nl-ams1.privatevpn.com,udp,1194
-Netherlands - Amsterdam 1 (TCP),nl-ams1.privatevpn.com,tcp-client,443
-Netherlands - Amsterdam 2 (UDP),nl-ams2.privatevpn.com,udp,1194
-Netherlands - Amsterdam 2 (TCP),nl-ams2.privatevpn.com,tcp-client,443
-Norway - Oslo (UDP),no-osl.privatevpn.com,udp,1194
-Norway - Oslo (TCP),no-osl.privatevpn.com,tcp-client,443
-Poland - Warsaw (UDP),pl-war.privatevpn.com,udp,1194
-Poland - Warsaw (TCP),pl-war.privatevpn.com,tcp-client,443
-Portugal - Lisbon (UDP),pt-lis.privatevpn.com,udp,1194
-Portugal - Lisbon (TCP),pt-lis.privatevpn.com,tcp-client,443
-Romania - Bukarest (UDP),ro-buk.privatevpn.com,udp,1194
-Romania - Bukarest (TCP),ro-buk.privatevpn.com,tcp-client,443
-Russia - St Petersburg (UDP),ru-pet.privatevpn.com,udp,1194
-Russia - St Petersburg (TCP),ru-pet.privatevpn.com,tcp-client,443
-Sweden - Kista (UDP),se-kis.privatevpn.com,udp,1194
-Sweden - Kista (TCP),se-kis.privatevpn.com,tcp-client,443
-Sweden - Stockholm (UDP),se-sto.privatevpn.com,udp,1194
-Sweden - Stockholm (TCP),se-sto.privatevpn.com,tcp-client,443
-Singapore - Singapore (UDP),sg-sin.privatevpn.com,udp,1194
-Singapore - Singapore (TCP),sg-sin.privatevpn.com,tcp-client,443
-Slovakia - Bratislava (UDP),sk-bra.privatevpn.com,udp,1194
-Slovakia - Bratislava (TCP),sg-sin.privatevpn.com,tcp-client,443
-Ukraine - Kiev (UDP),ua-kie.privatevpn.com,udp,1194
-Ukraine - Kiev (TCP),ua-kie.privatevpn.com,tcp-client,443
-United Kingdom - London 1 (UDP),uk-lon1.privatevpn.com,udp,1194
-United Kingdom - London 1 (TCP),uk-lon1.privatevpn.com,tcp-client,443
-United Kingdom - London 2 (UDP),uk-lon2.privatevpn.com,udp,1194
-United Kingdom - London 2 (TCP),uk-lon2.privatevpn.com,tcp-client,443
-United States - Buffalo (UDP),us-buf.privatevpn.com,udp,1194
-United States - Buffalo (TCP),us-buf.privatevpn.com,tcp-client,443
-United States - Chicago (UDP),us-chi.privatevpn.com,udp,1194
-United States - Chicago (TCP),us-chi.privatevpn.com,tcp-client,443
-United States - Dallas (UDP),us-dal.privatevpn.com,udp,1194
-United States - Dallas (TCP),us-dal.privatevpn.com,tcp-client,443
-United States - Los Angeles (UDP),us-los.privatevpn.com,udp,1194
-United States - Los Angeles (TCP),us-los.privatevpn.com,tcp-client,443
-United States - Miami (UDP),us-mia.privatevpn.com,udp,1194
-United States - Miami (TCP),us-mia.privatevpn.com,tcp-client,443
-United States - New York (UDP),us-nyc.privatevpn.com,udp,1194
-United States - New York (TCP),us-nyc.privatevpn.com,tcp-client,443
-South Africa - Johannesburg (UDP),za-joh.privatevpn.com,udp,1194
-South Africa - Johannesburg (TCP),us-nyc.privatevpn.com,tcp-client,443
+Puerto Rico ivateVPN- AE- Dubai (UDP),ae-dub.pvdata.host,udp,1194
+Puerto Rico ivateVPN- AR- Buenos Aires (UDP),ar-bue.pvdata.host,udp,1194
+Puerto Rico ivateVPN- AT- Wien (UDP),at-wie.pvdata.host,udp,1194
+Puerto Rico ivateVPN- AU- Melbourne (UDP),au-mel.pvdata.host,udp,1194
+Puerto Rico ivateVPN- AU- Sydney 1 (UDP),au-syd.pvdata.host,udp,1194
+Puerto Rico ivateVPN- AU- Sydney 2 (UDP),au-syd2.pvdata.host,udp,1194
+Puerto Rico ivateVPN- BE- Brussels (UDP),be-bru.pvdata.host,udp,1194
+Puerto Rico ivateVPN- BG- Sofia (UDP),bg-sof.pvdata.host,udp,1194
+Puerto Rico ivateVPN- BR- Sao Paulo (UDP),br-sao.pvdata.host,udp,1194
+Puerto Rico ivateVPN- CA- Montreal (UDP),ca-mon.pvdata.host,udp,1194
+Puerto Rico ivateVPN- CA- Toronto 1 (UDP),ca-tor.pvdata.host,udp,1194
+Puerto Rico ivateVPN- CA- Toronto 2 (UDP),ca-tor2.pvdata.host,udp,1194
+Puerto Rico ivateVPN- CA- Vancouver (UDP),ca-van.pvdata.host,udp,1194
+Puerto Rico ivateVPN- CH- Zurich 1 (UDP),ch-zur.pvdata.host,udp,1194
+Puerto Rico ivateVPN- CH- Zurich 2 (UDP),ch-zur2.pvdata.host,udp,1194
+Puerto Rico ivateVPN- CL- Santiago (UDP),cl-san.pvdata.host,udp,1194
+Puerto Rico ivateVPN- CO- Bogota (UDP),co-bog.pvdata.host,udp,1194
+Puerto Rico ivateVPN- CR- San Jose (UDP),cr-san.pvdata.host,udp,1194
+Puerto Rico ivateVPN- CY- Nicosia (UDP),cy-nic.pvdata.host,udp,1194
+Puerto Rico ivateVPN- CZ- Prague (UDP),cz-pra.pvdata.host,udp,1194
+Puerto Rico ivateVPN- DE- Frankfurt 1 (UDP),de-fra.pvdata.host,udp,1194
+Puerto Rico ivateVPN- DE- Frankfurt 2 (UDP),de-fra2.pvdata.host,udp,1194
+Puerto Rico ivateVPN- DE- Nuremberg (UDP),de-nur.pvdata.host,udp,1194
+Puerto Rico ivateVPN- DK- Copenhagen (UDP),dk-cop.pvdata.host,udp,1194
+Puerto Rico ivateVPN- ES- Madrid (UDP),es-mad.pvdata.host,udp,1194
+Puerto Rico ivateVPN- FI- Espoo (UDP),fi-hel.pvdata.host,udp,1194
+Puerto Rico ivateVPN- FR- Gravelines (UDP),fr-gra.pvdata.host,udp,1194
+Puerto Rico ivateVPN- FR- Paris 1 (UDP),fr-par.pvdata.host,udp,1194
+Puerto Rico ivateVPN- FR- Paris 2 (UDP),fr-par2.pvdata.host,udp,1194
+Puerto Rico ivateVPN- FR- Paris 3 (UDP),fr-par3.pvdata.host,udp,1194
+Puerto Rico ivateVPN- GR- Athens (UDP),gr-ath.pvdata.host,udp,1194
+Puerto Rico ivateVPN- HK- Hong Kong (UDP),hk-hon.pvdata.host,udp,1194
+Puerto Rico ivateVPN- HR- Zagreb (UDP),hr-zag.pvdata.host,udp,1194
+Puerto Rico ivateVPN- HU- Budapest (UDP),hu-bud.pvdata.host,udp,1194
+Puerto Rico ivateVPN- ID- Jakarta (UDP),id-jak.pvdata.host,udp,1194
+Puerto Rico ivateVPN- IE- Dublin (UDP),ie-dub.pvdata.host,udp,1194
+Puerto Rico ivateVPN- IL- Tel Aviv (UDP),il-pet.pvdata.host,udp,1194
+Puerto Rico ivateVPN- IM- Ballasalla (UDP),im-bal.pvdata.host,udp,1194
+Puerto Rico ivateVPN- IN- Chennai (UDP),in-che.pvdata.host,udp,1194
+Puerto Rico ivateVPN- IS- Reykjavik (UDP),is-rey.pvdata.host,udp,1194
+Puerto Rico ivateVPN- IT- Arezzo (UDP),it-are.pvdata.host,udp,1194
+Puerto Rico ivateVPN- IT- Milan 2 (UDP),it-mil2.pvdata.host,udp,1194
+Puerto Rico ivateVPN- IT- Milan (UDP),it-mil.pvdata.host,udp,1194
+Puerto Rico ivateVPN- JP- Tokyo 1 (UDP),jp-tok.pvdata.host,udp,1194
+Puerto Rico ivateVPN- JP- Tokyo 2 (UDP),jp-tok2.pvdata.host,udp,1194
+Puerto Rico ivateVPN- KR- Seoul (UDP),kr-seo.pvdata.host,udp,1194
+Puerto Rico ivateVPN- LT- Siauliai (UDP),lt-sia.pvdata.host,udp,1194
+Puerto Rico ivateVPN- LU- Steinsel (UDP),lu-ste.pvdata.host,udp,1194
+Puerto Rico ivateVPN- LV- Riga (UDP),lv-rig.pvdata.host,udp,1194
+Puerto Rico ivateVPN- MD- Chisinau (UDP),md-chi.pvdata.host,udp,1194
+Puerto Rico ivateVPN- MT- Qormi (UDP),mt-qor.pvdata.host,udp,1194
+Puerto Rico ivateVPN- MX- Mexico City (UDP),mx-mex.pvdata.host,udp,1194
+Puerto Rico ivateVPN- MY- Kuala Lumpur (UDP),my-kua.pvdata.host,udp,1194
+Puerto Rico ivateVPN- NL- Amsterdam 1 (UDP),nl-ams.pvdata.host,udp,1194
+Puerto Rico ivateVPN- NL- Amsterdam 2 (UDP),nl-ams2.pvdata.host,udp,1194
+Puerto Rico ivateVPN- NL- Amsterdam 3 (UDP),nl-ams3.pvdata.host,udp,1194
+Puerto Rico ivateVPN- NO- Oslo (UDP),no-osl.pvdata.host,udp,1194
+Puerto Rico ivateVPN- NZ- Auckland (UDP),nz-auc.pvdata.host,udp,1194
+Puerto Rico ivateVPN- PA- Panama City (UDP),pa-pan.pvdata.host,udp,1194
+Puerto Rico ivateVPN- PE- Lima (UDP),pe-lim.pvdata.host,udp,1194
+Puerto Rico ivateVPN- PH- Manila (UDP),ph-man.pvdata.host,udp,1194
+Puerto Rico ivateVPN- PL- Torun (UDP),pl-tor.pvdata.host,udp,1194
+Puerto Rico ivateVPN- PT- Lisbon (UDP),pt-lis.pvdata.host,udp,1194
+Puerto Rico ivateVPN- RO- Bukarest (UDP),ro-buk.pvdata.host,udp,1194
+Puerto Rico ivateVPN- RS- Belgrade (UDP),rs-bel.pvdata.host,udp,1194
+Puerto Rico ivateVPN- RU- Krasnoyarsk (UDP),ru-kra.pvdata.host,udp,1194
+Puerto Rico ivateVPN- RU- Moscow (UDP),ru-mos.pvdata.host,udp,1194
+Puerto Rico ivateVPN- RU- St Petersburg (UDP),ru-pet.pvdata.host,udp,1194
+Puerto Rico ivateVPN- SE- Gothenburg (UDP),se-got.pvdata.host,udp,1194
+Puerto Rico ivateVPN- SE- Kista (UDP),se-kis.pvdata.host,udp,1194
+Puerto Rico ivateVPN- SE- Stockholm (UDP),193.180.119.2,udp,1194
+Puerto Rico ivateVPN- SG- Singapore (UDP),sg-sin.pvdata.host,udp,1194
+Puerto Rico ivateVPN- SK- Bratislava (UDP),sk-bra.pvdata.host,udp,1194
+Puerto Rico ivateVPN- TH- Bangkok (UDP),th-ban.pvdata.host,udp,1194
+Puerto Rico ivateVPN- TR- Istanbul (UDP),tr-ist.pvdata.host,udp,1194
+Puerto Rico ivateVPN- TW- Taipei (UDP),tw-tai.pvdata.host,udp,1194
+Puerto Rico ivateVPN- UA- Kiev (UDP),ua-kie.pvdata.host,udp,1194
+Puerto Rico ivateVPN- UA- Nikolaev (UDP),ua-nik.pvdata.host,udp,1194
+Puerto Rico ivateVPN- UK- London 1 (UDP),uk-lon.pvdata.host,udp,1194
+Puerto Rico ivateVPN- UK- London 2 (UDP),uk-lon2.pvdata.host,udp,1194
+Puerto Rico ivateVPN- UK- London 3 (UDP),uk-lon3.pvdata.host,udp,1194
+Puerto Rico ivateVPN- UK- London 5 (UDP),uk-lon5.pvdata.host,udp,1194
+Puerto Rico ivateVPN- UK- London 6 (UDP),uk-lon6.pvdata.host,udp,1194
+Puerto Rico ivateVPN- UK- London 7 (UDP),uk-lon7.pvdata.host,udp,1194
+Puerto Rico ivateVPN- UK- Manchester (UDP),uk-man.pvdata.host,udp,1194
+Puerto Rico ivateVPN- US- Atlanta (UDP),us-atl.pvdata.host,udp,1194
+Puerto Rico ivateVPN- US- Buffalo (UDP),us-buf.pvdata.host,udp,1194
+Puerto Rico ivateVPN- US- Chicago 1 (UDP),us-chi.pvdata.host,udp,1194
+Puerto Rico ivateVPN- US- Chicago 2 (UDP),us-chi2.pvdata.host,udp,1194
+Puerto Rico ivateVPN- US- Dallas (UDP),us-dal.pvdata.host,udp,1194
+Puerto Rico ivateVPN- US- Las Vegas (UDP),us-las.pvdata.host,udp,1194
+Puerto Rico ivateVPN- US- Los Angeles (UDP),us-los.pvdata.host,udp,1194
+Puerto Rico ivateVPN- US- Miami (UDP),us-mia.pvdata.host,udp,1194
+Puerto Rico ivateVPN- US- New York 1 (UDP),us-nyc.pvdata.host,udp,1194
+Puerto Rico ivateVPN- US- New York 2 (UDP),us-nyc2.pvdata.host,udp,1194
+Puerto Rico ivateVPN- US- New York 4 (UDP),us-nyc4.pvdata.host,udp,1194
+Puerto Rico ivateVPN- US- Phoenix (UDP),us-pho.pvdata.host,udp,1194
+Puerto Rico ivateVPN- VN- Ho Chi Minh City (UDP),vn-hoc.pvdata.host,udp,1194
+Puerto Rico ivateVPN- ZA- Johannesburg (UDP),za-joh.pvdata.host,udp,1194

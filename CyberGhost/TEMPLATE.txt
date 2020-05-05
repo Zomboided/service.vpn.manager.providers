@@ -17,7 +17,6 @@ route-delay 5
 #REMOVE1fragment 1300
 #REMOVE1mssfix 1300
 verb 4
-comp-lzo
 ca #CERT
 cert #USERCERT
 key #USERKEY

@@ -10,6 +10,7 @@ persist-tun
 nobind
 cipher AES-256-CBC
 auth sha256
+ping-timer-rem
 script-security 2
 remote-cert-tls server
 route-delay 5

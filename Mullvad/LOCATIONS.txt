@@ -1,140 +1,72 @@
-Austria (UDP),at.mullvad.net,udp,1197,
-Austria (TCP),at.mullvad.net,tcp,443,#REMOVE=1
-Australia - Bne (UDP),au-bne.mullvad.net,udp,1197,
-Australia - Bne (TCP),au-bne.mullvad.net,tcp,443,#REMOVE=1
-Australia - Mel (UDP),au-mel.mullvad.net,udp,1302,
-Australia - Mel (TCP),au-mel.mullvad.net,tcp,443,#REMOVE=1
-Australia - Per (UDP),au-per.mullvad.net,udp,1197,
-Australia - Per (TCP),au-per.mullvad.net,tcp,443,#REMOVE=1
-Australia - Syd (UDP),au-syd.mullvad.net,udp,1197,
-Australia - Syd (TCP),au-syd.mullvad.net,tcp,443,#REMOVE=1
-Australia (UDP),au.mullvad.net,udp,1302,
-Australia (TCP),au.mullvad.net,tcp,443,#REMOVE=1
-Belgium (UDP),be.mullvad.net,udp,1194,
-Belgium (TCP),be.mullvad.net,tcp,443,#REMOVE=1
-Bulgaria (UDP),bg.mullvad.net,udp,1194,
-Bulgaria (TCP),bg.mullvad.net,tcp,443,#REMOVE=1
-Brazil (UDP),br.mullvad.net,udp,1194,
-Brazil (TCP),br.mullvad.net,tcp,443,#REMOVE=1
-Canada - BC (UDP),ca-bc.mullvad.net,udp,1302,
-Canada - BC (TCP),ca-bc.mullvad.net,tcp,443,#REMOVE=1
-Canada - ON (UDP),ca-on.mullvad.net,udp,1197,
-Canada - ON (TCP),ca-on.mullvad.net,tcp,443,#REMOVE=1
-Canada - QC (UDP),ca-qc.mullvad.net,udp,1197,
-Canada - QC (TCP),ca-qc.mullvad.net,tcp,443,#REMOVE=1
-Canada (UDP),ca.mullvad.net,udp,1197,
-Canada (TCP),ca.mullvad.net,tcp,443,#REMOVE=1
-Switzerland (UDP),ch.mullvad.net,udp,1195,
-Switzerland (TCP),ch.mullvad.net,tcp,443,#REMOVE=1
-Czech Republic (UDP),cz.mullvad.net,udp,1196,
-Czech Republic (TCP),cz.mullvad.net,tcp,443,#REMOVE=1
-Germany - Fra (UDP),de-fra.mullvad.net,udp,1195,
-Germany - Fra (TCP),de-fra.mullvad.net,tcp,443,#REMOVE=1
-Germany (UDP),de.mullvad.net,udp,1196,
-Germany (TCP),de.mullvad.net,tcp,443,#REMOVE=1
-Denmark (UDP),dk.mullvad.net,udp,1195,
-Denmark (TCP),dk.mullvad.net,tcp,443,#REMOVE=1
-Spain (UDP),es.mullvad.net,udp,1196,
-Spain (TCP),es.mullvad.net,tcp,443,#REMOVE=1
-Finland (UDP),fi.mullvad.net,udp,1197,
-Finland (TCP),fi.mullvad.net,tcp,443,#REMOVE=1
-France - Mrs (UDP),fr-mrs.mullvad.net,udp,1194,
-France - Mrs (TCP),fr-mrs.mullvad.net,tcp,443,#REMOVE=1
-France (UDP),fr.mullvad.net,udp,1194,
-France (TCP),fr.mullvad.net,tcp,443,#REMOVE=1
-United Kingdom - Lon (UDP),gb-lon.mullvad.net,udp,1195,
-United Kingdom - Lon (TCP),gb-lon.mullvad.net,tcp,443,#REMOVE=1
-United Kingdom - Mnc (UDP),gb-mnc.mullvad.net,udp,1301,
-United Kingdom - Mnc (TCP),gb-mnc.mullvad.net,tcp,443,#REMOVE=1
-United Kingdom (UDP),gb.mullvad.net,udp,1197,
-United Kingdom (TCP),gb.mullvad.net,tcp,443,#REMOVE=1
-Greece (UDP),gr.mullvad.net,udp,1194,
-Greece (TCP),gr.mullvad.net,tcp,443,#REMOVE=1
-Hong Kong (UDP),hk.mullvad.net,udp,1197,
-Hong Kong (TCP),hk.mullvad.net,tcp,443,#REMOVE=1
-Hungary (UDP),hu.mullvad.net,udp,1301,
-Hungary (TCP),hu.mullvad.net,tcp,443,#REMOVE=1
-Israel (UDP),il.mullvad.net,udp,1301,
-Israel (TCP),il.mullvad.net,tcp,443,#REMOVE=1
-India (UDP),in.mullvad.net,udp,1302,
-India (TCP),in.mullvad.net,tcp,443,#REMOVE=1
-Italy (UDP),it.mullvad.net,udp,1195,
-Italy (TCP),it.mullvad.net,tcp,443,#REMOVE=1
-Japan (UDP),jp.mullvad.net,udp,1302,
-Japan (TCP),jp.mullvad.net,tcp,443,#REMOVE=1
-Luxembourg (UDP),lu.mullvad.net,udp,1194,
-Luxembourg (TCP),lu.mullvad.net,tcp,443,#REMOVE=1
-Latvia (UDP),lv.mullvad.net,udp,1195,
-Latvia (TCP),lv.mullvad.net,tcp,443,#REMOVE=1
-Moldova (UDP),md.mullvad.net,udp,1197,
-Moldova (TCP),md.mullvad.net,tcp,443,#REMOVE=1
-Netherlands (UDP),nl.mullvad.net,udp,1302,
-Netherlands (TCP),nl.mullvad.net,tcp,443,#REMOVE=1
-Norway (UDP),no.mullvad.net,udp,1197,
-Norway (TCP),no.mullvad.net,tcp,443,#REMOVE=1
-New Zealand (UDP),nz.mullvad.net,udp,1302,
-New Zealand (TCP),nz.mullvad.net,tcp,443,#REMOVE=1
-Poland (UDP),pl.mullvad.net,udp,1196,
-Poland (TCP),pl.mullvad.net,tcp,443,#REMOVE=1
-Portugal (UDP),pt.mullvad.net,udp,1195,
-Portugal (TCP),pt.mullvad.net,tcp,443,#REMOVE=1
-Romania (UDP),ro.mullvad.net,udp,1197,
-Romania (TCP),ro.mullvad.net,tcp,443,#REMOVE=1
-Serbia (UDP),rs.mullvad.net,udp,1196,
-Serbia (TCP),rs.mullvad.net,tcp,443,#REMOVE=1
-Sweden - Got (UDP),se-got.mullvad.net,udp,1302,
-Sweden - Got (TCP),se-got.mullvad.net,tcp,443,#REMOVE=1
-Sweden - Hel (UDP),se-hel.mullvad.net,udp,1301,
-Sweden - Hel (TCP),se-hel.mullvad.net,tcp,443,#REMOVE=1
-Sweden - Mma (UDP),se-mma.mullvad.net,udp,1195,
-Sweden - Mma (TCP),se-mma.mullvad.net,tcp,443,#REMOVE=1
-Sweden - Sto (UDP),se-sto.mullvad.net,udp,1302,
-Sweden - Sto (TCP),se-sto.mullvad.net,tcp,443,#REMOVE=1
-Sweden (UDP),se.mullvad.net,udp,1196,
-Sweden (TCP),se.mullvad.net,tcp,443,#REMOVE=1
-Singapore (UDP),sg.mullvad.net,udp,1197,
-Singapore (TCP),sg.mullvad.net,tcp,443,#REMOVE=1
-Ukraine (UDP),ua.mullvad.net,udp,1302,
-Ukraine (TCP),ua.mullvad.net,tcp,443,#REMOVE=1
-United States - AZ (UDP),us-az.mullvad.net,udp,1302,
-United States - AZ (TCP),us-az.mullvad.net,tcp,443,#REMOVE=1
-United States - CA (UDP),us-ca.mullvad.net,udp,1302,
-United States - CA (TCP),us-ca.mullvad.net,tcp,443,#REMOVE=1
-United States - CO (UDP),us-co.mullvad.net,udp,1301,
-United States - CO (TCP),us-co.mullvad.net,tcp,443,#REMOVE=1
-United States - DC (UDP),us-dc.mullvad.net,udp,1301,
-United States - DC (TCP),us-dc.mullvad.net,tcp,443,#REMOVE=1
-United States - FL (UDP),us-fl.mullvad.net,udp,1301,
-United States - FL (TCP),us-fl.mullvad.net,tcp,443,#REMOVE=1
-United States - GA (UDP),us-ga.mullvad.net,udp,1301,
-United States - GA (TCP),us-ga.mullvad.net,tcp,443,#REMOVE=1
-United States - IL (UDP),us-il.mullvad.net,udp,1196,
-United States - IL (TCP),us-il.mullvad.net,tcp,443,#REMOVE=1
-United States - MA (UDP),us-ma.mullvad.net,udp,1195,
-United States - MA (TCP),us-ma.mullvad.net,tcp,443,#REMOVE=1
-United States - MS (UDP),us-ms.mullvad.net,udp,1197,
-United States - MS (TCP),us-ms.mullvad.net,tcp,443,#REMOVE=1
-United States - NC (UDP),us-nc.mullvad.net,udp,1197,
-United States - NC (TCP),us-nc.mullvad.net,tcp,443,#REMOVE=1
-United States - NJ (UDP),us-nj.mullvad.net,udp,1197,
-United States - NJ (TCP),us-nj.mullvad.net,tcp,443,#REMOVE=1
-United States - NY (UDP),us-ny.mullvad.net,udp,1197,
-United States - NY (TCP),us-ny.mullvad.net,tcp,443,#REMOVE=1
-United States - OH (UDP),us-oh.mullvad.net,udp,1196,
-United States - OH (TCP),us-oh.mullvad.net,tcp,443,#REMOVE=1
-United States - OK (UDP),us-ok.mullvad.net,udp,1302,
-United States - OK (TCP),us-ok.mullvad.net,tcp,443,#REMOVE=1
-United States - PA (UDP),us-pa.mullvad.net,udp,1194,
-United States - PA (TCP),us-pa.mullvad.net,tcp,443,#REMOVE=1
-United States - TX (UDP),us-tx.mullvad.net,udp,1302,
-United States - TX (TCP),us-tx.mullvad.net,tcp,443,#REMOVE=1
-United States - UT (UDP),us-ut.mullvad.net,udp,1194,
-United States - UT (TCP),us-ut.mullvad.net,tcp,443,#REMOVE=1
-United States - VA (UDP),us-va.mullvad.net,udp,1197,
-United States - VA (TCP),us-va.mullvad.net,tcp,443,#REMOVE=1
-United States - WA (UDP),us-wa.mullvad.net,udp,1195,
-United States - WA (TCP),us-wa.mullvad.net,tcp,443,#REMOVE=1
-United States (UDP),us.mullvad.net,udp,1197,
-United States (TCP),us.mullvad.net,tcp,443,#REMOVE=1
-South Africa (UDP),za.mullvad.net,udp,1195,
-South Africa (TCP),za.mullvad.net,tcp,443,#REMOVE=1
+United Arab Emirates (UDP),ae-dxb-001.mullvad.net,udp,1300,
+United Arab Emirates (TCP),ae-dxb-001.mullvad.net,tcp,443,#REMOVE=1
+Albania (UDP),al-tia-001.mullvad.net,udp,1300,
+Albania (TCP),al-tia-001.mullvad.net,tcp,443,#REMOVE=1
+Austria (UDP),at-vie-104.mullvad.net at-vie-103.mullvad.net at-vie-101.mullvad.net at-vie-102.mullvad.net,udp,1194 1194 1194 1194,
+Austria (TCP),at-vie-104.mullvad.net at-vie-103.mullvad.net at-vie-101.mullvad.net at-vie-102.mullvad.net,tcp,443,#REMOVE=1
+Australia (UDP),au-adl-001.mullvad.net au-mel-003.mullvad.net au-mel-002.mullvad.net au-syd-201.mullvad.net au-syd-202.mullvad.net au-cbr-001.mullvad.net au-syd-203.mullvad.net au-syd-003.mullvad.net au-syd-204.mullvad.net au-mel-004.mullvad.net au-per-001.mullvad.net au-syd-002.mullvad.net au-syd-001.mullvad.net au-bne-001.mullvad.net,udp,1197 1197 1197 1197 1197 1197 1197 1197 1197 1197 1197 1197 1197 1197,
+Australia (TCP),au-adl-001.mullvad.net au-mel-003.mullvad.net au-mel-002.mullvad.net au-syd-201.mullvad.net au-syd-202.mullvad.net au-cbr-001.mullvad.net au-syd-203.mullvad.net au-syd-003.mullvad.net au-syd-204.mullvad.net au-mel-004.mullvad.net au-per-001.mullvad.net au-syd-002.mullvad.net au-syd-001.mullvad.net au-bne-001.mullvad.net,tcp,443,#REMOVE=1
+Belgium (UDP),be-bru-004.mullvad.net be-bru-001.mullvad.net be-bru-005.mullvad.net be-bru-003.mullvad.net be-bru-002.mullvad.net,udp,1194 1194 1194 1194 1194,
+Belgium (TCP),be-bru-004.mullvad.net be-bru-001.mullvad.net be-bru-005.mullvad.net be-bru-003.mullvad.net be-bru-002.mullvad.net,tcp,443,#REMOVE=1
+Bulgaria (UDP),bg-sof-101.mullvad.net bg-sof-102.mullvad.net,udp,1302 1302,
+Bulgaria (TCP),bg-sof-101.mullvad.net bg-sof-102.mullvad.net,tcp,443,#REMOVE=1
+Brazil (UDP),br-sao-002.mullvad.net br-sao-001.mullvad.net,udp,1195 1195,
+Brazil (TCP),br-sao-002.mullvad.net br-sao-001.mullvad.net,tcp,443,#REMOVE=1
+Canada (UDP),ca-van-004.mullvad.net ca-mtr-107.mullvad.net ca-mtr-105.mullvad.net ca-mtr-101.mullvad.net ca-mtr-102.mullvad.net ca-van-003.mullvad.net ca-mtr-108.mullvad.net ca-mtr-104.mullvad.net ca-tor-002.mullvad.net ca-mtr-106.mullvad.net ca-van-002.mullvad.net ca-van-001.mullvad.net ca-mtr-103.mullvad.net,udp,1195 1195 1195 1195 1195 1195 1195 1195 1195 1195 1195 1195 1195,
+Canada (TCP),ca-van-004.mullvad.net ca-mtr-107.mullvad.net ca-mtr-105.mullvad.net ca-mtr-101.mullvad.net ca-mtr-102.mullvad.net ca-van-003.mullvad.net ca-mtr-108.mullvad.net ca-mtr-104.mullvad.net ca-tor-002.mullvad.net ca-mtr-106.mullvad.net ca-van-002.mullvad.net ca-van-001.mullvad.net ca-mtr-103.mullvad.net,tcp,443,#REMOVE=1
+Switzerland (UDP),ch-zrh-001.mullvad.net ch-zrh-202.mullvad.net ch-zrh-002.mullvad.net ch-zrh-004.mullvad.net ch-zrh-301.mullvad.net ch-zrh-304.mullvad.net ch-zrh-003.mullvad.net ch-zrh-303.mullvad.net ch-zrh-201.mullvad.net ch-zrh-305.mullvad.net ch-zrh-302.mullvad.net,udp,1195 1195 1195 1195 1195 1195 1195 1195 1195 1195 1195,
+Switzerland (TCP),ch-zrh-001.mullvad.net ch-zrh-202.mullvad.net ch-zrh-002.mullvad.net ch-zrh-004.mullvad.net ch-zrh-301.mullvad.net ch-zrh-304.mullvad.net ch-zrh-003.mullvad.net ch-zrh-303.mullvad.net ch-zrh-201.mullvad.net ch-zrh-305.mullvad.net ch-zrh-302.mullvad.net,tcp,443,#REMOVE=1
+Czech Republic (UDP),cz-prg-004.mullvad.net cz-prg-002.mullvad.net cz-prg-005.mullvad.net cz-prg-003.mullvad.net,udp,1196 1196 1196 1196,
+Czech Republic (TCP),cz-prg-004.mullvad.net cz-prg-002.mullvad.net cz-prg-005.mullvad.net cz-prg-003.mullvad.net,tcp,443,#REMOVE=1
+Germany (UDP),de-fra-202.mullvad.net de-fra-005.mullvad.net de-fra-010.mullvad.net de-fra-001.mullvad.net de-fra-006.mullvad.net de-fra-003.mullvad.net de-fra-004.mullvad.net de-fra-008.mullvad.net de-fra-201.mullvad.net de-fra-009.mullvad.net de-fra-204.mullvad.net de-fra-002.mullvad.net de-fra-203.mullvad.net de-fra-007.mullvad.net,udp,1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301,
+Germany (TCP),de-fra-202.mullvad.net de-fra-005.mullvad.net de-fra-010.mullvad.net de-fra-001.mullvad.net de-fra-006.mullvad.net de-fra-003.mullvad.net de-fra-004.mullvad.net de-fra-008.mullvad.net de-fra-201.mullvad.net de-fra-009.mullvad.net de-fra-204.mullvad.net de-fra-002.mullvad.net de-fra-203.mullvad.net de-fra-007.mullvad.net,tcp,443,#REMOVE=1
+Denmark (UDP),dk-cph-104.mullvad.net dk-cph-201.mullvad.net dk-cph-301.mullvad.net dk-cph-001.mullvad.net dk-cph-002.mullvad.net dk-cph-103.mullvad.net,udp,1194 1194 1194 1194 1194 1194,
+Denmark (TCP),dk-cph-104.mullvad.net dk-cph-201.mullvad.net dk-cph-301.mullvad.net dk-cph-001.mullvad.net dk-cph-002.mullvad.net dk-cph-103.mullvad.net,tcp,443,#REMOVE=1
+Spain (UDP),es-mad-005.mullvad.net es-mad-002.mullvad.net es-mad-004.mullvad.net es-mad-001.mullvad.net es-mad-003.mullvad.net,udp,1300 1300 1300 1300 1300,
+Spain (TCP),es-mad-005.mullvad.net es-mad-002.mullvad.net es-mad-004.mullvad.net es-mad-001.mullvad.net es-mad-003.mullvad.net,tcp,443,#REMOVE=1
+Finland (UDP),fi-hel-005.mullvad.net fi-hel-007.mullvad.net fi-hel-003.mullvad.net fi-hel-004.mullvad.net fi-hel-001.mullvad.net fi-hel-006.mullvad.net fi-hel-002.mullvad.net,udp,1300 1300 1300 1300 1300 1300 1300,
+Finland (TCP),fi-hel-005.mullvad.net fi-hel-007.mullvad.net fi-hel-003.mullvad.net fi-hel-004.mullvad.net fi-hel-001.mullvad.net fi-hel-006.mullvad.net fi-hel-002.mullvad.net,tcp,443,#REMOVE=1
+France (UDP),fr-par-003.mullvad.net fr-par-002.mullvad.net fr-par-201.mullvad.net fr-par-001.mullvad.net fr-par-203.mullvad.net fr-par-004.mullvad.net fr-par-202.mullvad.net,udp,1195 1195 1195 1195 1195 1195 1195,
+France (TCP),fr-par-003.mullvad.net fr-par-002.mullvad.net fr-par-201.mullvad.net fr-par-001.mullvad.net fr-par-203.mullvad.net fr-par-004.mullvad.net fr-par-202.mullvad.net,tcp,443,#REMOVE=1
+United Kingdom (UDP),gb-lon-005.mullvad.net gb-mnc-101.mullvad.net gb-lon-102.mullvad.net gb-mnc-106.mullvad.net gb-lon-004.mullvad.net gb-lon-008.mullvad.net gb-lon-002.mullvad.net gb-lon-001.mullvad.net gb-lon-003.mullvad.net gb-lon-006.mullvad.net gb-lon-009.mullvad.net gb-lon-010.mullvad.net gb-mnc-103.mullvad.net gb-lon-101.mullvad.net gb-mnc-102.mullvad.net,udp,1195 1195 1195 1195 1195 1195 1195 1195 1195 1195 1195 1195 1195 1195 1195,
+United Kingdom (TCP),gb-lon-005.mullvad.net gb-mnc-101.mullvad.net gb-lon-102.mullvad.net gb-mnc-106.mullvad.net gb-lon-004.mullvad.net gb-lon-008.mullvad.net gb-lon-002.mullvad.net gb-lon-001.mullvad.net gb-lon-003.mullvad.net gb-lon-006.mullvad.net gb-lon-009.mullvad.net gb-lon-010.mullvad.net gb-mnc-103.mullvad.net gb-lon-101.mullvad.net gb-mnc-102.mullvad.net,tcp,443,#REMOVE=1
+Greece (UDP),gr-ath-001.mullvad.net,udp,1302,
+Greece (TCP),gr-ath-001.mullvad.net,tcp,443,#REMOVE=1
+Hong Kong (UDP),hk-hkg-003.mullvad.net hk-hkg-002.mullvad.net hk-hkg-001.mullvad.net hk-hkg-101.mullvad.net hk-hkg-102.mullvad.net,udp,1302 1302 1302 1302 1302,
+Hong Kong (TCP),hk-hkg-003.mullvad.net hk-hkg-002.mullvad.net hk-hkg-001.mullvad.net hk-hkg-101.mullvad.net hk-hkg-102.mullvad.net,tcp,443,#REMOVE=1
+Hungary (UDP),hu-bud-004.mullvad.net hu-bud-003.mullvad.net,udp,1300 1300,
+Hungary (TCP),hu-bud-004.mullvad.net hu-bud-003.mullvad.net,tcp,443,#REMOVE=1
+Ireland (UDP),ie-dub-002.mullvad.net ie-dub-001.mullvad.net,udp,1194 1194,
+Ireland (TCP),ie-dub-002.mullvad.net ie-dub-001.mullvad.net,tcp,443,#REMOVE=1
+Israel (UDP),il-tlv-001.mullvad.net,udp,1301,
+Israel (TCP),il-tlv-001.mullvad.net,tcp,443,#REMOVE=1
+Italy (UDP),it-mil-104.mullvad.net it-mil-102.mullvad.net it-mil-103.mullvad.net it-mil-101.mullvad.net,udp,1194 1194 1194 1194,
+Italy (TCP),it-mil-104.mullvad.net it-mil-102.mullvad.net it-mil-103.mullvad.net it-mil-101.mullvad.net,tcp,443,#REMOVE=1
+Japan (UDP),jp-tyo-102.mullvad.net jp-tyo-101.mullvad.net jp-tyo-105.mullvad.net jp-tyo-103.mullvad.net jp-tyo-104.mullvad.net,udp,1195 1195 1195 1195 1195,
+Japan (TCP),jp-tyo-102.mullvad.net jp-tyo-101.mullvad.net jp-tyo-105.mullvad.net jp-tyo-103.mullvad.net jp-tyo-104.mullvad.net,tcp,443,#REMOVE=1
+Luxembourg (UDP),lu-lux-002.mullvad.net lu-lux-001.mullvad.net,udp,1197 1197,
+Luxembourg (TCP),lu-lux-002.mullvad.net lu-lux-001.mullvad.net,tcp,443,#REMOVE=1
+Latvia (UDP),lv-rix-001.mullvad.net,udp,1301,
+Latvia (TCP),lv-rix-001.mullvad.net,tcp,443,#REMOVE=1
+Moldova (UDP),md-kiv-001.mullvad.net,udp,1195,
+Moldova (TCP),md-kiv-001.mullvad.net,tcp,443,#REMOVE=1
+Netherlands (UDP),nl-ams-016.mullvad.net nl-ams-014.mullvad.net nl-ams-001.mullvad.net nl-ams-005.mullvad.net nl-ams-009.mullvad.net nl-ams-012.mullvad.net nl-ams-017.mullvad.net nl-ams-010.mullvad.net nl-ams-003.mullvad.net nl-ams-011.mullvad.net nl-ams-013.mullvad.net nl-ams-006.mullvad.net nl-ams-004.mullvad.net nl-ams-015.mullvad.net nl-ams-002.mullvad.net nl-ams-018.mullvad.net,udp,1302 1302 1302 1302 1302 1302 1302 1302 1302 1302 1302 1302 1302 1302 1302 1302,
+Netherlands (TCP),nl-ams-016.mullvad.net nl-ams-014.mullvad.net nl-ams-001.mullvad.net nl-ams-005.mullvad.net nl-ams-009.mullvad.net nl-ams-012.mullvad.net nl-ams-017.mullvad.net nl-ams-010.mullvad.net nl-ams-003.mullvad.net nl-ams-011.mullvad.net nl-ams-013.mullvad.net nl-ams-006.mullvad.net nl-ams-004.mullvad.net nl-ams-015.mullvad.net nl-ams-002.mullvad.net nl-ams-018.mullvad.net,tcp,443,#REMOVE=1
+Norway (UDP),no-osl-008.mullvad.net no-osl-007.mullvad.net no-osl-005.mullvad.net no-osl-001.mullvad.net no-osl-003.mullvad.net no-osl-004.mullvad.net no-osl-006.mullvad.net no-osl-002.mullvad.net,udp,1300 1300 1300 1300 1300 1300 1300 1300,
+Norway (TCP),no-osl-008.mullvad.net no-osl-007.mullvad.net no-osl-005.mullvad.net no-osl-001.mullvad.net no-osl-003.mullvad.net no-osl-004.mullvad.net no-osl-006.mullvad.net no-osl-002.mullvad.net,tcp,443,#REMOVE=1
+New Zealand (UDP),nz-akl-001.mullvad.net,udp,1301,
+New Zealand (TCP),nz-akl-001.mullvad.net,tcp,443,#REMOVE=1
+Poland (UDP),pl-waw-001.mullvad.net pl-waw-005.mullvad.net pl-waw-002.mullvad.net pl-waw-004.mullvad.net pl-waw-006.mullvad.net pl-waw-003.mullvad.net,udp,1301 1301 1301 1301 1301 1301,
+Poland (TCP),pl-waw-001.mullvad.net pl-waw-005.mullvad.net pl-waw-002.mullvad.net pl-waw-004.mullvad.net pl-waw-006.mullvad.net pl-waw-003.mullvad.net,tcp,443,#REMOVE=1
+Portugal (UDP),pt-lis-001.mullvad.net,udp,1197,
+Portugal (TCP),pt-lis-001.mullvad.net,tcp,443,#REMOVE=1
+Romania (UDP),ro-buh-103.mullvad.net ro-buh-102.mullvad.net ro-buh-101.mullvad.net ro-buh-104.mullvad.net,udp,1195 1195 1195 1195,
+Romania (TCP),ro-buh-103.mullvad.net ro-buh-102.mullvad.net ro-buh-101.mullvad.net ro-buh-104.mullvad.net,tcp,443,#REMOVE=1
+Serbia (UDP),rs-beg-003.mullvad.net rs-beg-002.mullvad.net rs-ini-001.mullvad.net,udp,1195 1195 1195,
+Serbia (TCP),rs-beg-003.mullvad.net rs-beg-002.mullvad.net rs-ini-001.mullvad.net,tcp,443,#REMOVE=1
+Sweden (UDP),se-mma-105.mullvad.net se-sto-020.mullvad.net se-hel-001.mullvad.net se-mma-001.mullvad.net se-sto-024.mullvad.net se-got-009.mullvad.net se-mma-021.mullvad.net se-mma-102.mullvad.net se-mma-111.mullvad.net se-sto-012.mullvad.net se-mma-023.mullvad.net se-got-006.mullvad.net se-sto-017.mullvad.net se-mma-103.mullvad.net se-got-001.mullvad.net se-mma-004.mullvad.net se-sto-008.mullvad.net se-sto-004.mullvad.net se-sto-005.mullvad.net se-mma-008.mullvad.net se-mma-017.mullvad.net se-hel-002.mullvad.net se-got-011.mullvad.net se-hel-003.mullvad.net se-mma-106.mullvad.net se-sto-016.mullvad.net se-got-007.mullvad.net se-mma-005.mullvad.net se-mma-020.mullvad.net se-got-003.mullvad.net se-mma-108.mullvad.net se-hel-007.mullvad.net se-mma-112.mullvad.net se-sto-013.mullvad.net se-sto-019.mullvad.net se-mma-022.mullvad.net se-sto-014.mullvad.net se-got-004.mullvad.net se-sto-009.mullvad.net se-sto-003.mullvad.net se-got-005.mullvad.net se-sto-021.mullvad.net se-mma-003.mullvad.net se-mma-016.mullvad.net se-mma-109.mullvad.net se-mma-107.mullvad.net se-mma-101.mullvad.net se-mma-014.mullvad.net se-mma-110.mullvad.net se-mma-002.mullvad.net se-mma-018.mullvad.net se-mma-007.mullvad.net se-sto-018.mullvad.net se-sto-010.mullvad.net se-sto-006.mullvad.net se-mma-104.mullvad.net se-got-010.mullvad.net se-sto-023.mullvad.net se-sto-007.mullvad.net se-sto-022.mullvad.net se-hel-004.mullvad.net se-mma-013.mullvad.net se-got-008.mullvad.net se-sto-015.mullvad.net,udp,1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301,
+Sweden (TCP),se-mma-105.mullvad.net se-sto-020.mullvad.net se-hel-001.mullvad.net se-mma-001.mullvad.net se-sto-024.mullvad.net se-got-009.mullvad.net se-mma-021.mullvad.net se-mma-102.mullvad.net se-mma-111.mullvad.net se-sto-012.mullvad.net se-mma-023.mullvad.net se-got-006.mullvad.net se-sto-017.mullvad.net se-mma-103.mullvad.net se-got-001.mullvad.net se-mma-004.mullvad.net se-sto-008.mullvad.net se-sto-004.mullvad.net se-sto-005.mullvad.net se-mma-008.mullvad.net se-mma-017.mullvad.net se-hel-002.mullvad.net se-got-011.mullvad.net se-hel-003.mullvad.net se-mma-106.mullvad.net se-sto-016.mullvad.net se-got-007.mullvad.net se-mma-005.mullvad.net se-mma-020.mullvad.net se-got-003.mullvad.net se-mma-108.mullvad.net se-hel-007.mullvad.net se-mma-112.mullvad.net se-sto-013.mullvad.net se-sto-019.mullvad.net se-mma-022.mullvad.net se-sto-014.mullvad.net se-got-004.mullvad.net se-sto-009.mullvad.net se-sto-003.mullvad.net se-got-005.mullvad.net se-sto-021.mullvad.net se-mma-003.mullvad.net se-mma-016.mullvad.net se-mma-109.mullvad.net se-mma-107.mullvad.net se-mma-101.mullvad.net se-mma-014.mullvad.net se-mma-110.mullvad.net se-mma-002.mullvad.net se-mma-018.mullvad.net se-mma-007.mullvad.net se-sto-018.mullvad.net se-sto-010.mullvad.net se-sto-006.mullvad.net se-mma-104.mullvad.net se-got-010.mullvad.net se-sto-023.mullvad.net se-sto-007.mullvad.net se-sto-022.mullvad.net se-hel-004.mullvad.net se-mma-013.mullvad.net se-got-008.mullvad.net se-sto-015.mullvad.net,tcp,443,#REMOVE=1
+Singapore (UDP),sg-sin-201.mullvad.net sg-sin-203.mullvad.net sg-sin-202.mullvad.net sg-sin-101.mullvad.net,udp,1301 1301 1301 1301,
+Singapore (TCP),sg-sin-201.mullvad.net sg-sin-203.mullvad.net sg-sin-202.mullvad.net sg-sin-101.mullvad.net,tcp,443,#REMOVE=1
+United States (UDP),us-atl-105.mullvad.net us-den-001.mullvad.net us-nyc-206.mullvad.net us-uyk-002.mullvad.net us-nyc-208.mullvad.net us-nyc-201.mullvad.net us-sea-003.mullvad.net us-mia-206.mullvad.net us-nyc-102.mullvad.net us-chi-006.mullvad.net us-chi-008.mullvad.net us-nyc-219.mullvad.net us-lax-006.mullvad.net us-dal-103.mullvad.net us-lax-102.mullvad.net us-atl-103.mullvad.net us-nyc-205.mullvad.net us-lax-011.mullvad.net us-atl-104.mullvad.net us-atl-002.mullvad.net us-lax-009.mullvad.net us-nyc-101.mullvad.net us-lax-101.mullvad.net us-lax-015.mullvad.net us-mia-202.mullvad.net us-lax-014.mullvad.net us-mia-203.mullvad.net us-lax-003.mullvad.net us-chi-009.mullvad.net us-nyc-202.mullvad.net us-slc-106.mullvad.net us-dal-204.mullvad.net us-nyc-212.mullvad.net us-chi-010.mullvad.net us-lax-012.mullvad.net us-dal-105.mullvad.net us-lax-201.mullvad.net us-nyc-213.mullvad.net us-nyc-218.mullvad.net us-slc-104.mullvad.net us-slc-102.mullvad.net us-phx-004.mullvad.net us-dal-205.mullvad.net us-uyk-001.mullvad.net us-dal-104.mullvad.net us-lax-010.mullvad.net us-nyc-217.mullvad.net us-lax-017.mullvad.net us-lax-005.mullvad.net us-dal-201.mullvad.net us-sea-004.mullvad.net us-dal-202.mullvad.net us-slc-101.mullvad.net us-chi-002.mullvad.net us-chi-004.mullvad.net us-chi-007.mullvad.net us-chi-101.mullvad.net us-sea-002.mullvad.net us-slc-105.mullvad.net us-dal-002.mullvad.net us-chi-003.mullvad.net us-nyc-211.mullvad.net us-dal-101.mullvad.net us-lax-016.mullvad.net,udp,1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301 1301,
+United States (TCP),us-atl-105.mullvad.net us-den-001.mullvad.net us-nyc-206.mullvad.net us-uyk-002.mullvad.net us-nyc-208.mullvad.net us-nyc-201.mullvad.net us-sea-003.mullvad.net us-mia-206.mullvad.net us-nyc-102.mullvad.net us-chi-006.mullvad.net us-chi-008.mullvad.net us-nyc-219.mullvad.net us-lax-006.mullvad.net us-dal-103.mullvad.net us-lax-102.mullvad.net us-atl-103.mullvad.net us-nyc-205.mullvad.net us-lax-011.mullvad.net us-atl-104.mullvad.net us-atl-002.mullvad.net us-lax-009.mullvad.net us-nyc-101.mullvad.net us-lax-101.mullvad.net us-lax-015.mullvad.net us-mia-202.mullvad.net us-lax-014.mullvad.net us-mia-203.mullvad.net us-lax-003.mullvad.net us-chi-009.mullvad.net us-nyc-202.mullvad.net us-slc-106.mullvad.net us-dal-204.mullvad.net us-nyc-212.mullvad.net us-chi-010.mullvad.net us-lax-012.mullvad.net us-dal-105.mullvad.net us-lax-201.mullvad.net us-nyc-213.mullvad.net us-nyc-218.mullvad.net us-slc-104.mullvad.net us-slc-102.mullvad.net us-phx-004.mullvad.net us-dal-205.mullvad.net us-uyk-001.mullvad.net us-dal-104.mullvad.net us-lax-010.mullvad.net us-nyc-217.mullvad.net us-lax-017.mullvad.net us-lax-005.mullvad.net us-dal-201.mullvad.net us-sea-004.mullvad.net us-dal-202.mullvad.net us-slc-101.mullvad.net us-chi-002.mullvad.net us-chi-004.mullvad.net us-chi-007.mullvad.net us-chi-101.mullvad.net us-sea-002.mullvad.net us-slc-105.mullvad.net us-dal-002.mullvad.net us-chi-003.mullvad.net us-nyc-211.mullvad.net us-dal-101.mullvad.net us-lax-016.mullvad.net,tcp,443,#REMOVE=1

@@ -1,6 +1,7 @@
 client
 dev tun
 proto #PROTO
+remote-random
 remote #SERVER #PORT
 remote-cert-tls server
 resolv-retry 30

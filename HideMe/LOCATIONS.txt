@@ -1,31 +1,75 @@
-Bucharest (UDP),ro.hide.me,udp,4000
-Frankfurt (UDP),de.hide.me,udp,4000
-Haarlem (UDP),haarlem.hide.me,udp,4000
-Hong Kong (UDP),hk.hide.me,udp,4000
-Istanbul (UDP),tr.hide.me,udp,4000
-London (UDP),uk.hide.me,udp,4000
-Marrakech (UDP),ma.hide.me,udp,4000
-Melbourne (UDP),au-1.hide.me,udp,4000
-Miami (UDP),us-5.hide.me,udp,4000
-Milan (UDP),it.hide.me,udp,4000
-Montreal (UDP),ca.hide.me,udp,4000
-Paris (UDP),fr.hide.me,udp,4000
-Queretaro (UDP),mx.hide.me,udp,4000
-Reykjavik (UDP),is.hide.me,udp,4000
-Roosendaal (UDP),roosendaal.hide.me,udp,4000
-Salt Lake City (UDP),us-1.hide.me,udp,4000
-San Jose (UDP),us-3.hide.me,udp,4000
-Sao Paulo (UDP),brazil.hide.me,udp,4000
-Seattle (UDP),us-4.hide.me,udp,4000
-Siauliai (UDP),lt.hide.me,udp,4000
-Singapore (UDP),sg.hide.me,udp,4000
-Steinsel (UDP),lu.hide.me,udp,4000
-Stockholm (UDP),se.hide.me,udp,4000
-Sydney (UDP),au-2.hide.me,udp,4000
-Tokyo (UDP),jp.hide.me,udp,4000
-US-East (UDP),us-east.hide.me,udp,4000
-US-West (UDP),us-west.hide.me,udp,4000
-Vienna (UDP),at.hide.me,udp,4000
-Warsaw (UDP),pl.hide.me,udp,4000
-Washington D.C. (UDP),us-2.hide.me,udp,4000
-Zurich (UDP),ch.hide.me,udp,4000
+United Arab Emirates (UDP),ae.hideservers.net,udp,3000
+Amsterdam (UDP),amsterdam.hideservers.net,udp,3000
+Ashburn (UDP),ashburn.hideservers.net,udp,3000
+Austria (UDP),at.hideservers.net,udp,3000
+Australia (UDP),au.hideservers.net,udp,3000
+Barcelona (UDP),barcelona.hideservers.net,udp,3000
+Belgium (UDP),be.hideservers.net,udp,3000
+Berlin (UDP),berlin.hideservers.net,udp,3000
+Bulgaria (UDP),bg.hideservers.net,udp,3000
+Brazil (UDP),br.hideservers.net,udp,3000
+Canada (UDP),ca.hideservers.net,udp,3000
+Switzerland (UDP),ch.hideservers.net,udp,3000
+Chicago (UDP),chicago.hideservers.net,udp,3000
+Czech Republic (UDP),cz.hideservers.net,udp,3000
+Dallas (UDP),dallas.hideservers.net,udp,3000
+Germany (UDP),de.hideservers.net,udp,3000
+Denmark (UDP),dk.hideservers.net,udp,3000
+Egypt (UDP),eg.hideservers.net,udp,3000
+Spain (UDP),es.hideservers.net,udp,3000
+Falkenstein (UDP),falkenstein.hideservers.net,udp,3000
+France (UDP),fr.hideservers.net,udp,3000
+Frankfurt1 (UDP),frankfurt1.hideservers.net,udp,3000
+Frankfurt2 (UDP),frankfurt2.hideservers.net,udp,3000
+Greece (UDP),gr.hideservers.net,udp,3000
+Hong Kong (UDP),hk.hideservers.net,udp,3000
+Hungary (UDP),hu.hideservers.net,udp,3000
+Indonesia (UDP),id.hideservers.net,udp,3000
+Ireland (UDP),ie.hideservers.net,udp,3000
+India (UDP),in.hideservers.net,udp,3000
+Iceland (UDP),is.hideservers.net,udp,3000
+Italy (UDP),it.hideservers.net,udp,3000
+Japan (UDP),jp.hideservers.net,udp,3000
+Cambodia (UDP),kh.hideservers.net,udp,3000
+South Korea (UDP),kr.hideservers.net,udp,3000
+Las Vegas (UDP),lasvegas.hideservers.net,udp,3000
+London (UDP),london.hideservers.net,udp,3000
+Los Angeles (UDP),losangeles.hideservers.net,udp,3000
+Lithuania (UDP),lt.hideservers.net,udp,3000
+Luxembourg (UDP),lu.hideservers.net,udp,3000
+Morocco (UDP),ma.hideservers.net,udp,3000
+Madrid (UDP),madrid.hideservers.net,udp,3000
+Manchester (UDP),manchester.hideservers.net,udp,3000
+Melbourne (UDP),melbourne.hideservers.net,udp,3000
+Miami (UDP),miami.hideservers.net,udp,3000
+Milan (UDP),milan.hideservers.net,udp,3000
+Mexico (UDP),mx.hideservers.net,udp,3000
+New York City (UDP),newyorkcity.hideservers.net,udp,3000
+Netherlands (UDP),nl.hideservers.net,udp,3000
+Norway (UDP),no.hideservers.net,udp,3000
+Nuremberg (UDP),nuremberg.hideservers.net,udp,3000
+New Zealand (UDP),nz.hideservers.net,udp,3000
+Philippines (UDP),ph.hideservers.net,udp,3000
+Phoenix (UDP),phoenix.hideservers.net,udp,3000
+Poland (UDP),pl.hideservers.net,udp,3000
+Romania (UDP),ro.hideservers.net,udp,3000
+Rome (UDP),rome.hideservers.net,udp,3000
+Roosendaal (UDP),roosendaal.hideservers.net,udp,3000
+Serbia (UDP),rs.hideservers.net,udp,3000
+Sweden (UDP),se.hideservers.net,udp,3000
+Secaucus (UDP),secaucus.hideservers.net,udp,3000
+Singapore (UDP),sg.hideservers.net,udp,3000
+Slovakia (UDP),sk.hideservers.net,udp,3000
+Sydney (UDP),sydney.hideservers.net,udp,3000
+Turkey (UDP),tr.hideservers.net,udp,3000
+Taiwan (UDP),tw.hideservers.net,udp,3000
+Ukraine (UDP),ua.hideservers.net,udp,3000
+United Kingdom (UDP),uk.hideservers.net,udp,3000
+Us Central (UDP),us-central.hideservers.net,udp,3000
+Us East (UDP),us-east.hideservers.net,udp,3000
+Us West (UDP),us-west.hideservers.net,udp,3000
+United States (UDP),us.hideservers.net,udp,3000
+Vietnam (UDP),vn.hideservers.net,udp,3000
+South Africa (UDP),za.hideservers.net,udp,3000
+Zug (UDP),zug.hideservers.net,udp,3000
+Zurich (UDP),zurich.hideservers.net,udp,3000

@@ -1,4 +1,3 @@
-redirect-gateway def1
 client
 dev tun
 proto #PROTO
@@ -12,10 +11,9 @@ persist-tun
 mute-replay-warnings
 verb 1
 auth-user-pass #PASS
-reneg-sec 0
+reneg-sec 900
 remote-cert-tls server
 verify-x509-name "*.hide.me" name
 tls-version-min 1.2
-key-direction 0
 ca #CERT
 tls-auth #TLSKEY

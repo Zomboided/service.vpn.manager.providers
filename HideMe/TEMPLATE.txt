@@ -16,4 +16,4 @@ remote-cert-tls server
 verify-x509-name "*.hide.me" name
 tls-version-min 1.2
 ca #CERT
-tls-auth #TLSKEY
+tls-crypt #TLSKEY

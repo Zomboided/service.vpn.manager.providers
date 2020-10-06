@@ -2,17 +2,12 @@ client
 proto #PROTO
 dev tun
 ca #CERT
-dh #DH
 cert #USERCERT
 key #USERKEY
-askpass #USERPASS
 remote #SERVER #PORT
-cipher DES-CBC
+cipher AES-256-CBC
 verb 2
 mute 20
 comp-lzo
-persist-key
-persist-tun
 float
 resolv-retry 30
-nobind

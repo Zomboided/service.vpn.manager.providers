@@ -190,4 +190,3 @@ CA Ontario (UDP),ca-ontario.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048
 CA Ontario (TCP),ca-ontario.privacy.network,tcp,502,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 Macedonia (UDP),mk.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 Macedonia (TCP),mk.privacy.network,tcp,502,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
-

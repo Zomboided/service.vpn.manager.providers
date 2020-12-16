@@ -7,11 +7,10 @@ auth-user-pass #PASS
 resolv-retry 30
 auth SHA512
 cipher AES-256-CBC
-keysize 256
 comp-lzo
 verb 2
 mute-replay-warnings
-ns-cert-type server
+remote-cert-tls server
 persist-key
 persist-tun
 key-direction 1

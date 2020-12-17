@@ -5,6 +5,7 @@ dh #DH
 ca #CERT
 cert #USERCERT
 key #USERKEY
+askpass #USERPASS
 remote #SERVER #PORT
 cipher AES-256-CBC
 verb 3

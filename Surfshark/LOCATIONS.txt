@@ -20,6 +20,8 @@ Canada - Montreal (TCP),ca-mon.prod.surfshark.com,tcp,1443
 Canada - Montreal (UDP),ca-mon.prod.surfshark.com,udp,1194
 Canada - Toronto (TCP),ca-tor.prod.surfshark.com,tcp,1443
 Canada - Toronto (UDP),ca-tor.prod.surfshark.com,udp,1194
+Canada - Toronto [MP001] (TCP),ca-tor-mp001.prod.surfshark.com,tcp,1443
+Canada - Toronto [MP001] (UDP),ca-tor-mp001.prod.surfshark.com,udp,1194
 Chile - Santiago (TCP),cl-san.prod.surfshark.com,tcp,1443
 Chile - Santiago (UDP),cl-san.prod.surfshark.com,udp,1194
 Colombia - Bogota (TCP),co-bog.prod.surfshark.com,tcp,1443
@@ -46,6 +48,18 @@ Germany - Berlin (TCP),de-ber.prod.surfshark.com,tcp,1443
 Germany - Berlin (UDP),de-ber.prod.surfshark.com,udp,1194
 Germany - Frankfurt am Main (TCP),de-fra.prod.surfshark.com,tcp,1443
 Germany - Frankfurt am Main (UDP),de-fra.prod.surfshark.com,udp,1194
+Germany - Frankfurt am Main [MP001] (TCP),de-fra-mp001.prod.surfshark.com,tcp,1443
+Germany - Frankfurt am Main [MP001] (UDP),de-fra-mp001.prod.surfshark.com,udp,1194
+Germany - Frankfurt am Main [ST001] (TCP),de-fra-st001.prod.surfshark.com,tcp,1443
+Germany - Frankfurt am Main [ST001] (UDP),de-fra-st001.prod.surfshark.com,udp,1194
+Germany - Frankfurt am Main [ST002] (TCP),de-fra-st002.prod.surfshark.com,tcp,1443
+Germany - Frankfurt am Main [ST002] (UDP),de-fra-st002.prod.surfshark.com,udp,1194
+Germany - Frankfurt am Main [ST003] (TCP),de-fra-st003.prod.surfshark.com,tcp,1443
+Germany - Frankfurt am Main [ST003] (UDP),de-fra-st003.prod.surfshark.com,udp,1194
+Germany - Frankfurt am Main [ST004] (TCP),de-fra-st004.prod.surfshark.com,tcp,1443
+Germany - Frankfurt am Main [ST004] (UDP),de-fra-st004.prod.surfshark.com,udp,1194
+Germany - Frankfurt am Main [ST005] (TCP),de-fra-st005.prod.surfshark.com,tcp,1443
+Germany - Frankfurt am Main [ST005] (UDP),de-fra-st005.prod.surfshark.com,udp,1194
 Germany - Munich (TCP),de-muc.prod.surfshark.com,tcp,1443
 Germany - Munich (UDP),de-muc.prod.surfshark.com,udp,1194
 Germany - Nuremberg (TCP),de-nue.prod.surfshark.com,tcp,1443
@@ -72,6 +86,32 @@ Italy - Rome (TCP),it-rom.prod.surfshark.com,tcp,1443
 Italy - Rome (UDP),it-rom.prod.surfshark.com,udp,1194
 Japan - Tokyo (TCP),jp-tok.prod.surfshark.com,tcp,1443
 Japan - Tokyo (UDP),jp-tok.prod.surfshark.com,udp,1194
+Japan - Tokyo [ST001] (TCP),jp-tok-st001.prod.surfshark.com,tcp,1443
+Japan - Tokyo [ST001] (UDP),jp-tok-st001.prod.surfshark.com,udp,1194
+Japan - Tokyo [ST002] (TCP),jp-tok-st002.prod.surfshark.com,tcp,1443
+Japan - Tokyo [ST002] (UDP),jp-tok-st002.prod.surfshark.com,udp,1194
+Japan - Tokyo [ST003] (TCP),jp-tok-st003.prod.surfshark.com,tcp,1443
+Japan - Tokyo [ST003] (UDP),jp-tok-st003.prod.surfshark.com,udp,1194
+Japan - Tokyo [ST004] (TCP),jp-tok-st004.prod.surfshark.com,tcp,1443
+Japan - Tokyo [ST004] (UDP),jp-tok-st004.prod.surfshark.com,udp,1194
+Japan - Tokyo [ST005] (TCP),jp-tok-st005.prod.surfshark.com,tcp,1443
+Japan - Tokyo [ST005] (UDP),jp-tok-st005.prod.surfshark.com,udp,1194
+Japan - Tokyo [ST006] (TCP),jp-tok-st006.prod.surfshark.com,tcp,1443
+Japan - Tokyo [ST006] (UDP),jp-tok-st006.prod.surfshark.com,udp,1194
+Japan - Tokyo [ST007] (TCP),jp-tok-st007.prod.surfshark.com,tcp,1443
+Japan - Tokyo [ST007] (UDP),jp-tok-st007.prod.surfshark.com,udp,1194
+Japan - Tokyo [ST008] (TCP),jp-tok-st008.prod.surfshark.com,tcp,1443
+Japan - Tokyo [ST008] (UDP),jp-tok-st008.prod.surfshark.com,udp,1194
+Japan - Tokyo [ST009] (TCP),jp-tok-st009.prod.surfshark.com,tcp,1443
+Japan - Tokyo [ST009] (UDP),jp-tok-st009.prod.surfshark.com,udp,1194
+Japan - Tokyo [ST010] (TCP),jp-tok-st010.prod.surfshark.com,tcp,1443
+Japan - Tokyo [ST010] (UDP),jp-tok-st010.prod.surfshark.com,udp,1194
+Japan - Tokyo [ST011] (TCP),jp-tok-st011.prod.surfshark.com,tcp,1443
+Japan - Tokyo [ST011] (UDP),jp-tok-st011.prod.surfshark.com,udp,1194
+Japan - Tokyo [ST012] (TCP),jp-tok-st012.prod.surfshark.com,tcp,1443
+Japan - Tokyo [ST012] (UDP),jp-tok-st012.prod.surfshark.com,udp,1194
+Japan - Tokyo [ST013] (TCP),jp-tok-st013.prod.surfshark.com,tcp,1443
+Japan - Tokyo [ST013] (UDP),jp-tok-st013.prod.surfshark.com,udp,1194
 Kazakhstan - Oral (TCP),kz-ura.prod.surfshark.com,tcp,1443
 Kazakhstan - Oral (UDP),kz-ura.prod.surfshark.com,udp,1194
 Latvia - Riga (TCP),lv-rig.prod.surfshark.com,tcp,1443
@@ -88,6 +128,8 @@ Moldova - Chisinau (TCP),md-chi.prod.surfshark.com,tcp,1443
 Moldova - Chisinau (UDP),md-chi.prod.surfshark.com,udp,1194
 Netherlands - Amsterdam (TCP),nl-ams.prod.surfshark.com,tcp,1443
 Netherlands - Amsterdam (UDP),nl-ams.prod.surfshark.com,udp,1194
+Netherlands - Amsterdam [MP001] (TCP),nl-ams-mp001.prod.surfshark.com,tcp,1443
+Netherlands - Amsterdam [MP001] (UDP),nl-ams-mp001.prod.surfshark.com,udp,1194
 Nigeria - Lagos (TCP),ng-lag.prod.surfshark.com,tcp,1443
 Nigeria - Lagos (UDP),ng-lag.prod.surfshark.com,udp,1194
 North Macedonia - Skopje (TCP),mk-skp.prod.surfshark.com,tcp,1443
@@ -116,6 +158,16 @@ Serbia - Belgrade (TCP),rs-beg.prod.surfshark.com,tcp,1443
 Serbia - Belgrade (UDP),rs-beg.prod.surfshark.com,udp,1194
 Singapore - Singapore (TCP),sg-sng.prod.surfshark.com,tcp,1443
 Singapore - Singapore (UDP),sg-sng.prod.surfshark.com,udp,1194
+Singapore - Singapore [MP001] (TCP),sg-sng-mp001.prod.surfshark.com,tcp,1443
+Singapore - Singapore [MP001] (UDP),sg-sng-mp001.prod.surfshark.com,udp,1194
+Singapore - Singapore [ST001] (TCP),sg-sng-st001.prod.surfshark.com,tcp,1443
+Singapore - Singapore [ST001] (UDP),sg-sng-st001.prod.surfshark.com,udp,1194
+Singapore - Singapore [ST002] (TCP),sg-sng-st002.prod.surfshark.com,tcp,1443
+Singapore - Singapore [ST002] (UDP),sg-sng-st002.prod.surfshark.com,udp,1194
+Singapore - Singapore [ST003] (TCP),sg-sng-st003.prod.surfshark.com,tcp,1443
+Singapore - Singapore [ST003] (UDP),sg-sng-st003.prod.surfshark.com,udp,1194
+Singapore - Singapore [ST004] (TCP),sg-sng-st004.prod.surfshark.com,tcp,1443
+Singapore - Singapore [ST004] (UDP),sg-sng-st004.prod.surfshark.com,udp,1194
 Slovakia - Bratislava (TCP),sk-bts.prod.surfshark.com,tcp,1443
 Slovakia - Bratislava (UDP),sk-bts.prod.surfshark.com,udp,1194
 Slovenia - Ljubljana (TCP),si-lju.prod.surfshark.com,tcp,1443
@@ -146,6 +198,18 @@ United Kingdom - Glasgow (TCP),uk-gla.prod.surfshark.com,tcp,1443
 United Kingdom - Glasgow (UDP),uk-gla.prod.surfshark.com,udp,1194
 United Kingdom - London (TCP),uk-lon.prod.surfshark.com,tcp,1443
 United Kingdom - London (UDP),uk-lon.prod.surfshark.com,udp,1194
+United Kingdom - London [MP001] (TCP),uk-lon-mp001.prod.surfshark.com,tcp,1443
+United Kingdom - London [MP001] (UDP),uk-lon-mp001.prod.surfshark.com,udp,1194
+United Kingdom - London [ST001] (TCP),uk-lon-st001.prod.surfshark.com,tcp,1443
+United Kingdom - London [ST001] (UDP),uk-lon-st001.prod.surfshark.com,udp,1194
+United Kingdom - London [ST002] (TCP),uk-lon-st002.prod.surfshark.com,tcp,1443
+United Kingdom - London [ST002] (UDP),uk-lon-st002.prod.surfshark.com,udp,1194
+United Kingdom - London [ST003] (TCP),uk-lon-st003.prod.surfshark.com,tcp,1443
+United Kingdom - London [ST003] (UDP),uk-lon-st003.prod.surfshark.com,udp,1194
+United Kingdom - London [ST004] (TCP),uk-lon-st004.prod.surfshark.com,tcp,1443
+United Kingdom - London [ST004] (UDP),uk-lon-st004.prod.surfshark.com,udp,1194
+United Kingdom - London [ST005] (TCP),uk-lon-st005.prod.surfshark.com,tcp,1443
+United Kingdom - London [ST005] (UDP),uk-lon-st005.prod.surfshark.com,udp,1194
 United Kingdom - Manchester (TCP),uk-man.prod.surfshark.com,tcp,1443
 United Kingdom - Manchester (UDP),uk-man.prod.surfshark.com,udp,1194
 United States - Bend (TCP),us-bdn.prod.surfshark.com,tcp,1443
@@ -176,6 +240,18 @@ United States - Miami (TCP),us-mia.prod.surfshark.com,tcp,1443
 United States - Miami (UDP),us-mia.prod.surfshark.com,udp,1194
 United States - New York (TCP),us-nyc.prod.surfshark.com,tcp,1443
 United States - New York (UDP),us-nyc.prod.surfshark.com,udp,1194
+United States - New York [MP001] (TCP),us-nyc-mp001.prod.surfshark.com,tcp,1443
+United States - New York [MP001] (UDP),us-nyc-mp001.prod.surfshark.com,udp,1194
+United States - New York [ST001] (TCP),us-nyc-st001.prod.surfshark.com,tcp,1443
+United States - New York [ST001] (UDP),us-nyc-st001.prod.surfshark.com,udp,1194
+United States - New York [ST002] (TCP),us-nyc-st002.prod.surfshark.com,tcp,1443
+United States - New York [ST002] (UDP),us-nyc-st002.prod.surfshark.com,udp,1194
+United States - New York [ST003] (TCP),us-nyc-st003.prod.surfshark.com,tcp,1443
+United States - New York [ST003] (UDP),us-nyc-st003.prod.surfshark.com,udp,1194
+United States - New York [ST004] (TCP),us-nyc-st004.prod.surfshark.com,tcp,1443
+United States - New York [ST004] (UDP),us-nyc-st004.prod.surfshark.com,udp,1194
+United States - New York [ST005] (TCP),us-nyc-st005.prod.surfshark.com,tcp,1443
+United States - New York [ST005] (UDP),us-nyc-st005.prod.surfshark.com,udp,1194
 United States - Orlando (TCP),us-orl.prod.surfshark.com,tcp,1443
 United States - Orlando (UDP),us-orl.prod.surfshark.com,udp,1194
 United States - Phoenix (TCP),us-phx.prod.surfshark.com,tcp,1443
@@ -184,9 +260,41 @@ United States - Salt Lake City (TCP),us-slc.prod.surfshark.com,tcp,1443
 United States - Salt Lake City (UDP),us-slc.prod.surfshark.com,udp,1194
 United States - San Francisco (TCP),us-sfo.prod.surfshark.com,tcp,1443
 United States - San Francisco (UDP),us-sfo.prod.surfshark.com,udp,1194
+United States - San Francisco [MP001] (TCP),us-sfo-mp001.prod.surfshark.com,tcp,1443
+United States - San Francisco [MP001] (UDP),us-sfo-mp001.prod.surfshark.com,udp,1194
 United States - St. Louis (TCP),us-stl.prod.surfshark.com,tcp,1443
 United States - St. Louis (UDP),us-stl.prod.surfshark.com,udp,1194
 United States - Tampa (TCP),us-tpa.prod.surfshark.com,tcp,1443
 United States - Tampa (UDP),us-tpa.prod.surfshark.com,udp,1194
+Unknown (TCP),104.200.132.39,tcp,1443
+Unknown (TCP),107.175.104.84,tcp,1443
+Unknown (TCP),144.48.39.83,tcp,1443
+Unknown (TCP),165.231.253.147,tcp,1443
+Unknown (TCP),176.61.146.84,tcp,1443
+Unknown (TCP),180.149.231.115,tcp,1443
+Unknown (TCP),185.99.3.7,tcp,1443
+Unknown (TCP),198.8.80.87,tcp,1443
+Unknown (TCP),209.58.128.48,tcp,1443
+Unknown (TCP),23.105.163.94,tcp,1443
+Unknown (TCP),37.120.144.149,tcp,1443
+Unknown (TCP),45.12.221.165,tcp,1443
+Unknown (TCP),45.248.79.67,tcp,1443
+Unknown (TCP),5.154.174.117,tcp,1443
+Unknown (TCP),66.115.154.131,tcp,1443
+Unknown (UDP),104.200.132.39,udp,1194
+Unknown (UDP),107.175.104.84,udp,1194
+Unknown (UDP),144.48.39.83,udp,1194
+Unknown (UDP),165.231.253.147,udp,1194
+Unknown (UDP),176.61.146.84,udp,1194
+Unknown (UDP),180.149.231.115,udp,1194
+Unknown (UDP),185.99.3.7,udp,1194
+Unknown (UDP),198.8.80.87,udp,1194
+Unknown (UDP),209.58.128.48,udp,1194
+Unknown (UDP),23.105.163.94,udp,1194
+Unknown (UDP),37.120.144.149,udp,1194
+Unknown (UDP),45.12.221.165,udp,1194
+Unknown (UDP),45.248.79.67,udp,1194
+Unknown (UDP),5.154.174.117,udp,1194
+Unknown (UDP),66.115.154.131,udp,1194
 Vietnam - Ho Chi Minh City (TCP),vn-hcm.prod.surfshark.com,tcp,1443
 Vietnam - Ho Chi Minh City (UDP),vn-hcm.prod.surfshark.com,udp,1194

@@ -1,3 +1,7 @@
+# Project specific
+locations.csv
+update_locations.py
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

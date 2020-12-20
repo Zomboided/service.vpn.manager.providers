@@ -1,0 +1,192 @@
+Albania - Tirana (TCP),al-tia.prod.surfshark.com,tcp,1443
+Albania - Tirana (UDP),al-tia.prod.surfshark.com,udp,1194
+Argentina - Buenos Aires (TCP),ar-bua.prod.surfshark.com,tcp,1443
+Argentina - Buenos Aires (UDP),ar-bua.prod.surfshark.com,udp,1194
+Australia - Melbourne (TCP),au-mel.prod.surfshark.com,tcp,1443
+Australia - Melbourne (UDP),au-mel.prod.surfshark.com,udp,1194
+Australia - Perth (TCP),au-per.prod.surfshark.com,tcp,1443
+Australia - Perth (UDP),au-per.prod.surfshark.com,udp,1194
+Australia - Sydney (TCP),au-syd.prod.surfshark.com,tcp,1443
+Australia - Sydney (UDP),au-syd.prod.surfshark.com,udp,1194
+Austria - Vienna (TCP),at-vie.prod.surfshark.com,tcp,1443
+Austria - Vienna (UDP),at-vie.prod.surfshark.com,udp,1194
+Belgium - Brussels (TCP),be-bru.prod.surfshark.com,tcp,1443
+Belgium - Brussels (UDP),be-bru.prod.surfshark.com,udp,1194
+Brazil - Sao Paulo (TCP),br-sao.prod.surfshark.com,tcp,1443
+Brazil - Sao Paulo (UDP),br-sao.prod.surfshark.com,udp,1194
+Bulgaria - Sofia (TCP),bg-sof.prod.surfshark.com,tcp,1443
+Bulgaria - Sofia (UDP),bg-sof.prod.surfshark.com,udp,1194
+Canada - Montreal (TCP),ca-mon.prod.surfshark.com,tcp,1443
+Canada - Montreal (UDP),ca-mon.prod.surfshark.com,udp,1194
+Canada - Toronto (TCP),ca-tor.prod.surfshark.com,tcp,1443
+Canada - Toronto (UDP),ca-tor.prod.surfshark.com,udp,1194
+Chile - Santiago (TCP),cl-san.prod.surfshark.com,tcp,1443
+Chile - Santiago (UDP),cl-san.prod.surfshark.com,udp,1194
+Colombia - Bogota (TCP),co-bog.prod.surfshark.com,tcp,1443
+Colombia - Bogota (UDP),co-bog.prod.surfshark.com,udp,1194
+Costa Rica - San Jose (TCP),cr-sjn.prod.surfshark.com,tcp,1443
+Costa Rica - San Jose (UDP),cr-sjn.prod.surfshark.com,udp,1194
+Croatia - Zagreb (TCP),hr-zag.prod.surfshark.com,tcp,1443
+Croatia - Zagreb (UDP),hr-zag.prod.surfshark.com,udp,1194
+Cyprus - Nicosia (TCP),cy-nic.prod.surfshark.com,tcp,1443
+Cyprus - Nicosia (UDP),cy-nic.prod.surfshark.com,udp,1194
+Czech Republic - Prague (TCP),cz-prg.prod.surfshark.com,tcp,1443
+Czech Republic - Prague (UDP),cz-prg.prod.surfshark.com,udp,1194
+Estonia - Tallinn (TCP),ee-tll.prod.surfshark.com,tcp,1443
+Estonia - Tallinn (UDP),ee-tll.prod.surfshark.com,udp,1194
+Finland - Helsinki (TCP),fi-hel.prod.surfshark.com,tcp,1443
+Finland - Helsinki (UDP),fi-hel.prod.surfshark.com,udp,1194
+France - Bordeaux (TCP),fr-bod.prod.surfshark.com,tcp,1443
+France - Bordeaux (UDP),fr-bod.prod.surfshark.com,udp,1194
+France - Marseille (TCP),fr-mrs.prod.surfshark.com,tcp,1443
+France - Marseille (UDP),fr-mrs.prod.surfshark.com,udp,1194
+France - Paris (TCP),fr-par.prod.surfshark.com,tcp,1443
+France - Paris (UDP),fr-par.prod.surfshark.com,udp,1194
+Germany - Berlin (TCP),de-ber.prod.surfshark.com,tcp,1443
+Germany - Berlin (UDP),de-ber.prod.surfshark.com,udp,1194
+Germany - Frankfurt am Main (TCP),de-fra.prod.surfshark.com,tcp,1443
+Germany - Frankfurt am Main (UDP),de-fra.prod.surfshark.com,udp,1194
+Germany - Munich (TCP),de-muc.prod.surfshark.com,tcp,1443
+Germany - Munich (UDP),de-muc.prod.surfshark.com,udp,1194
+Germany - Nuremberg (TCP),de-nue.prod.surfshark.com,tcp,1443
+Germany - Nuremberg (UDP),de-nue.prod.surfshark.com,udp,1194
+Greece - Athens (TCP),gr-ath.prod.surfshark.com,tcp,1443
+Greece - Athens (UDP),gr-ath.prod.surfshark.com,udp,1194
+Hong Kong - Hong Kong (TCP),hk-hkg.prod.surfshark.com,tcp,1443
+Hong Kong - Hong Kong (UDP),hk-hkg.prod.surfshark.com,udp,1194
+Iceland - Reykjavik (TCP),is-rkv.prod.surfshark.com,tcp,1443
+Iceland - Reykjavik (UDP),is-rkv.prod.surfshark.com,udp,1194
+India - Chennai (TCP),in-chn.prod.surfshark.com,tcp,1443
+India - Chennai (UDP),in-chn.prod.surfshark.com,udp,1194
+India - Indore (TCP),in-idr.prod.surfshark.com,tcp,1443
+India - Indore (UDP),in-idr.prod.surfshark.com,udp,1194
+Indonesia - Jakarta (TCP),id-jak.prod.surfshark.com,tcp,1443
+Indonesia - Jakarta (UDP),id-jak.prod.surfshark.com,udp,1194
+Ireland - Dublin (TCP),ie-dub.prod.surfshark.com,tcp,1443
+Ireland - Dublin (UDP),ie-dub.prod.surfshark.com,udp,1194
+Israel - Tel Aviv (TCP),il-tlv.prod.surfshark.com,tcp,1443
+Israel - Tel Aviv (UDP),il-tlv.prod.surfshark.com,udp,1194
+Italy - Milan (TCP),it-mil.prod.surfshark.com,tcp,1443
+Italy - Milan (UDP),it-mil.prod.surfshark.com,udp,1194
+Italy - Rome (TCP),it-rom.prod.surfshark.com,tcp,1443
+Italy - Rome (UDP),it-rom.prod.surfshark.com,udp,1194
+Japan - Tokyo (TCP),jp-tok.prod.surfshark.com,tcp,1443
+Japan - Tokyo (UDP),jp-tok.prod.surfshark.com,udp,1194
+Kazakhstan - Oral (TCP),kz-ura.prod.surfshark.com,tcp,1443
+Kazakhstan - Oral (UDP),kz-ura.prod.surfshark.com,udp,1194
+Latvia - Riga (TCP),lv-rig.prod.surfshark.com,tcp,1443
+Latvia - Riga (UDP),lv-rig.prod.surfshark.com,udp,1194
+Libya - Tripoli (TCP),ly-tip.prod.surfshark.com,tcp,1443
+Libya - Tripoli (UDP),ly-tip.prod.surfshark.com,udp,1194
+Luxembourg - Luxembourg (TCP),lu-ste.prod.surfshark.com,tcp,1443
+Luxembourg - Luxembourg (UDP),lu-ste.prod.surfshark.com,udp,1194
+Malaysia - Kuala Lumpur (TCP),my-kul.prod.surfshark.com,tcp,1443
+Malaysia - Kuala Lumpur (UDP),my-kul.prod.surfshark.com,udp,1194
+Mexico - Mexico City (TCP),mx-mex.prod.surfshark.com,tcp,1443
+Mexico - Mexico City (UDP),mx-mex.prod.surfshark.com,udp,1194
+Moldova - Chisinau (TCP),md-chi.prod.surfshark.com,tcp,1443
+Moldova - Chisinau (UDP),md-chi.prod.surfshark.com,udp,1194
+Netherlands - Amsterdam (TCP),nl-ams.prod.surfshark.com,tcp,1443
+Netherlands - Amsterdam (UDP),nl-ams.prod.surfshark.com,udp,1194
+Nigeria - Lagos (TCP),ng-lag.prod.surfshark.com,tcp,1443
+Nigeria - Lagos (UDP),ng-lag.prod.surfshark.com,udp,1194
+North Macedonia - Skopje (TCP),mk-skp.prod.surfshark.com,tcp,1443
+North Macedonia - Skopje (UDP),mk-skp.prod.surfshark.com,udp,1194
+Norway - Oslo (TCP),no-osl.prod.surfshark.com,tcp,1443
+Norway - Oslo (UDP),no-osl.prod.surfshark.com,udp,1194
+Paraguay - Asunción (TCP),py-asu.prod.surfshark.com,tcp,1443
+Paraguay - Asunción (UDP),py-asu.prod.surfshark.com,udp,1194
+Philippines - Manila (TCP),ph-mnl.prod.surfshark.com,tcp,1443
+Philippines - Manila (UDP),ph-mnl.prod.surfshark.com,udp,1194
+Poland - Gdansk (TCP),pl-gdn.prod.surfshark.com,tcp,1443
+Poland - Gdansk (UDP),pl-gdn.prod.surfshark.com,udp,1194
+Poland - Warsaw (TCP),pl-waw.prod.surfshark.com,tcp,1443
+Poland - Warsaw (UDP),pl-waw.prod.surfshark.com,udp,1194
+Portugal - Loule (TCP),pt-lou.prod.surfshark.com,tcp,1443
+Portugal - Loule (UDP),pt-lou.prod.surfshark.com,udp,1194
+Portugal - Porto (TCP),pt-opo.prod.surfshark.com,tcp,1443
+Portugal - Porto (UDP),pt-opo.prod.surfshark.com,udp,1194
+Romania - Bucharest (TCP),ro-buc.prod.surfshark.com,tcp,1443
+Romania - Bucharest (UDP),ro-buc.prod.surfshark.com,udp,1194
+Russia - Moscow (TCP),ru-mos.prod.surfshark.com,tcp,1443
+Russia - Moscow (UDP),ru-mos.prod.surfshark.com,udp,1194
+Russia - St. Petersburg (TCP),ru-spt.prod.surfshark.com,tcp,1443
+Russia - St. Petersburg (UDP),ru-spt.prod.surfshark.com,udp,1194
+Serbia - Belgrade (TCP),rs-beg.prod.surfshark.com,tcp,1443
+Serbia - Belgrade (UDP),rs-beg.prod.surfshark.com,udp,1194
+Singapore - Singapore (TCP),sg-sng.prod.surfshark.com,tcp,1443
+Singapore - Singapore (UDP),sg-sng.prod.surfshark.com,udp,1194
+Slovakia - Bratislava (TCP),sk-bts.prod.surfshark.com,tcp,1443
+Slovakia - Bratislava (UDP),sk-bts.prod.surfshark.com,udp,1194
+Slovenia - Ljubljana (TCP),si-lju.prod.surfshark.com,tcp,1443
+Slovenia - Ljubljana (UDP),si-lju.prod.surfshark.com,udp,1194
+South Africa - Johannesburg (TCP),za-jnb.prod.surfshark.com,tcp,1443
+South Africa - Johannesburg (UDP),za-jnb.prod.surfshark.com,udp,1194
+South Korea - Seoul (TCP),kr-seo.prod.surfshark.com,tcp,1443
+South Korea - Seoul (UDP),kr-seo.prod.surfshark.com,udp,1194
+Spain - Barcelona (TCP),es-bcn.prod.surfshark.com,tcp,1443
+Spain - Barcelona (UDP),es-bcn.prod.surfshark.com,udp,1194
+Spain - Madrid (TCP),es-mad.prod.surfshark.com,tcp,1443
+Spain - Madrid (UDP),es-mad.prod.surfshark.com,udp,1194
+Spain - Valencia (TCP),es-vlc.prod.surfshark.com,tcp,1443
+Spain - Valencia (UDP),es-vlc.prod.surfshark.com,udp,1194
+Sweden - Stockholm (TCP),se-sto.prod.surfshark.com,tcp,1443
+Sweden - Stockholm (UDP),se-sto.prod.surfshark.com,udp,1194
+Switzerland - Zurich (TCP),ch-zur.prod.surfshark.com,tcp,1443
+Switzerland - Zurich (UDP),ch-zur.prod.surfshark.com,udp,1194
+Taiwan - Taichung City (TCP),tw-tai.prod.surfshark.com,tcp,1443
+Taiwan - Taichung City (UDP),tw-tai.prod.surfshark.com,udp,1194
+Turkey - Istanbul (TCP),tr-ist.prod.surfshark.com,tcp,1443
+Turkey - Istanbul (UDP),tr-ist.prod.surfshark.com,udp,1194
+Ukraine - Kyiv (TCP),ua-iev.prod.surfshark.com,tcp,1443
+Ukraine - Kyiv (UDP),ua-iev.prod.surfshark.com,udp,1194
+United Arab Emirates - Dubai (TCP),ae-dub.prod.surfshark.com,tcp,1443
+United Arab Emirates - Dubai (UDP),ae-dub.prod.surfshark.com,udp,1194
+United Kingdom - Glasgow (TCP),uk-gla.prod.surfshark.com,tcp,1443
+United Kingdom - Glasgow (UDP),uk-gla.prod.surfshark.com,udp,1194
+United Kingdom - London (TCP),uk-lon.prod.surfshark.com,tcp,1443
+United Kingdom - London (UDP),uk-lon.prod.surfshark.com,udp,1194
+United Kingdom - Manchester (TCP),uk-man.prod.surfshark.com,tcp,1443
+United Kingdom - Manchester (UDP),uk-man.prod.surfshark.com,udp,1194
+United States - Bend (TCP),us-bdn.prod.surfshark.com,tcp,1443
+United States - Bend (UDP),us-bdn.prod.surfshark.com,udp,1194
+United States - Boston (TCP),us-bos.prod.surfshark.com,tcp,1443
+United States - Boston (UDP),us-bos.prod.surfshark.com,udp,1194
+United States - Charlotte (TCP),us-clt.prod.surfshark.com,tcp,1443
+United States - Charlotte (UDP),us-clt.prod.surfshark.com,udp,1194
+United States - Chicago (TCP),us-chi.prod.surfshark.com,tcp,1443
+United States - Chicago (UDP),us-chi.prod.surfshark.com,udp,1194
+United States - Dallas (TCP),us-dal.prod.surfshark.com,tcp,1443
+United States - Dallas (UDP),us-dal.prod.surfshark.com,udp,1194
+United States - Denver (TCP),us-den.prod.surfshark.com,tcp,1443
+United States - Denver (UDP),us-den.prod.surfshark.com,udp,1194
+United States - Detroit (TCP),us-dtw.prod.surfshark.com,tcp,1443
+United States - Detroit (UDP),us-dtw.prod.surfshark.com,udp,1194
+United States - Houston (TCP),us-hou.prod.surfshark.com,tcp,1443
+United States - Houston (UDP),us-hou.prod.surfshark.com,udp,1194
+United States - Kansas City (TCP),us-kan.prod.surfshark.com,tcp,1443
+United States - Kansas City (UDP),us-kan.prod.surfshark.com,udp,1194
+United States - Las Vegas (TCP),us-las.prod.surfshark.com,tcp,1443
+United States - Las Vegas (UDP),us-las.prod.surfshark.com,udp,1194
+United States - Latham (TCP),us-ltm.prod.surfshark.com,tcp,1443
+United States - Latham (UDP),us-ltm.prod.surfshark.com,udp,1194
+United States - Los Angeles (TCP),us-lax.prod.surfshark.com,tcp,1443
+United States - Los Angeles (UDP),us-lax.prod.surfshark.com,udp,1194
+United States - Miami (TCP),us-mia.prod.surfshark.com,tcp,1443
+United States - Miami (UDP),us-mia.prod.surfshark.com,udp,1194
+United States - New York (TCP),us-nyc.prod.surfshark.com,tcp,1443
+United States - New York (UDP),us-nyc.prod.surfshark.com,udp,1194
+United States - Orlando (TCP),us-orl.prod.surfshark.com,tcp,1443
+United States - Orlando (UDP),us-orl.prod.surfshark.com,udp,1194
+United States - Phoenix (TCP),us-phx.prod.surfshark.com,tcp,1443
+United States - Phoenix (UDP),us-phx.prod.surfshark.com,udp,1194
+United States - Salt Lake City (TCP),us-slc.prod.surfshark.com,tcp,1443
+United States - Salt Lake City (UDP),us-slc.prod.surfshark.com,udp,1194
+United States - San Francisco (TCP),us-sfo.prod.surfshark.com,tcp,1443
+United States - San Francisco (UDP),us-sfo.prod.surfshark.com,udp,1194
+United States - St. Louis (TCP),us-stl.prod.surfshark.com,tcp,1443
+United States - St. Louis (UDP),us-stl.prod.surfshark.com,udp,1194
+United States - Tampa (TCP),us-tpa.prod.surfshark.com,tcp,1443
+United States - Tampa (UDP),us-tpa.prod.surfshark.com,udp,1194
+Vietnam - Ho Chi Minh City (TCP),vn-hcm.prod.surfshark.com,tcp,1443
+Vietnam - Ho Chi Minh City (UDP),vn-hcm.prod.surfshark.com,udp,1194

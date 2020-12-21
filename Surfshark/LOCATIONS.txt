@@ -136,8 +136,8 @@ North Macedonia - Skopje (TCP),mk-skp.prod.surfshark.com,tcp,1443
 North Macedonia - Skopje (UDP),mk-skp.prod.surfshark.com,udp,1194
 Norway - Oslo (TCP),no-osl.prod.surfshark.com,tcp,1443
 Norway - Oslo (UDP),no-osl.prod.surfshark.com,udp,1194
-Paraguay - Asunción (TCP),py-asu.prod.surfshark.com,tcp,1443
-Paraguay - Asunción (UDP),py-asu.prod.surfshark.com,udp,1194
+Paraguay - Asuncion (TCP),py-asu.prod.surfshark.com,tcp,1443
+Paraguay - Asuncion (UDP),py-asu.prod.surfshark.com,udp,1194
 Philippines - Manila (TCP),ph-mnl.prod.surfshark.com,tcp,1443
 Philippines - Manila (UDP),ph-mnl.prod.surfshark.com,udp,1194
 Poland - Gdansk (TCP),pl-gdn.prod.surfshark.com,tcp,1443

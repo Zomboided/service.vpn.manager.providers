@@ -2,7 +2,7 @@ Australia 1 (UDP),aus1.limevpn.com,udp,1195
 Canada (UDP),de01.limevpn.com,udp,1195
 Germany 01 (UDP),de01.limevpn.com,udp,1195
 Europe 05 (UDP),185.107.96.23,udp,1195
-Europe 10 (UDP),eu10.limevpn.com,udp,1195,#CERT=eu10ca.crt
+Europe 10 (UDP),eu10.limevpn.com,udp,1195
 Europe 12 (UDP),eu12.limevpn.com,udp,1195
 India (UDP),in.limevpn.com,udp,1195
 India 2 (UDP),in2.limevpn.com,udp,1195

@@ -1,6 +1,5 @@
-1612705218
-400 5
+1612705557
+400 4
 LOCATIONS.txt
 TEMPLATE.txt
 ca.crt
-eu10ca.crt

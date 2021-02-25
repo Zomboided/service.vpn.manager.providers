@@ -1,25 +1,25 @@
-Australia 1 (UDP),aus1.limevpn.com,udp,1195
-Canada (UDP),de01.limevpn.com,udp,1195
-Germany 01 (UDP),de01.limevpn.com,udp,1195
-Europe 05 (UDP),185.107.96.23,udp,1195
-Europe 10 (UDP),eu10.limevpn.com,udp,1195
-Europe 12 (UDP),eu12.limevpn.com,udp,1195
-India (UDP),in.limevpn.com,udp,1195
-India 2 (UDP),in2.limevpn.com,udp,1195
-Japan (UDP),jp.limevpn.com,udp,1195
-Netherlands 2 (UDP),nl2.limevpn.com,udp,1195
-Singapore (UDP),ansible.limevpn.com,udp,1195
-Singapore 1 (UDP),sg1.limevpn.com,udp,1195
-Sweden 1 (UDP),sw1.limevpn.com,udp,1195
-United Kingdom 2 (UDP),uk2.limevpn.com,udp,1195
-United Kingdom 3 (UDP),uk3.limevpn.com,udp,1195
-United States 1 (UDP),us1.limevpn.com,udp,1195
-United States 11 (UDP),us11.limevpn.com,udp,1195
-United States 12 (UDP),us12.limevpn.com,udp,1195
-United States 2 (UDP),us2.limevpn.com,udp,1195
-United States 3 (UDP),us3.limevpn.com,udp,1195
-United States 4 (UDP),us4.limevpn.com,udp,1195
-United States 6 (UDP),us6.limevpn.com,udp,1195
-United States CH1 (UDP),74.91.119.191,udp,1195
-United States DA1 (UDP),74.91.114.67,udp,1195
-United States LA2 (UDP),162.248.93.224,udp,1195
+Australia 1 (UDP),aus1.limevpn.com,udp,1194
+Canada (UDP),de01.limevpn.com,udp,1194
+Germany 01 (UDP),de01.limevpn.com,udp,1194
+Europe 05 (UDP),185.107.96.23,udp,1194
+Europe 10 (UDP),eu10.limevpn.com,udp,1194
+Europe 12 (UDP),eu12.limevpn.com,udp,1194
+India (UDP),in.limevpn.com,udp,1194
+India 2 (UDP),in2.limevpn.com,udp,1194
+Japan (UDP),jp.limevpn.com,udp,1194
+Netherlands 2 (UDP),nl2.limevpn.com,udp,1194
+Singapore (UDP),ansible.limevpn.com,udp,1194
+Singapore 1 (UDP),sg1.limevpn.com,udp,1194
+Sweden 1 (UDP),sw1.limevpn.com,udp,1194
+United Kingdom 2 (UDP),uk2.limevpn.com,udp,1194
+United Kingdom 3 (UDP),uk3.limevpn.com,udp,1194
+United States 1 (UDP),us1.limevpn.com,udp,1194
+United States 11 (UDP),us11.limevpn.com,udp,1194
+United States 12 (UDP),us12.limevpn.com,udp,1194
+United States 2 (UDP),us2.limevpn.com,udp,1194
+United States 3 (UDP),us3.limevpn.com,udp,1194
+United States 4 (UDP),us4.limevpn.com,udp,1194
+United States 6 (UDP),us6.limevpn.com,udp,1194
+United States CH1 (UDP),74.91.119.191,udp,1194
+United States DA1 (UDP),74.91.114.67,udp,1194
+United States LA2 (UDP),162.248.93.224,udp,1194

@@ -5,9 +5,9 @@ remote #SERVER #PORT
 nobind
 auth-user-pass #PASS
 resolv-retry 30
+cipher AES-256-GCM
+ncp-ciphers AES-256-GCM:AES-256-CBC:AES-128-GCM
 auth SHA512
-cipher AES-256-CBC
-comp-lzo
 verb 2
 mute-replay-warnings
 remote-cert-tls server

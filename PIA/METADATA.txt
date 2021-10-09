@@ -1,6 +1,6 @@
 1603142312
 400 8
-DEPRECATED
+NOT_DEPRECATED
 LOCATIONS Default Encryption.txt
 LOCATIONS Strong Encryption.txt
 TEMPLATE.txt

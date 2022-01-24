@@ -17,3 +17,4 @@ verify-x509-name "*.hide.me" name
 tls-version-min 1.2
 ca #CERT
 tls-crypt #TLSKEY
+redirect-gateway def1

@@ -1,5 +1,7 @@
-1680712705
-400 4
+1680936575
+400 6
 LOCATIONS Giganews Account.txt
 LOCATIONS VyprVPN Default Encryption.txt
 LOCATIONS VyprVPN Strong Encryption.txt
+TEMPLATE.txt
+ca.crt

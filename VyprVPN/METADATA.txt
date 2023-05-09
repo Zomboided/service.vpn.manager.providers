@@ -1,5 +1,6 @@
 1680936575
 400 6
+DEPRECATED
 LOCATIONS Giganews Account.txt
 LOCATIONS VyprVPN Default Encryption.txt
 LOCATIONS VyprVPN Strong Encryption.txt
